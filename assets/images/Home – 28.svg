@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <filter id="Cirlce_Background" x="-32.5" y="225.5" width="477" height="472" filterUnits="userSpaceOnUse">
+      <feOffset dy="34" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="27.5" result="blur"/>
+      <feFlood flood-color="#282828" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Home_28">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="Home_28" data-name="Home – 28" clip-path="url(#clip-Home_28)">
+    <rect id="Rectangle_1978" data-name="Rectangle 1978" width="412" height="847" fill="#272727" opacity="0.6"/>
+    <g id="Group_3563" data-name="Group 3563" transform="translate(-1 -28)">
+      <g id="Big_Card" data-name="Big Card" transform="translate(51 302)">
+        <g transform="matrix(1, 0, 0, 1, -50, -274)" filter="url(#Cirlce_Background)">
+          <rect id="Cirlce_Background-2" data-name="Cirlce Background" width="312" height="307" rx="21" transform="translate(50 274)" fill="#fff"/>
+        </g>
+        <g id="Atoms_Divider_Default" data-name="Atoms/ Divider/ Default" transform="translate(21 94)" opacity="0.55">
+          <rect id="Components_Divider" data-name="Components/Divider" width="270" height="1" fill="#e0ecde" stroke="#2e5b9f" stroke-width="1"/>
+        </g>
+        <g id="Languages" transform="translate(67 17)">
+          <text id="Abatacept_100mg" data-name="Abatacept  100mg" transform="translate(14 6)" fill="#1e64cc" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="22" xml:space="preserve">Abatacept  100mg</tspan></text>
+          <g id="Group_3912" data-name="Group 3912">
+            <circle id="Ellipse_689" data-name="Ellipse 689" cx="24.5" cy="24.5" r="24.5" transform="translate(-46 8)" fill="#d2dff2"/>
+            <path id="Icon_awesome-pills" data-name="Icon awesome-pills" d="M3.609,0A3.607,3.607,0,0,0,0,3.609v7.217a3.609,3.609,0,1,0,7.217,0V3.609A3.607,3.607,0,0,0,3.609,0ZM5.155,7.217H2.062V3.609a1.547,1.547,0,1,1,3.093,0Z" transform="matrix(0.839, 0.545, -0.545, 0.839, -25.4, 17.184)" fill="#1e64cc"/>
+            <g id="Group_3552" data-name="Group 3552" transform="translate(-24.328 30.057)">
+              <g id="Ellipse_690" data-name="Ellipse 690" transform="translate(0 0)" fill="#1e64cc" stroke="#fff" stroke-width="1">
+                <ellipse cx="7.085" cy="7.085" rx="7.085" ry="7.085" stroke="none"/>
+                <ellipse cx="7.085" cy="7.085" rx="6.585" ry="6.585" fill="none"/>
+              </g>
+              <path id="Path_8467" data-name="Path 8467" d="M-23.5,32.114V44.606" transform="translate(30.585 -31.185)" fill="none" stroke="#fff" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_3077" data-name="Group 3077" transform="translate(29 234.613)">
+          <circle id="Ellipse_551" data-name="Ellipse 551" cx="23" cy="23" r="23" transform="translate(0 0.388)" fill="#dbecff" opacity="0.354"/>
+          <circle id="Ellipse_550" data-name="Ellipse 550" cx="21" cy="21" r="21" transform="translate(2 2.388)" fill="#dbecff" opacity="0.354"/>
+          <circle id="Ellipse_430" data-name="Ellipse 430" cx="19" cy="19" r="19" transform="translate(4 4.387)" fill="#fff"/>
+          <path id="Icon_awesome-play" data-name="Icon awesome-play" d="M12.659,6.406,2.16.2A1.424,1.424,0,0,0,0,1.43V13.842a1.431,1.431,0,0,0,2.16,1.232l10.5-6.2A1.43,1.43,0,0,0,12.659,6.406Z" transform="translate(17.499 15.224)" fill="#1e64cc"/>
+        </g>
+        <text id="Alexis_Balencesco" data-name="Alexis Balencesco" transform="translate(82 248)" fill="#2e5b9f" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="12">Pill Reminder by Dr. Gaurav</tspan></text>
+      </g>
+      <text id="Alexis_Balencesco-2" data-name="Alexis Balencesco" transform="translate(82 418)" fill="#8eb1e5" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="12">Dose</tspan></text>
+      <text id="Alexis_Balencesco-3" data-name="Alexis Balencesco" transform="translate(173 418)" fill="#2e5b9f" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="12">1 pill</tspan></text>
+      <text id="Alexis_Balencesco-4" data-name="Alexis Balencesco" transform="translate(173 458)" fill="#2e5b9f" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="12">10/20</tspan></text>
+      <text id="Alexis_Balencesco-5" data-name="Alexis Balencesco" transform="translate(173 498)" fill="#2e5b9f" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="12">10/21 days</tspan></text>
+      <text id="Alexis_Balencesco-6" data-name="Alexis Balencesco" transform="translate(137 361)" fill="#0e58c7" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="12">Prescribed by Dr. Gaurav</tspan></text>
+      <text id="Alexis_Balencesco-7" data-name="Alexis Balencesco" transform="translate(82 458)" fill="#8eb1e5" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="12">No of pills</tspan></text>
+      <text id="Alexis_Balencesco-8" data-name="Alexis Balencesco" transform="translate(82 498)" fill="#8eb1e5" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="12">No of days</tspan></text>
+    </g>
+  </g>
+</svg>

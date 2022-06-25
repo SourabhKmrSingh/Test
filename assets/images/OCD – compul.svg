@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aadd"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Rectangle_1714" data-name="Rectangle 1714" d="M0,0H412a0,0,0,0,1,0,0V158a20,20,0,0,1-20,20H20A20,20,0,0,1,0,158V0A0,0,0,0,1,0,0Z" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <filter id="Rectangle_1710" x="0" y="234" width="408" height="286" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-OCD_compul">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="OCD_compul" data-name="OCD – compul" clip-path="url(#clip-OCD_compul)">
+    <rect width="412" height="847" fill="#e9eff4"/>
+    <g id="Group_1500" data-name="Group 1500">
+      <path id="Rectangle_293" data-name="Rectangle 293" d="M0,0H412a0,0,0,0,1,0,0V158a20,20,0,0,1-20,20H20A20,20,0,0,1,0,158V0A0,0,0,0,1,0,0Z" fill="url(#linear-gradient)"/>
+      <g id="Mask_Group_5" data-name="Mask Group 5" opacity="0.837" clip-path="url(#clip-path)">
+        <circle id="Ellipse_554" data-name="Ellipse 554" cx="146" cy="146" r="146" transform="translate(184 3)" fill="url(#linear-gradient)"/>
+      </g>
+      <text id="Session_1_Assessment_-_Compulsions" data-name="Session 1
+Assessment - Compulsions" transform="translate(29 24)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Session 1</tspan><tspan font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="49">Assessment - Compulsions</tspan></tspan></text>
+      <text id="Cleaning_washing_Compulsions_1_3" data-name="Cleaning / washing Compulsions 1/3" transform="translate(29 111)" fill="#fff" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="16">Cleaning / washing Compulsions 1/3</tspan></text>
+      <g id="Group_3076" data-name="Group 3076" transform="translate(-37.007 -236)">
+        <rect id="Rectangle_1708" data-name="Rectangle 1708" width="349" height="5" rx="2.5" transform="translate(66.007 391)" fill="#dce9f5"/>
+        <rect id="Rectangle_1709" data-name="Rectangle 1709" width="57" height="5" rx="2.5" transform="translate(66.007 391)" fill="#deb428"/>
+      </g>
+    </g>
+    <g id="Group_3078" data-name="Group 3078" transform="translate(-7410 -9959)">
+      <g transform="matrix(1, 0, 0, 1, 7410, 9959)" filter="url(#Rectangle_1710)">
+        <rect id="Rectangle_1710-2" data-name="Rectangle 1710" width="372" height="250" rx="20" transform="translate(18 249)" fill="#f5fbff"/>
+      </g>
+      <text id="Collecting_un-necessary_things_of_no_emotional_monetary_or_sentimental_value._Examples:_worries_about_throwing_out_seemingly_unimportant_things_resulting_in_accumulation_of_possessions_that_fill_up_or_clutter_active_living_areas_or_the_workplace_." data-name="Collecting un-necessary things of no emotional, monetary or sentimental value.
+(Examples: worries about throwing out seemingly unimportant things, resulting in accumulation of possessions that fill up or clutter active living areas or the workplace)." transform="translate(7501 10227)" fill="#5f789d" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Collecting un-necessary things of no </tspan><tspan x="0" y="39">emotional, monetary or sentimental </tspan><tspan x="0" y="64">value.</tspan><tspan x="0" y="89">(Examples: worries about throwing out </tspan><tspan x="0" y="114">seemingly unimportant things, resulting </tspan><tspan x="0" y="139">in accumulation of possessions that fill </tspan><tspan x="0" y="164">up or clutter active living areas or the </tspan><tspan x="0" y="189">workplace).</tspan></text>
+      <g id="Group_3077" data-name="Group 3077" transform="translate(7593 10434.701)">
+        <circle id="Ellipse_551" data-name="Ellipse 551" cx="23" cy="23" r="23" transform="translate(0 0.299)" fill="#dbecff" opacity="0.354"/>
+        <circle id="Ellipse_550" data-name="Ellipse 550" cx="21" cy="21" r="21" transform="translate(2 2.299)" fill="#dbecff" opacity="0.354"/>
+        <circle id="Ellipse_430" data-name="Ellipse 430" cx="19" cy="19" r="19" transform="translate(4 4.299)" fill="#fff"/>
+        <path id="Icon_awesome-play" data-name="Icon awesome-play" d="M12.659,6.406,2.16.2A1.424,1.424,0,0,0,0,1.43V13.842a1.431,1.431,0,0,0,2.16,1.232l10.5-6.2A1.43,1.43,0,0,0,12.659,6.406Z" transform="translate(17.499 15.395)" fill="#0e58c7"/>
+      </g>
+      <g id="Rectangle_1711" data-name="Rectangle 1711" transform="translate(7450 10228)" fill="none" stroke="#0e58c7" stroke-width="2">
+        <rect width="35" height="35" rx="7" stroke="none"/>
+        <rect x="1" y="1" width="33" height="33" rx="6" fill="none"/>
+      </g>
+    </g>
+    <text id="Please_select_your_obsession" data-name="Please select your obsession" transform="translate(21 212)" fill="#5f789d" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Please select your obsession</tspan></text>
+    <g id="Group_3234" data-name="Group 3234" transform="translate(-4.848 -10)">
+      <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M15.217,17.7,23.926,9A1.645,1.645,0,1,0,21.6,6.674l-9.867,9.86a1.642,1.642,0,0,0-.048,2.268l9.908,9.929a1.645,1.645,0,0,0,2.33-2.323Z" transform="translate(362.579 30.069)" fill="#fff"/>
+      <path id="Icon_ionic-ios-arrow-back-2" data-name="Icon ionic-ios-arrow-back" d="M3.967,11.506l8.709-8.7A1.645,1.645,0,1,0,10.346.481L.479,10.341a1.642,1.642,0,0,0-.048,2.268l9.908,9.929a1.645,1.645,0,1,0,2.33-2.323Z" transform="translate(377.472 59.28) rotate(180)" fill="#fff"/>
+    </g>
+    <g id="Component_120_40" data-name="Component 120 – 40" transform="translate(0 780)">
+      <rect id="Rectangle_1927" data-name="Rectangle 1927" width="412" height="67" fill="#edf4fd"/>
+      <g id="Group_3224" data-name="Group 3224" transform="translate(-13.471 6.262)">
+        <g id="Group_3212" data-name="Group 3212" transform="translate(34.47 14.737)">
+          <text id="Back" transform="translate(19.06 18)" fill="#102646" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Back</tspan></text>
+          <path id="Icon_ionic-ios-arrow-back-3" data-name="Icon ionic-ios-arrow-back" d="M14.033,14.264l6.109-6.1a1.154,1.154,0,0,0-1.634-1.629l-6.921,6.916a1.152,1.152,0,0,0-.034,1.591L18.5,22a1.154,1.154,0,1,0,1.634-1.629Z" transform="translate(-11.251 -3.193)" fill="#102646"/>
+        </g>
+      </g>
+      <g id="Group_3096" data-name="Group 3096" transform="translate(-14 -999)">
+        <text id="Submit" transform="translate(405 1038)" fill="#102646" font-size="20" font-family="ArialMT, Arial"><tspan x="-62.246" y="0">Submit</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aadd"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect width="335" height="86" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Login_screen_5">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="Login_screen_5" data-name="Login screen – 5" clip-path="url(#clip-Login_screen_5)">
+    <rect width="412" height="847" fill="url(#linear-gradient)"/>
+    <path id="Path_1555" data-name="Path 1555" d="M757.263,511.759h-477.1s-64.724-63.414-23.546-138.022,96.483-37.089,93.805-123.925,127.192-94.3,168.531-69.12,41.09,55.505,126.427,45.471S747.021,299.77,724.819,342.4a55.382,55.382,0,0,0-3.519,8.2c-.171.51-.326,1.014-.471,1.512C706.275,402.16,819.727,408.83,757.263,511.759Z" transform="translate(-330.529 343.024)" fill="#ebf3fa" opacity="0.06"/>
+    <text id="Please_Enter_email_address_to_get_reset_link" data-name="Please Enter  email address
+to get reset link" transform="translate(39 80)" fill="#fff" font-size="26" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0" xml:space="preserve">Please Enter  email address</tspan><tspan x="0" y="39">to get reset link</tspan></text>
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(39 358)" clip-path="url(#clip-path)">
+      <g transform="translate(-39 -317)">
+        <g id="text_Field" data-name="text Field" transform="translate(39 319)">
+          <g id="Group_1192" data-name="Group 1192" transform="translate(0 -1)">
+            <text id="Email_Address" data-name="Email Address" transform="translate(0 17)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Email Address</tspan></text>
+          </g>
+          <g id="Hover_label" transform="translate(0 30)">
+            <rect id="Rectangle_175" data-name="Rectangle 175" width="335" height="50" rx="10" fill="#fff"/>
+            <text id="Enter_First_name" data-name="Enter First name" transform="translate(16 30)" fill="#cecfd0" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Enter First name</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="btn_login" transform="translate(-959 -128)">
+      <rect id="Rectangle_166" data-name="Rectangle 166" width="332" height="45" rx="10" transform="translate(1001 606)" fill="#ff9241"/>
+      <text id="Send_Code" data-name="Send Code" transform="translate(1168 635)" fill="#fff" font-size="18" font-family="ArialMT, Arial"><tspan x="-45.035" y="0">Send Code</tspan></text>
+    </g>
+    <text id="Already_have_an_account_Sign_In" data-name="Already have an account ? Sign In" transform="translate(206 788)" fill="#fff" font-size="13" font-family="ArialMT, Arial"><tspan x="-103.681" y="0">Already have an account ? </tspan><tspan y="0" font-size="16" text-decoration="underline">Sign In</tspan></text>
+  </g>
+</svg>

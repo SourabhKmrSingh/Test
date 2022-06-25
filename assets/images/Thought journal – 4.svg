@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <filter id="Rectangle_1534" x="-9" y="775" width="430" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Thought_journal_4">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="Thought_journal_4" data-name="Thought journal – 4" clip-path="url(#clip-Thought_journal_4)">
+    <rect width="412" height="847" fill="#e9eff4"/>
+    <rect id="Rectangle_1853" data-name="Rectangle 1853" width="412" height="673" rx="10" transform="translate(0 174)" fill="#edf4fd" opacity="0.9"/>
+    <text id="Write_your_journal_...." data-name="Write your journal…...." transform="translate(33 239)" fill="#2e5b9f" font-size="18" font-family="ArialMT, Arial" opacity="0.6"><tspan x="0" y="16">Write your journal…....</tspan></text>
+    <path id="Rectangle_1852" data-name="Rectangle 1852" d="M10,0H402a10,10,0,0,1,10,10V49a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(0 174)" fill="#102646"/>
+    <g id="Group_3402" data-name="Group 3402">
+      <path id="Icon_material-format-align-center" data-name="Icon material-format-align-center" d="M8.774,17.323V19.46H19.46V17.323ZM4.5,23.734H23.734V21.6H4.5Zm0-8.548H23.734V13.048H4.5ZM8.774,8.774v2.137H19.46V8.774ZM4.5,4.5V6.637H23.734V4.5Z" transform="translate(44.349 184.5)" fill="#8eb1e5"/>
+      <path id="Icon_material-format-align-justify" data-name="Icon material-format-align-justify" d="M4.5,23.734H23.734V21.6H4.5Zm0-4.274H23.734V17.323H4.5Zm0-4.274H23.734V13.048H4.5Zm0-4.274H23.734V8.774H4.5ZM4.5,4.5V6.637H23.734V4.5Z" transform="translate(93.349 184.5)" fill="#8eb1e5"/>
+      <path id="Icon_material-format-align-left" data-name="Icon material-format-align-left" d="M17.323,17.323H4.5V19.46H17.323Zm0-8.548H4.5v2.137H17.323ZM4.5,15.185H23.734V13.048H4.5Zm0,8.548H23.734V21.6H4.5ZM4.5,4.5V6.637H23.734V4.5Z" transform="translate(142.349 184.5)" fill="#8eb1e5"/>
+      <path id="Icon_material-format-bold" data-name="Icon material-format-bold" d="M19.689,13.255a3.89,3.89,0,0,0,1.763-2.981A4.213,4.213,0,0,0,17.178,6H10.5V20.96h7.523a4.052,4.052,0,0,0,1.667-7.7ZM13.706,8.671h3.206a1.6,1.6,0,1,1,0,3.206H13.706Zm3.74,9.617h-3.74V15.083h3.74a1.6,1.6,0,1,1,0,3.206Z" transform="translate(185.349 185)" fill="#8eb1e5"/>
+      <g id="Icon_material-format-color-fill" data-name="Icon material-format-color-fill" transform="translate(237.849 186)">
+        <path id="Path_6733" data-name="Path 6733" d="M18.988,9.553,9.436,0,7.929,1.507,10.472,4.05l-5.5,5.5a1.593,1.593,0,0,0,0,2.265L10.846,17.7a1.6,1.6,0,0,0,2.265,0l5.877-5.877A1.593,1.593,0,0,0,18.988,9.553ZM6.86,10.685l5.118-5.118L17.1,10.685Zm14.735,1.6s-2.137,2.319-2.137,3.74a2.137,2.137,0,0,0,4.274,0C23.733,14.607,21.6,12.288,21.6,12.288Z" transform="translate(-1.293 0)" fill="#8eb1e5"/>
+        <path id="Path_6734" data-name="Path 6734" d="M0,30H25.645v4.274H0Z" transform="translate(0 -8.629)" fill="#8eb1e5"/>
+      </g>
+      <path id="Icon_material-format-list-bulleted" data-name="Icon material-format-list-bulleted" d="M5.353,13.161a1.6,1.6,0,1,0,1.6,1.6A1.6,1.6,0,0,0,5.353,13.161Zm0-6.411a1.6,1.6,0,1,0,1.6,1.6A1.6,1.6,0,0,0,5.353,6.75Zm0,12.823a1.6,1.6,0,1,0,1.6,1.6A1.608,1.608,0,0,0,5.353,19.573Zm3.206,2.671h14.96V20.107H8.558Zm0-6.411h14.96V13.7H8.558Zm0-8.548V9.421h14.96V7.284Z" transform="translate(289.099 183.25)" fill="#8eb1e5"/>
+      <path id="Icon_material-format-list-numbered" data-name="Icon material-format-list-numbered" d="M3,19.891H5.137v.534H4.069v1.069H5.137v.534H3V23.1H6.206V18.823H3Zm1.069-9.617H5.137V6H3V7.069H4.069ZM3,13.48H4.923L3,15.724v.962H6.206V15.617H4.282l1.923-2.244v-.962H3ZM8.343,7.069V9.206H23.3V7.069Zm0,14.96H23.3V19.891H8.343Zm0-6.411H23.3V13.48H8.343Z" transform="translate(339.849 184)" fill="#8eb1e5"/>
+    </g>
+    <rect id="Rectangle_1855" data-name="Rectangle 1855" width="412" height="174" fill="#f4f9fa" opacity="0.8"/>
+    <text id="_14th_nov_2021" data-name="14th nov 2021" transform="translate(44 133)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">14th nov 2021</tspan></text>
+    <g id="Group_3404" data-name="Group 3404">
+      <text id="Title" transform="translate(23 61.5)" fill="#2e5b9f" font-size="24" font-family="ArialMT, Arial"><tspan x="0" y="22">Title</tspan></text>
+      <path id="Path_6737" data-name="Path 6737" d="M-15313-8140.192h220" transform="translate(15336 8235.5)" fill="none" stroke="#2e5b9f" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <path id="Icon_material-date-range" data-name="Icon material-date-range" d="M9.75,10.875H8v1.75H9.75Zm3.5,0H11.5v1.75h1.75Zm3.5,0H15v1.75h1.75ZM18.5,4.75h-.875V3h-1.75V4.75h-7V3H7.125V4.75H6.25A1.742,1.742,0,0,0,4.509,6.5L4.5,18.75A1.75,1.75,0,0,0,6.25,20.5H18.5a1.755,1.755,0,0,0,1.75-1.75V6.5A1.755,1.755,0,0,0,18.5,4.75Zm0,14H6.25V9.125H18.5Z" transform="translate(18.5 116)" fill="#2e5b9f"/>
+    <g id="Component_119_69" data-name="Component 119 – 69" transform="translate(0 787)">
+      <g transform="matrix(1, 0, 0, 1, 0, -787)" filter="url(#Rectangle_1534)">
+        <rect id="Rectangle_1534-2" data-name="Rectangle 1534" width="412" height="60" transform="translate(0 787)" fill="#f4f9fa"/>
+      </g>
+      <g id="Group_2755" data-name="Group 2755" transform="translate(0 -779)">
+        <g id="Rectangle_1564" data-name="Rectangle 1564" transform="translate(12 789)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+          <rect width="50" height="45" stroke="none"/>
+          <rect x="0.5" y="0.5" width="49" height="44" fill="none"/>
+        </g>
+        <path id="Path_4565" data-name="Path 4565" d="M35.606,24.011l-7.368-7.1,7.368-7.1a1.37,1.37,0,0,0,.424-.982,1.4,1.4,0,0,0-.4-1,1.369,1.369,0,0,0-.982-.424h-.022a1.385,1.385,0,0,0-.982.4l-8.417,8.1a1.42,1.42,0,0,0-.424,1,1.382,1.382,0,0,0,.424,1l8.439,8.1a1.443,1.443,0,0,0,.982.4,1.42,1.42,0,0,0,1-.424,1.4,1.4,0,0,0,.4-1A1.274,1.274,0,0,0,35.606,24.011Z" transform="translate(5.036 792.435)" fill="#2e5b9f"/>
+      </g>
+    </g>
+    <g id="Group_3403" data-name="Group 3403" transform="translate(-9.511 -69)">
+      <text id="Save" transform="translate(352.51 106)" fill="#2e5b9f" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Save</tspan></text>
+      <path id="Icon_awesome-save" data-name="Icon awesome-save" d="M13.99,5.408l-2.7-2.7a1.548,1.548,0,0,0-1.094-.453H1.548A1.548,1.548,0,0,0,0,3.8V15.146a1.548,1.548,0,0,0,1.548,1.548H12.9a1.548,1.548,0,0,0,1.548-1.548V6.5a1.548,1.548,0,0,0-.453-1.094ZM7.222,14.63a2.063,2.063,0,1,1,2.063-2.063A2.063,2.063,0,0,1,7.222,14.63Zm3.1-9.818V8.053a.387.387,0,0,1-.387.387H2.45a.387.387,0,0,1-.387-.387V4.7a.387.387,0,0,1,.387-.387H9.818a.387.387,0,0,1,.274.113l.112.112A.387.387,0,0,1,10.317,4.812Z" transform="translate(330.337 90.312)" fill="#254069"/>
+    </g>
+    <text id="Thought_Journal" data-name="Thought Journal" transform="translate(23 19.5)" fill="#2e5b9f" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="16">Thought Journal</tspan></text>
+  </g>
+</svg>

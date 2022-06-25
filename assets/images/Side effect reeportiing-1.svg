@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="1591" viewBox="0 0 412 1591">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4b8ceb"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect width="416" height="293" fill="none"/>
+    </clipPath>
+    <filter id="bg" x="-4" y="305" width="421" height="128" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="bg-2" x="-4" y="403" width="421" height="128" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-2"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="bg-3" x="-4" y="501" width="421" height="128" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-3"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1534" x="-9" y="775" width="430" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_7" x="-3" y="165.036" width="417.41" height="95.559" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-5"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Side_effect_reeportiing-1">
+      <rect width="412" height="1591"/>
+    </clipPath>
+  </defs>
+  <g id="Side_effect_reeportiing-1" data-name="Side effect reeportiing-1" clip-path="url(#clip-Side_effect_reeportiing-1)">
+    <rect width="412" height="1591" fill="#e9eff4"/>
+    <text id="Overview" transform="translate(21 150)" fill="#1e64cc" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="16">Overview</tspan></text>
+    <text id="Reported_side_effects" data-name="Reported side effects" transform="translate(21 287)" fill="#1e64cc" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="16">Reported side effects</tspan></text>
+    <g id="Group_1500" data-name="Group 1500" transform="translate(0 -5)">
+      <text id="Side_Effects_Reporting" data-name="Side Effects Reporting" transform="translate(23 29)" fill="#1e64cc" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="22">Side Effects </tspan><tspan x="0" y="53">Reporting</tspan></text>
+      <g id="Group_2650" data-name="Group 2650" transform="translate(322.479 29)">
+        <g id="Icon_ionic-ios-notifications" data-name="Icon ionic-ios-notifications" transform="translate(11 3)">
+          <circle id="Ellipse_746" data-name="Ellipse 746" cx="23" cy="23" r="23" transform="translate(-0.478 11)" fill="#fff"/>
+          <path id="Path_9493" data-name="Path 9493" d="M18.8,32.954c2.71,0,4.191-1.917,4.191-4.618H14.6C14.6,31.037,16.085,32.954,18.8,32.954Z" transform="translate(4.722 17.933)" fill="#ff9241"/>
+          <path id="Path_9494" data-name="Path 9494" d="M34.279,29.746C32.938,27.977,30.3,26.941,30.3,19.021c0-8.129-3.59-11.4-6.935-12.18-.314-.078-.54-.183-.54-.514V6.074a2.126,2.126,0,1,0-4.252,0v.253c0,.322-.227.436-.54.514-3.354.793-6.935,4.051-6.935,12.18,0,7.92-2.64,8.948-3.982,10.725A1.729,1.729,0,0,0,8.5,32.517H32.9A1.73,1.73,0,0,0,34.279,29.746Z" transform="translate(2.846 12.097)" fill="url(#linear-gradient)"/>
+          <circle id="Ellipse_747" data-name="Ellipse 747" cx="12" cy="12" r="12" transform="translate(30.522)" fill="#ff9241"/>
+          <text id="_1" data-name="1" transform="translate(38.521 18)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">1</tspan></text>
+        </g>
+      </g>
+    </g>
+    <path id="Path_4578" data-name="Path 4578" d="M-1789,6345.073h372" transform="translate(1810 -6222)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+    <path id="Path_4599" data-name="Path 4599" d="M-1789,6345.073h372" transform="translate(1810 -6084.551)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+    <g id="card" transform="translate(-4 323)" clip-path="url(#clip-path)">
+      <g id="card-2" data-name="card" transform="translate(-27 -162)">
+        <g transform="matrix(1, 0, 0, 1, 31, -161)" filter="url(#bg)">
+          <rect id="bg-4" data-name="bg" width="373" height="80" rx="12" transform="translate(20 325)" fill="#f0f6fa"/>
+        </g>
+        <g id="Group_2225" data-name="Group 2225" transform="translate(70.356 182.794)">
+          <text id="Abatacept_100mg" data-name="Abatacept  100mg" transform="translate(15.645 12.206)" fill="#2e5b9f" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0" xml:space="preserve">Abatacept  100mg</tspan></text>
+          <text id="Reported_on_12_02_2021" data-name="Reported on 12/02/2021" transform="translate(15.645 42.206)" fill="#1e64cc" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Reported on 12/02/2021</tspan></text>
+          <path id="Icon_awesome-pills" data-name="Icon awesome-pills" d="M2.369,0A2.368,2.368,0,0,0,0,2.369V7.106a2.369,2.369,0,1,0,4.738,0V2.369A2.368,2.368,0,0,0,2.369,0ZM3.384,4.738H1.354V2.369a1.015,1.015,0,1,1,2.03,0Z" transform="matrix(0.839, 0.545, -0.545, 0.839, 5.16, 0)" fill="#2e5b9f"/>
+        </g>
+      </g>
+      <g id="card-3" data-name="card" transform="translate(-27 -64)">
+        <g transform="matrix(1, 0, 0, 1, 31, -259)" filter="url(#bg-2)">
+          <rect id="bg-5" data-name="bg" width="373" height="80" rx="12" transform="translate(20 423)" fill="#f0f6fa"/>
+        </g>
+        <g id="Group_2225-2" data-name="Group 2225" transform="translate(70.356 182.794)">
+          <text id="Abatacept_100mg-2" data-name="Abatacept  100mg" transform="translate(15.645 12.206)" fill="#2e5b9f" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0" xml:space="preserve">Abatacept  100mg</tspan></text>
+          <text id="Reported_on_12_02_2021-2" data-name="Reported on 12/02/2021" transform="translate(15.645 42.206)" fill="#1e64cc" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Reported on 12/02/2021</tspan></text>
+          <path id="Icon_awesome-pills-2" data-name="Icon awesome-pills" d="M2.369,0A2.368,2.368,0,0,0,0,2.369V7.106a2.369,2.369,0,1,0,4.738,0V2.369A2.368,2.368,0,0,0,2.369,0ZM3.384,4.738H1.354V2.369a1.015,1.015,0,1,1,2.03,0Z" transform="matrix(0.839, 0.545, -0.545, 0.839, 5.16, 0)" fill="#2e5b9f"/>
+        </g>
+      </g>
+      <g id="card-4" data-name="card" transform="translate(-27 34)">
+        <g transform="matrix(1, 0, 0, 1, 31, -357)" filter="url(#bg-3)">
+          <rect id="bg-6" data-name="bg" width="373" height="80" rx="12" transform="translate(20 521)" fill="#f0f6fa"/>
+        </g>
+        <g id="Group_2225-3" data-name="Group 2225" transform="translate(70.356 182.794)">
+          <text id="Abatacept_100mg-3" data-name="Abatacept  100mg" transform="translate(15.645 12.206)" fill="#2e5b9f" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0" xml:space="preserve">Abatacept  100mg</tspan></text>
+          <text id="Reported_on_12_02_2021-3" data-name="Reported on 12/02/2021" transform="translate(15.645 42.206)" fill="#1e64cc" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Reported on 12/02/2021</tspan></text>
+          <path id="Icon_awesome-pills-3" data-name="Icon awesome-pills" d="M2.369,0A2.368,2.368,0,0,0,0,2.369V7.106a2.369,2.369,0,1,0,4.738,0V2.369A2.368,2.368,0,0,0,2.369,0ZM3.384,4.738H1.354V2.369a1.015,1.015,0,1,1,2.03,0Z" transform="matrix(0.839, 0.545, -0.545, 0.839, 5.16, 0)" fill="#2e5b9f"/>
+        </g>
+      </g>
+    </g>
+    <g id="Component_119_119" data-name="Component 119 – 119" transform="translate(0 787)">
+      <g transform="matrix(1, 0, 0, 1, 0, -787)" filter="url(#Rectangle_1534)">
+        <rect id="Rectangle_1534-2" data-name="Rectangle 1534" width="412" height="60" transform="translate(0 787)" fill="#102646"/>
+      </g>
+      <g id="Group_2755" data-name="Group 2755" transform="translate(0 -779)">
+        <g id="Rectangle_1564" data-name="Rectangle 1564" transform="translate(12 789)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+          <rect width="50" height="45" stroke="none"/>
+          <rect x="0.5" y="0.5" width="49" height="44" fill="none"/>
+        </g>
+        <path id="Path_4565" data-name="Path 4565" d="M35.606,24.011l-7.368-7.1,7.368-7.1a1.37,1.37,0,0,0,.424-.982,1.4,1.4,0,0,0-.4-1,1.369,1.369,0,0,0-.982-.424h-.022a1.385,1.385,0,0,0-.982.4l-8.417,8.1a1.42,1.42,0,0,0-.424,1,1.382,1.382,0,0,0,.424,1l8.439,8.1a1.443,1.443,0,0,0,.982.4,1.42,1.42,0,0,0,1-.424,1.4,1.4,0,0,0,.4-1A1.274,1.274,0,0,0,35.606,24.011Z" transform="translate(5.036 792.435)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Search" transform="translate(21 186.036)">
+      <g transform="matrix(1, 0, 0, 1, -21, -186.04)" filter="url(#Path_7)">
+        <path id="Path_7-2" data-name="Path 7" d="M8.848,5H360.562a8.848,8.848,0,0,1,8.848,8.848V43.71a8.848,8.848,0,0,1-8.848,8.848H8.848A8.848,8.848,0,0,1,0,43.71V13.848A8.848,8.848,0,0,1,8.848,5Z" transform="translate(21 181.04)" fill="#ff9241"/>
+      </g>
+      <text id="Report_Side_effects" data-name="Report Side effects" transform="translate(112 11.964)" fill="#fff" font-size="16" font-family="Lato-Regular, Lato"><tspan x="18.448" y="16">Report Side effects</tspan></text>
+      <path id="Icon_ionic-md-hand" data-name="Icon ionic-md-hand" d="M21.944,13.369a1.6,1.6,0,0,0-2.331-.06l-1.919,1.918a.946.946,0,0,1-1.453.085c-.233-.275-.141-1.122-.076-1.66l.963-7.912a1.29,1.29,0,1,0-2.561-.311L13.5,11.643c-.055.155-.174.181-.188-.027l-.361-8.077a1.29,1.29,0,0,0-2.58,0l-.025,8.138c.007.094-.074.121-.088.014L9.115,5.338A1.29,1.29,0,1,0,6.576,5.8L7.6,13.23c0,.132-.043.208-.106.038L5.967,9.193A1.312,1.312,0,0,0,4.32,8.369a1.333,1.333,0,0,0-.784,1.686l2.672,8.73c.014.048.029.1.044.144l.006.018,0,0a5.685,5.685,0,0,0,5.406,3.924,7.692,7.692,0,0,0,4.574-1.55h0c1.381-.831,5.8-5.587,5.8-5.587A1.649,1.649,0,0,0,21.944,13.369Z" transform="translate(97.04 10.188)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

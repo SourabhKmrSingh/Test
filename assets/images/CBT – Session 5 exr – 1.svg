@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="1166" viewBox="0 0 412 1166">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aadd"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <filter id="Rectangle_1570" x="-24" y="84" width="460" height="1758" filterUnits="userSpaceOnUse">
+      <feOffset dy="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect y="-5" width="373" height="697" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-CBT_Session_5_exr_1">
+      <rect width="412" height="1166"/>
+    </clipPath>
+  </defs>
+  <g id="CBT_Session_5_exr_1" data-name="CBT – Session 5 exr – 1" clip-path="url(#clip-CBT_Session_5_exr_1)">
+    <rect width="412" height="1166" fill="url(#linear-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1570)">
+      <path id="Rectangle_1570-2" data-name="Rectangle 1570" d="M30,0H382a30,30,0,0,1,30,30V1710a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V30A30,30,0,0,1,30,0Z" transform="translate(0 111)" fill="#102646"/>
+    </g>
+    <g id="Group_3234" data-name="Group 3234" transform="translate(3.012 -10.262)">
+      <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M15.217,17.7,23.926,9A1.645,1.645,0,1,0,21.6,6.674l-9.867,9.86a1.642,1.642,0,0,0-.048,2.268l9.908,9.929a1.645,1.645,0,0,0,2.33-2.323Z" transform="translate(362.579 30.069)" fill="#fff"/>
+      <path id="Icon_ionic-ios-arrow-back-2" data-name="Icon ionic-ios-arrow-back" d="M3.967,11.506l8.709-8.7A1.645,1.645,0,1,0,10.346.481L.479,10.341a1.642,1.642,0,0,0-.048,2.268l9.908,9.929a1.645,1.645,0,1,0,2.33-2.323Z" transform="translate(377.472 59.28) rotate(180)" fill="#fff"/>
+    </g>
+    <g id="Scroll_Group_14" data-name="Scroll Group 14" transform="translate(20 143)" clip-path="url(#clip-path)" style="isolation: isolate">
+      <g id="Group_3653" data-name="Group 3653" transform="translate(0 -1016)">
+        <g id="Group_3594" data-name="Group 3594">
+          <rect id="Rectangle_1844" data-name="Rectangle 1844" width="236" height="51" rx="6" fill="#edf4fd"/>
+          <text id="Describe_about_the_event" data-name="Describe about the event" transform="translate(22 14)" fill="#2e5b9f" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Describe about the event</tspan></text>
+        </g>
+        <g id="Group_3595" data-name="Group 3595" transform="translate(0 190)">
+          <rect id="Rectangle_1844-2" data-name="Rectangle 1844" width="340" height="51" rx="6" fill="#edf4fd"/>
+          <text id="What_you_are_bothered_by_this_incident" data-name="What you are bothered by this incident" transform="translate(22 14)" fill="#2e5b9f" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">What you are bothered by this incident</tspan></text>
+        </g>
+        <g id="Group_3654" data-name="Group 3654" transform="translate(0 1519)">
+          <rect id="Rectangle_1844-3" data-name="Rectangle 1844" width="373" height="209" rx="6" fill="#edf4fd"/>
+          <rect id="Rectangle_2136" data-name="Rectangle 2136" width="373" height="194" rx="6" transform="translate(0 249)" fill="#edf4fd"/>
+          <text id="Now_you_found_your_Core_Belief_Whats_next_" data-name="Now you found your Core Belief, Whats next?" transform="translate(18 14)" fill="#2e5b9f" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Now you found your Core Belief, Whats </tspan><tspan x="0" y="37">next?</tspan></text>
+          <text id="Do_you_want_to_add_this_exercise_to_do_list" data-name="Do you want to add this exercise to do list" transform="translate(18 263)" fill="#2e5b9f" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Do you want to add this exercise to do list</tspan></text>
+          <text id="Examine_your_core_belief" data-name="Examine your core belief" transform="translate(18 80)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Examine your core belief</tspan></text>
+          <text id="Yes" transform="translate(18 318)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Yes</tspan></text>
+          <text id="End_this_Session" data-name="End this Session" transform="translate(18 164)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">End this Session</tspan></text>
+          <text id="No" transform="translate(18 402)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">No</tspan></text>
+          <text id="Or" transform="translate(18 122)" fill="#2e5b9f" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Or</tspan></text>
+          <text id="Or-2" data-name="Or" transform="translate(18 360)" fill="#2e5b9f" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Or</tspan></text>
+          <path id="Path_8477" data-name="Path 8477" d="M1053,4508.186h292.177" transform="translate(-991.341 -4376.186)" fill="none" stroke="#8eb1e5" stroke-width="1"/>
+          <path id="Path_9491" data-name="Path 9491" d="M1053,4508.186h292.177" transform="translate(-991.341 -4134.186)" fill="none" stroke="#8eb1e5" stroke-width="1"/>
+          <path id="Path_9492" data-name="Path 9492" d="M1053,4508.186h292.177" transform="translate(-987.341 -4047.186)" fill="none" stroke="#fff" stroke-width="2" opacity="0"/>
+        </g>
+        <g id="Group_3596" data-name="Group 3596" transform="translate(0 367)">
+          <rect id="Rectangle_1844-4" data-name="Rectangle 1844" width="319" height="51" rx="6" fill="#edf4fd"/>
+          <text id="Okay_So_what_" data-name="Okay So what ?" transform="translate(22 14)" fill="#2e5b9f" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Okay So what ?</tspan></text>
+        </g>
+        <text id="Social_Marital_Familial_problems_in_detail_example_poor_relation_with_spouse_children_etc_" data-name="Social/Marital/Familial problems in detail (example poor relation with spouse, children etc)" transform="translate(44 91)" fill="#d2dff2" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Social/Marital/Familial problems in detail </tspan><tspan x="0" y="32">(example poor relation with spouse, children </tspan><tspan x="0" y="50">etc)</tspan></text>
+        <text id="Social_Marital_Familial_problems_in_detail_example_poor_relation_with_spouse_children_etc_2" data-name="Social/Marital/Familial problems in detail (example poor relation with spouse, children etc)" transform="translate(44 281)" fill="#d2dff2" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Social/Marital/Familial problems in detail </tspan><tspan x="0" y="32">(example poor relation with spouse, children </tspan></text>
+        <text id="Social_Marital_Familial_problems_in_detail_example_poor_relation_with_spouse_children_etc_3" data-name="Social/Marital/Familial problems in detail (example poor relation with spouse, children etc)" transform="translate(44 458)" fill="#d2dff2" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Social/Marital/Familial problems in detail </tspan><tspan x="0" y="32">(example poor relation with spouse, children </tspan></text>
+        <g id="Group_3597" data-name="Group 3597" transform="translate(0 696)">
+          <rect id="Rectangle_1844-5" data-name="Rectangle 1844" width="373" height="250" rx="6" fill="#edf4fd"/>
+          <text id="Helpless_Core_Beliefs" data-name="Helpless Core Beliefs" transform="translate(18 67)" fill="#ff9241" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Helpless Core Beliefs</tspan></text>
+          <text id="Helpless_Core_Beliefs-2" data-name="Helpless Core Beliefs" transform="translate(18 19)" fill="#2e5b9f" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Helpless Core Beliefs</tspan></text>
+          <text id="Unlovable_Core_Beliefs" data-name="Unlovable Core Beliefs" transform="translate(18 139)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Unlovable Core Beliefs</tspan></text>
+          <text id="Worthless_Core_Beliefs" data-name="Worthless Core Beliefs" transform="translate(18 211)" fill="#d2dff2" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Worthless Core Beliefs</tspan></text>
+          <path id="Path_8477-2" data-name="Path 8477" d="M1053,4508.186h349.836" transform="translate(-1035 -4393.686)" fill="none" stroke="#fff" stroke-width="2" opacity="0.206"/>
+          <path id="Path_8478" data-name="Path 8478" d="M1053,4508.186h349.836" transform="translate(-1035 -4321.686)" fill="none" stroke="#fff" stroke-width="2" opacity="0.206"/>
+        </g>
+        <g id="Group_3597-2" data-name="Group 3597" transform="translate(0 544)">
+          <rect id="Rectangle_1844-6" data-name="Rectangle 1844" width="373" height="112" rx="6" fill="#edf4fd"/>
+          <text id="Is_there_any_core_belief_in_your_thinking_" data-name="Is there any core belief in your thinking ?" transform="translate(18 14)" fill="#2e5b9f" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Is there any core belief in your thinking ?</tspan></text>
+          <text id="Yes-2" data-name="Yes" transform="translate(18 69)" fill="#ff9241" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Yes</tspan></text>
+        </g>
+        <g id="Group_3598" data-name="Group 3598" transform="translate(0 986)">
+          <rect id="Rectangle_1844-7" data-name="Rectangle 1844" width="373" height="493" rx="6" fill="#edf4fd"/>
+          <text id="I_am_helpless._I_am_ineffective_I_am_incompetent._I_am_weak._I_am_a_victim._I_am_trapped._I_am_needy" data-name="I am helpless.
+I am ineffective 
+I am incompetent.
+I am weak.
+I am a victim.
+I am trapped. 
+I am needy" transform="translate(18 70)" fill="#1e64cc" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">I am helpless.</tspan><tspan fill="#254069"><tspan x="0" y="74">I am ineffective </tspan><tspan x="0" y="134">I am incompetent.</tspan><tspan x="0" y="194">I am weak.</tspan><tspan x="0" y="254">I am a victim.</tspan><tspan x="0" y="314">I am trapped. </tspan><tspan x="0" y="374">I am needy</tspan></tspan></text>
+          <text id="Helpless_Core_Beliefs-3" data-name="Helpless Core Beliefs" transform="translate(18 24)" fill="#2e5b9f" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Helpless Core Beliefs</tspan></text>
+        </g>
+      </g>
+    </g>
+    <text id="Session_5_Find_your_beliefs" data-name="Session 5
+Find your beliefs" transform="translate(20 26)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Session 5</tspan><tspan font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="49">Find your beliefs</tspan></tspan></text>
+  </g>
+</svg>

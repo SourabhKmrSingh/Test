@@ -1,0 +1,238 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="1075" viewBox="0 0 412 1075">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="360" height="603" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="360" height="673" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_1534" x="-9" y="775" width="430" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Intro_22">
+      <rect width="412" height="1075"/>
+    </clipPath>
+  </defs>
+  <g id="Intro_22" data-name="Intro – 22" clip-path="url(#clip-Intro_22)">
+    <rect width="412" height="1075" fill="#e9eff4"/>
+    <g id="Group_3217" data-name="Group 3217" transform="translate(0 89)">
+      <rect id="Rectangle_1727" data-name="Rectangle 1727" width="390" height="884" rx="10" transform="translate(11 19)" fill="#fff"/>
+      <text id="Select_and_create_challenge" data-name="Select and create  challenge" transform="translate(26 38)" fill="#1e64cc" font-size="15" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14" xml:space="preserve">Select And Create  Challenge</tspan></text>
+      <text id="Sort_by_" data-name="Sort by " transform="translate(212 38)" fill="#1e64cc" font-size="15" font-family="ArialMT, Arial"><tspan x="123.818" y="14">Sort By </tspan></text>
+      <g id="Scroll_Group_10" data-name="Scroll Group 10" transform="translate(26 84)" clip-path="url(#clip-path)" style="isolation: isolate">
+        <g id="Repeat_Grid_14" data-name="Repeat Grid 14" clip-path="url(#clip-path-2)">
+          <g id="Group_3222" data-name="Group 3222" transform="translate(-26 -156)">
+            <g id="Group_3305" data-name="Group 3305">
+              <rect id="Rectangle_1758" data-name="Rectangle 1758" width="360" height="74" rx="5" transform="translate(26 156)" fill="#f7fafe"/>
+              <text id="Telling_someone_about_the_violent_thought_like_accidently_harming_someone_." data-name="Telling someone about the violent thought (like accidently harming someone)…." transform="translate(51 162)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Telling someone about the violent </tspan><tspan x="0" y="33">thought (like accidently harming </tspan><tspan x="0" y="53">someone)….</tspan></text>
+            </g>
+            <g id="Group_3220" data-name="Group 3220" transform="translate(6 3)">
+              <circle id="Ellipse_604" data-name="Ellipse 604" cx="14" cy="14" r="14" transform="translate(290 167)" fill="#d2dff2"/>
+              <text id="_9" data-name="9" transform="translate(308 186)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="-7.786" y="0">9</tspan></text>
+            </g>
+            <g id="Group_3221" data-name="Group 3221" transform="translate(52 3)">
+              <circle id="Ellipse_604-2" data-name="Ellipse 604" cx="14" cy="14" r="14" transform="translate(290 167)" fill="#d2dff2"/>
+              <text id="_8" data-name="8" transform="translate(308 186)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="-7.786" y="0">8</tspan></text>
+            </g>
+            <text id="SUDS" transform="translate(297 215)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">SUDS</tspan></text>
+            <text id="Avoidance" transform="translate(334 215)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">Avoidance</tspan></text>
+            <g id="Group_3153" data-name="Group 3153" transform="translate(510.346 150) rotate(90)" opacity="0.4" style="isolation: isolate">
+              <circle id="Ellipse_586" data-name="Ellipse 586" cx="1.5" cy="1.5" r="1.5" transform="translate(34 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_591" data-name="Ellipse 591" cx="1.5" cy="1.5" r="1.5" transform="translate(34 474.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_587" data-name="Ellipse 587" cx="1.5" cy="1.5" r="1.5" transform="translate(39 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_590" data-name="Ellipse 590" cx="1.5" cy="1.5" r="1.5" transform="translate(39 474.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_588" data-name="Ellipse 588" cx="1.5" cy="1.5" r="1.5" transform="translate(44 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_589" data-name="Ellipse 589" cx="1.5" cy="1.5" r="1.5" transform="translate(44 474.345)" fill="#1e64cc"/>
+            </g>
+          </g>
+          <g id="Group_3222-2" data-name="Group 3222" transform="translate(-26 -71)">
+            <g id="Group_3305-2" data-name="Group 3305">
+              <rect id="Rectangle_1758-2" data-name="Rectangle 1758" width="360" height="74" rx="5" transform="translate(26 156)" fill="#f7fafe"/>
+              <text id="Telling_someone_about_the_violent_thought_like_accidently_harming_someone_" data-name="Telling someone about the violent thought (like accidently harming someone)" transform="translate(51 162)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Telling someone about the violent </tspan><tspan x="0" y="33">thought (like accidently harming </tspan><tspan x="0" y="53">someone)</tspan></text>
+            </g>
+            <g id="Group_3220-2" data-name="Group 3220" transform="translate(6 3)">
+              <circle id="Ellipse_604-3" data-name="Ellipse 604" cx="14" cy="14" r="14" transform="translate(290 167)" fill="#d2dff2"/>
+              <text id="_9-2" data-name="9" transform="translate(308 186)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="-7.786" y="0">9</tspan></text>
+            </g>
+            <g id="Group_3221-2" data-name="Group 3221" transform="translate(52 3)">
+              <circle id="Ellipse_604-4" data-name="Ellipse 604" cx="14" cy="14" r="14" transform="translate(290 167)" fill="#d2dff2"/>
+              <text id="_8-2" data-name="8" transform="translate(308 186)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="-7.786" y="0">8</tspan></text>
+            </g>
+            <text id="SUDS-2" data-name="SUDS" transform="translate(297 215)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">SUDS</tspan></text>
+            <text id="Avoidance-2" data-name="Avoidance" transform="translate(334 215)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">Avoidance</tspan></text>
+            <g id="Group_3153-2" data-name="Group 3153" transform="translate(510.346 150) rotate(90)" opacity="0.4" style="isolation: isolate">
+              <circle id="Ellipse_586-2" data-name="Ellipse 586" cx="1.5" cy="1.5" r="1.5" transform="translate(34 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_591-2" data-name="Ellipse 591" cx="1.5" cy="1.5" r="1.5" transform="translate(34 474.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_587-2" data-name="Ellipse 587" cx="1.5" cy="1.5" r="1.5" transform="translate(39 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_590-2" data-name="Ellipse 590" cx="1.5" cy="1.5" r="1.5" transform="translate(39 474.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_588-2" data-name="Ellipse 588" cx="1.5" cy="1.5" r="1.5" transform="translate(44 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_589-2" data-name="Ellipse 589" cx="1.5" cy="1.5" r="1.5" transform="translate(44 474.345)" fill="#1e64cc"/>
+            </g>
+          </g>
+          <g id="Group_3222-3" data-name="Group 3222" transform="translate(-26 14)">
+            <g id="Group_3305-3" data-name="Group 3305">
+              <rect id="Rectangle_1758-3" data-name="Rectangle 1758" width="360" height="74" rx="5" transform="translate(26 156)" fill="#f7fafe"/>
+              <text id="Telling_someone_about_the_violent_thought_like_accidently_harming_someone_2" data-name="Telling someone about the violent thought (like accidently harming someone)" transform="translate(51 162)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Telling someone about the violent </tspan><tspan x="0" y="33">thought (like accidently harming </tspan><tspan x="0" y="53">someone)</tspan></text>
+            </g>
+            <g id="Group_3220-3" data-name="Group 3220" transform="translate(6 3)">
+              <circle id="Ellipse_604-5" data-name="Ellipse 604" cx="14" cy="14" r="14" transform="translate(290 167)" fill="#d2dff2"/>
+              <text id="_9-3" data-name="9" transform="translate(308 186)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="-7.786" y="0">9</tspan></text>
+            </g>
+            <g id="Group_3221-3" data-name="Group 3221" transform="translate(52 3)">
+              <circle id="Ellipse_604-6" data-name="Ellipse 604" cx="14" cy="14" r="14" transform="translate(290 167)" fill="#d2dff2"/>
+              <text id="_8-3" data-name="8" transform="translate(308 186)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="-7.786" y="0">8</tspan></text>
+            </g>
+            <text id="SUDS-3" data-name="SUDS" transform="translate(297 215)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">SUDS</tspan></text>
+            <text id="Avoidance-3" data-name="Avoidance" transform="translate(334 215)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">Avoidance</tspan></text>
+            <g id="Group_3153-3" data-name="Group 3153" transform="translate(510.346 150) rotate(90)" opacity="0.4" style="isolation: isolate">
+              <circle id="Ellipse_586-3" data-name="Ellipse 586" cx="1.5" cy="1.5" r="1.5" transform="translate(34 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_591-3" data-name="Ellipse 591" cx="1.5" cy="1.5" r="1.5" transform="translate(34 474.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_587-3" data-name="Ellipse 587" cx="1.5" cy="1.5" r="1.5" transform="translate(39 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_590-3" data-name="Ellipse 590" cx="1.5" cy="1.5" r="1.5" transform="translate(39 474.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_588-3" data-name="Ellipse 588" cx="1.5" cy="1.5" r="1.5" transform="translate(44 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_589-3" data-name="Ellipse 589" cx="1.5" cy="1.5" r="1.5" transform="translate(44 474.345)" fill="#1e64cc"/>
+            </g>
+          </g>
+          <g id="Group_3222-4" data-name="Group 3222" transform="translate(-26 99)">
+            <g id="Group_3305-4" data-name="Group 3305">
+              <rect id="Rectangle_1758-4" data-name="Rectangle 1758" width="360" height="74" rx="5" transform="translate(26 156)" fill="#f7fafe"/>
+              <text id="Telling_someone_about_the_violent_thought_like_accidently_harming_someone_3" data-name="Telling someone about the violent thought (like accidently harming someone)" transform="translate(51 162)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Telling someone about the violent </tspan><tspan x="0" y="33">thought (like accidently harming </tspan><tspan x="0" y="53">someone)</tspan></text>
+            </g>
+            <g id="Group_3220-4" data-name="Group 3220" transform="translate(6 3)">
+              <circle id="Ellipse_604-7" data-name="Ellipse 604" cx="14" cy="14" r="14" transform="translate(290 167)" fill="#d2dff2"/>
+              <text id="_9-4" data-name="9" transform="translate(308 186)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="-7.786" y="0">9</tspan></text>
+            </g>
+            <g id="Group_3221-4" data-name="Group 3221" transform="translate(52 3)">
+              <circle id="Ellipse_604-8" data-name="Ellipse 604" cx="14" cy="14" r="14" transform="translate(290 167)" fill="#d2dff2"/>
+              <text id="_8-4" data-name="8" transform="translate(308 186)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="-7.786" y="0">8</tspan></text>
+            </g>
+            <text id="SUDS-4" data-name="SUDS" transform="translate(297 215)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">SUDS</tspan></text>
+            <text id="Avoidance-4" data-name="Avoidance" transform="translate(334 215)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">Avoidance</tspan></text>
+            <g id="Group_3153-4" data-name="Group 3153" transform="translate(510.346 150) rotate(90)" opacity="0.4" style="isolation: isolate">
+              <circle id="Ellipse_586-4" data-name="Ellipse 586" cx="1.5" cy="1.5" r="1.5" transform="translate(34 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_591-4" data-name="Ellipse 591" cx="1.5" cy="1.5" r="1.5" transform="translate(34 474.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_587-4" data-name="Ellipse 587" cx="1.5" cy="1.5" r="1.5" transform="translate(39 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_590-4" data-name="Ellipse 590" cx="1.5" cy="1.5" r="1.5" transform="translate(39 474.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_588-4" data-name="Ellipse 588" cx="1.5" cy="1.5" r="1.5" transform="translate(44 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_589-4" data-name="Ellipse 589" cx="1.5" cy="1.5" r="1.5" transform="translate(44 474.345)" fill="#1e64cc"/>
+            </g>
+          </g>
+          <g id="Group_3222-5" data-name="Group 3222" transform="translate(-26 184)">
+            <g id="Group_3305-5" data-name="Group 3305">
+              <rect id="Rectangle_1758-5" data-name="Rectangle 1758" width="360" height="74" rx="5" transform="translate(26 156)" fill="#f7fafe"/>
+              <text id="Telling_someone_about_the_violent_thought_like_accidently_harming_someone_4" data-name="Telling someone about the violent thought (like accidently harming someone)" transform="translate(51 162)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Telling someone about the violent </tspan><tspan x="0" y="33">thought (like accidently harming </tspan><tspan x="0" y="53">someone)</tspan></text>
+            </g>
+            <g id="Group_3220-5" data-name="Group 3220" transform="translate(6 3)">
+              <circle id="Ellipse_604-9" data-name="Ellipse 604" cx="14" cy="14" r="14" transform="translate(290 167)" fill="#d2dff2"/>
+              <text id="_5" data-name="5" transform="translate(308 186)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="-7.786" y="0">5</tspan></text>
+            </g>
+            <g id="Group_3221-5" data-name="Group 3221" transform="translate(52 3)">
+              <circle id="Ellipse_604-10" data-name="Ellipse 604" cx="14" cy="14" r="14" transform="translate(290 167)" fill="#d2dff2"/>
+              <text id="_8-5" data-name="8" transform="translate(308 186)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="-7.786" y="0">8</tspan></text>
+            </g>
+            <text id="SUDS-5" data-name="SUDS" transform="translate(297 215)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">SUDS</tspan></text>
+            <text id="Avoidance-5" data-name="Avoidance" transform="translate(334 215)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">Avoidance</tspan></text>
+            <g id="Group_3153-5" data-name="Group 3153" transform="translate(510.346 150) rotate(90)" opacity="0.4" style="isolation: isolate">
+              <circle id="Ellipse_586-5" data-name="Ellipse 586" cx="1.5" cy="1.5" r="1.5" transform="translate(34 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_591-5" data-name="Ellipse 591" cx="1.5" cy="1.5" r="1.5" transform="translate(34 474.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_587-5" data-name="Ellipse 587" cx="1.5" cy="1.5" r="1.5" transform="translate(39 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_590-5" data-name="Ellipse 590" cx="1.5" cy="1.5" r="1.5" transform="translate(39 474.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_588-5" data-name="Ellipse 588" cx="1.5" cy="1.5" r="1.5" transform="translate(44 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_589-5" data-name="Ellipse 589" cx="1.5" cy="1.5" r="1.5" transform="translate(44 474.345)" fill="#1e64cc"/>
+            </g>
+          </g>
+          <g id="Group_3222-6" data-name="Group 3222" transform="translate(-26 269)">
+            <g id="Group_3305-6" data-name="Group 3305">
+              <rect id="Rectangle_1758-6" data-name="Rectangle 1758" width="360" height="74" rx="5" transform="translate(26 156)" fill="#f7fafe"/>
+              <text id="Telling_someone_about_the_violent_thought_like_accidently_harming_someone_5" data-name="Telling someone about the violent thought (like accidently harming someone)" transform="translate(51 162)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Telling someone about the violent </tspan><tspan x="0" y="33">thought (like accidently harming </tspan><tspan x="0" y="53">someone)</tspan></text>
+            </g>
+            <g id="Group_3220-6" data-name="Group 3220" transform="translate(6 3)">
+              <circle id="Ellipse_604-11" data-name="Ellipse 604" cx="14" cy="14" r="14" transform="translate(290 167)" fill="#d2dff2"/>
+              <text id="_5-2" data-name="5" transform="translate(308 186)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="-7.786" y="0">5</tspan></text>
+            </g>
+            <g id="Group_3221-6" data-name="Group 3221" transform="translate(52 3)">
+              <circle id="Ellipse_604-12" data-name="Ellipse 604" cx="14" cy="14" r="14" transform="translate(290 167)" fill="#d2dff2"/>
+              <text id="_8-6" data-name="8" transform="translate(308 186)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="-7.786" y="0">8</tspan></text>
+            </g>
+            <text id="SUDS-6" data-name="SUDS" transform="translate(297 215)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">SUDS</tspan></text>
+            <text id="Avoidance-6" data-name="Avoidance" transform="translate(334 215)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">Avoidance</tspan></text>
+            <g id="Group_3153-6" data-name="Group 3153" transform="translate(510.346 150) rotate(90)" opacity="0.4" style="isolation: isolate">
+              <circle id="Ellipse_586-6" data-name="Ellipse 586" cx="1.5" cy="1.5" r="1.5" transform="translate(34 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_591-6" data-name="Ellipse 591" cx="1.5" cy="1.5" r="1.5" transform="translate(34 474.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_587-6" data-name="Ellipse 587" cx="1.5" cy="1.5" r="1.5" transform="translate(39 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_590-6" data-name="Ellipse 590" cx="1.5" cy="1.5" r="1.5" transform="translate(39 474.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_588-6" data-name="Ellipse 588" cx="1.5" cy="1.5" r="1.5" transform="translate(44 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_589-6" data-name="Ellipse 589" cx="1.5" cy="1.5" r="1.5" transform="translate(44 474.345)" fill="#1e64cc"/>
+            </g>
+          </g>
+          <g id="Group_3222-7" data-name="Group 3222" transform="translate(-26 354)">
+            <g id="Group_3305-7" data-name="Group 3305">
+              <rect id="Rectangle_1758-7" data-name="Rectangle 1758" width="360" height="74" rx="5" transform="translate(26 156)" fill="#f7fafe"/>
+              <text id="Telling_someone_about_the_violent_thought_like_accidently_harming_someone_6" data-name="Telling someone about the violent thought (like accidently harming someone)" transform="translate(51 162)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Telling someone about the violent </tspan><tspan x="0" y="33">thought (like accidently harming </tspan><tspan x="0" y="53">someone)</tspan></text>
+            </g>
+            <g id="Group_3220-7" data-name="Group 3220" transform="translate(6 3)">
+              <circle id="Ellipse_604-13" data-name="Ellipse 604" cx="14" cy="14" r="14" transform="translate(290 167)" fill="#d2dff2"/>
+              <text id="_7" data-name="7" transform="translate(308 186)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="-7.786" y="0">7</tspan></text>
+            </g>
+            <g id="Group_3221-7" data-name="Group 3221" transform="translate(52 3)">
+              <circle id="Ellipse_604-14" data-name="Ellipse 604" cx="14" cy="14" r="14" transform="translate(290 167)" fill="#d2dff2"/>
+              <text id="_8-7" data-name="8" transform="translate(308 186)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="-7.786" y="0">8</tspan></text>
+            </g>
+            <text id="SUDS-7" data-name="SUDS" transform="translate(297 215)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">SUDS</tspan></text>
+            <text id="Avoidance-7" data-name="Avoidance" transform="translate(334 215)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">Avoidance</tspan></text>
+            <g id="Group_3153-7" data-name="Group 3153" transform="translate(510.346 150) rotate(90)" opacity="0.4" style="isolation: isolate">
+              <circle id="Ellipse_586-7" data-name="Ellipse 586" cx="1.5" cy="1.5" r="1.5" transform="translate(34 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_591-7" data-name="Ellipse 591" cx="1.5" cy="1.5" r="1.5" transform="translate(34 474.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_587-7" data-name="Ellipse 587" cx="1.5" cy="1.5" r="1.5" transform="translate(39 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_590-7" data-name="Ellipse 590" cx="1.5" cy="1.5" r="1.5" transform="translate(39 474.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_588-7" data-name="Ellipse 588" cx="1.5" cy="1.5" r="1.5" transform="translate(44 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_589-7" data-name="Ellipse 589" cx="1.5" cy="1.5" r="1.5" transform="translate(44 474.345)" fill="#1e64cc"/>
+            </g>
+          </g>
+          <g id="Group_3222-8" data-name="Group 3222" transform="translate(-26 439)">
+            <g id="Group_3305-8" data-name="Group 3305">
+              <rect id="Rectangle_1758-8" data-name="Rectangle 1758" width="360" height="74" rx="5" transform="translate(26 156)" fill="#f7fafe"/>
+              <text id="Telling_someone_about_the_violent_thought_like_accidently_harming_someone_7" data-name="Telling someone about the violent thought (like accidently harming someone)" transform="translate(51 162)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Telling someone about the violent </tspan><tspan x="0" y="33">thought (like accidently harming </tspan><tspan x="0" y="53">someone)</tspan></text>
+            </g>
+            <g id="Group_3220-8" data-name="Group 3220" transform="translate(6 3)">
+              <circle id="Ellipse_604-15" data-name="Ellipse 604" cx="14" cy="14" r="14" transform="translate(290 167)" fill="#d2dff2"/>
+              <text id="_9-5" data-name="9" transform="translate(308 186)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="-7.786" y="0">9</tspan></text>
+            </g>
+            <g id="Group_3221-8" data-name="Group 3221" transform="translate(52 3)">
+              <circle id="Ellipse_604-16" data-name="Ellipse 604" cx="14" cy="14" r="14" transform="translate(290 167)" fill="#d2dff2"/>
+              <text id="_8-8" data-name="8" transform="translate(308 186)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="-7.786" y="0">8</tspan></text>
+            </g>
+            <text id="SUDS-8" data-name="SUDS" transform="translate(297 215)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">SUDS</tspan></text>
+            <text id="Avoidance-8" data-name="Avoidance" transform="translate(334 215)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">Avoidance</tspan></text>
+            <g id="Group_3153-8" data-name="Group 3153" transform="translate(510.346 150) rotate(90)" opacity="0.4" style="isolation: isolate">
+              <circle id="Ellipse_586-8" data-name="Ellipse 586" cx="1.5" cy="1.5" r="1.5" transform="translate(34 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_591-8" data-name="Ellipse 591" cx="1.5" cy="1.5" r="1.5" transform="translate(34 474.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_587-8" data-name="Ellipse 587" cx="1.5" cy="1.5" r="1.5" transform="translate(39 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_590-8" data-name="Ellipse 590" cx="1.5" cy="1.5" r="1.5" transform="translate(39 474.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_588-8" data-name="Ellipse 588" cx="1.5" cy="1.5" r="1.5" transform="translate(44 469.345)" fill="#1e64cc"/>
+              <circle id="Ellipse_589-8" data-name="Ellipse 589" cx="1.5" cy="1.5" r="1.5" transform="translate(44 474.345)" fill="#1e64cc"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="Session_4_OCD_Hierarchy" data-name="Session 4
+OCD Hierarchy" transform="translate(29 28)" fill="#1e64cc" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Session 4</tspan><tspan font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="49">OCD Hierarchy</tspan></tspan></text>
+    <g id="Component_119_387" data-name="Component 119 – 387" transform="translate(0 787)">
+      <g transform="matrix(1, 0, 0, 1, 0, -787)" filter="url(#Rectangle_1534)">
+        <rect id="Rectangle_1534-2" data-name="Rectangle 1534" width="412" height="60" transform="translate(0 787)" fill="#102646"/>
+      </g>
+      <g id="Group_2755" data-name="Group 2755" transform="translate(0 -779)">
+        <g id="Rectangle_1564" data-name="Rectangle 1564" transform="translate(12 789)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+          <rect width="50" height="45" stroke="none"/>
+          <rect x="0.5" y="0.5" width="49" height="44" fill="none"/>
+        </g>
+        <path id="Path_4565" data-name="Path 4565" d="M35.606,24.011l-7.368-7.1,7.368-7.1a1.37,1.37,0,0,0,.424-.982,1.4,1.4,0,0,0-.4-1,1.369,1.369,0,0,0-.982-.424h-.022a1.385,1.385,0,0,0-.982.4l-8.417,8.1a1.42,1.42,0,0,0-.424,1,1.382,1.382,0,0,0,.424,1l8.439,8.1a1.443,1.443,0,0,0,.982.4,1.42,1.42,0,0,0,1-.424,1.4,1.4,0,0,0,.4-1A1.274,1.274,0,0,0,35.606,24.011Z" transform="translate(5.036 792.435)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

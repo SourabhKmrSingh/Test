@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aadd"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect width="314.408" height="450.558" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-OCD_13">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="OCD_13" data-name="OCD – 13" clip-path="url(#clip-OCD_13)">
+    <rect width="412" height="847" fill="url(#linear-gradient)"/>
+    <g id="Group_3078" data-name="Group 3078" transform="translate(-7408 -10082)">
+      <rect id="Rectangle_1710" data-name="Rectangle 1710" width="372" height="609" rx="15" transform="translate(7428 10237)" fill="#102646"/>
+      <text id="I_often_think_things_around_me_are_unsafe_Mark_the_options_from_1_to_7_" data-name="I often think things around me are unsafe (Mark the options from 1 to 7)" transform="translate(7443 10252)" fill="#edf4fd" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="16">I often think things around me are unsafe </tspan><tspan x="0" y="46">(Mark the options from 1 to 7)</tspan></text>
+    </g>
+    <g id="Search" transform="translate(49 279.221)" clip-path="url(#clip-path)">
+      <g id="Search-2" data-name="Search" transform="translate(0.296)">
+        <path id="Path_7" data-name="Path 7" d="M7.39,5H301.127c4.081,0,7.39,3.961,7.39,8.848V43.71c0,4.887-3.308,8.848-7.39,8.848H7.39C3.308,52.558,0,48.6,0,43.71V13.848C0,8.961,3.308,5,7.39,5Z" transform="translate(0.633 -5)" fill="#153669"/>
+        <text id="disagree_very_much" data-name="disagree very much" transform="translate(63.704 13.964)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Disagree Very Much</tspan></text>
+      </g>
+      <g id="Search-3" data-name="Search" transform="translate(0.296 66)">
+        <path id="Path_7-2" data-name="Path 7" d="M7.39,5H301.127c4.081,0,7.39,3.961,7.39,8.848V43.71c0,4.887-3.308,8.848-7.39,8.848H7.39C3.308,52.558,0,48.6,0,43.71V13.848C0,8.961,3.308,5,7.39,5Z" transform="translate(0.633 -5)" fill="#153669"/>
+        <text id="disagree_moderately" data-name="disagree moderately" transform="translate(63.704 13.964)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Disagree Moderately</tspan></text>
+      </g>
+      <g id="Search-4" data-name="Search" transform="translate(0.296 132)">
+        <path id="Path_7-3" data-name="Path 7" d="M7.39,5H301.127c4.081,0,7.39,3.961,7.39,8.848V43.71c0,4.887-3.308,8.848-7.39,8.848H7.39C3.308,52.558,0,48.6,0,43.71V13.848C0,8.961,3.308,5,7.39,5Z" transform="translate(0.633 -5)" fill="#153669"/>
+        <text id="disagree_a_little" data-name="disagree a little" transform="translate(63.704 13.964)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Disagree A Little</tspan></text>
+      </g>
+      <g id="Search-5" data-name="Search" transform="translate(0.296 198)">
+        <path id="Path_7-4" data-name="Path 7" d="M7.39,5H301.127c4.081,0,7.39,3.961,7.39,8.848V43.71c0,4.887-3.308,8.848-7.39,8.848H7.39C3.308,52.558,0,48.6,0,43.71V13.848C0,8.961,3.308,5,7.39,5Z" transform="translate(0.633 -5)" fill="#153669"/>
+        <text id="neither_agrees_nor_disagrees" data-name="neither agrees nor disagrees" transform="translate(63.704 13.964)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Neither Agrees Nor Disagrees</tspan></text>
+      </g>
+      <g id="Search-6" data-name="Search" transform="translate(0.296 264)">
+        <path id="Path_7-5" data-name="Path 7" d="M7.39,5H301.127c4.081,0,7.39,3.961,7.39,8.848V43.71c0,4.887-3.308,8.848-7.39,8.848H7.39C3.308,52.558,0,48.6,0,43.71V13.848C0,8.961,3.308,5,7.39,5Z" transform="translate(0.633 -5)" fill="#153669"/>
+        <text id="agree_a_little" data-name="agree a little" transform="translate(63.704 13.964)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Agree A Little</tspan></text>
+      </g>
+      <g id="Search-7" data-name="Search" transform="translate(0.296 330)">
+        <path id="Path_7-6" data-name="Path 7" d="M7.39,5H301.127c4.081,0,7.39,3.961,7.39,8.848V43.71c0,4.887-3.308,8.848-7.39,8.848H7.39C3.308,52.558,0,48.6,0,43.71V13.848C0,8.961,3.308,5,7.39,5Z" transform="translate(0.633 -5)" fill="#153669"/>
+        <text id="agree_moderately" data-name="agree moderately" transform="translate(63.704 13.964)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Agree Moderately</tspan></text>
+      </g>
+      <g id="Search-8" data-name="Search" transform="translate(0.296 396)">
+        <path id="Path_7-7" data-name="Path 7" d="M7.39,5H301.127c4.081,0,7.39,3.961,7.39,8.848V43.71c0,4.887-3.308,8.848-7.39,8.848H7.39C3.308,52.558,0,48.6,0,43.71V13.848C0,8.961,3.308,5,7.39,5Z" transform="translate(0.633 -5)" fill="#153669"/>
+        <text id="agree_very_much" data-name="agree very much" transform="translate(63.704 13.964)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Agree Very Much</tspan></text>
+      </g>
+    </g>
+    <circle id="Ellipse_572" data-name="Ellipse 572" cx="20" cy="20" r="20" transform="translate(68 481)" fill="#1e64cc"/>
+    <g id="Group_3106" data-name="Group 3106" transform="translate(-16 -103)">
+      <path id="Icon_material-thumb-down" data-name="Icon material-thumb-down" d="M13.594,4.5H5.819A1.716,1.716,0,0,0,4.23,5.554l-2.609,6.09a1.707,1.707,0,0,0-.121.631v1.65l.009.009L1.5,14A1.733,1.733,0,0,0,3.228,15.73H8.679l-.821,3.948-.026.276a1.3,1.3,0,0,0,.38.916l.916.907,5.693-5.693a1.717,1.717,0,0,0,.5-1.218V6.228A1.733,1.733,0,0,0,13.594,4.5Zm3.455,0V14.866H20.5V4.5Z" transform="translate(93.1 526.248)" fill="#ffc646"/>
+    </g>
+    <g id="Group_3107" data-name="Group 3107" transform="translate(-16 -169)">
+      <path id="Icon_material-thumb-down-2" data-name="Icon material-thumb-down" d="M13.594,4.5H5.819A1.716,1.716,0,0,0,4.23,5.554l-2.609,6.09a1.707,1.707,0,0,0-.121.631v1.65l.009.009L1.5,14A1.733,1.733,0,0,0,3.228,15.73H8.679l-.821,3.948-.026.276a1.3,1.3,0,0,0,.38.916l.916.907,5.693-5.693a1.717,1.717,0,0,0,.5-1.218V6.228A1.733,1.733,0,0,0,13.594,4.5Zm3.455,0V14.866H20.5V4.5Z" transform="translate(93.1 526.248)" fill="#ff9c46"/>
+    </g>
+    <g id="Group_3108" data-name="Group 3108" transform="translate(-16 -235)">
+      <path id="Icon_material-thumb-down-3" data-name="Icon material-thumb-down" d="M13.594,4.5H5.819A1.716,1.716,0,0,0,4.23,5.554l-2.609,6.09a1.707,1.707,0,0,0-.121.631v1.65l.009.009L1.5,14A1.733,1.733,0,0,0,3.228,15.73H8.679l-.821,3.948-.026.276a1.3,1.3,0,0,0,.38.916l.916.907,5.693-5.693a1.717,1.717,0,0,0,.5-1.218V6.228A1.733,1.733,0,0,0,13.594,4.5Zm3.455,0V14.866H20.5V4.5Z" transform="translate(93.1 526.248)" fill="#e68b3b"/>
+    </g>
+    <g id="Group_3109" data-name="Group 3109" transform="translate(-16 29)">
+      <path id="Icon_material-thumb-down-4" data-name="Icon material-thumb-down" d="M13.594,4.5H5.819A1.716,1.716,0,0,0,4.23,5.554l-2.609,6.09a1.707,1.707,0,0,0-.121.631v1.65l.009.009L1.5,14A1.733,1.733,0,0,0,3.228,15.73H8.679l-.821,3.948-.026.276a1.3,1.3,0,0,0,.38.916l.916.907,5.693-5.693a1.717,1.717,0,0,0,.5-1.218V6.228A1.733,1.733,0,0,0,13.594,4.5Zm3.455,0V14.866H20.5V4.5Z" transform="translate(115.002 549.139) rotate(180)" fill="#73bc1d"/>
+    </g>
+    <g id="Group_3110" data-name="Group 3110" transform="translate(-16 95)">
+      <path id="Icon_material-thumb-down-5" data-name="Icon material-thumb-down" d="M13.594,4.5H5.819A1.716,1.716,0,0,0,4.23,5.554l-2.609,6.09a1.707,1.707,0,0,0-.121.631v1.65l.009.009L1.5,14A1.733,1.733,0,0,0,3.228,15.73H8.679l-.821,3.948-.026.276a1.3,1.3,0,0,0,.38.916l.916.907,5.693-5.693a1.717,1.717,0,0,0,.5-1.218V6.228A1.733,1.733,0,0,0,13.594,4.5Zm3.455,0V14.866H20.5V4.5Z" transform="translate(115.002 549.139) rotate(180)" fill="#48bc1d"/>
+    </g>
+    <g id="Group_3112" data-name="Group 3112" transform="translate(-16 161)">
+      <path id="Icon_material-thumb-down-6" data-name="Icon material-thumb-down" d="M13.594,4.5H5.819A1.716,1.716,0,0,0,4.23,5.554l-2.609,6.09a1.707,1.707,0,0,0-.121.631v1.65l.009.009L1.5,14A1.733,1.733,0,0,0,3.228,15.73H8.679l-.821,3.948-.026.276a1.3,1.3,0,0,0,.38.916l.916.907,5.693-5.693a1.717,1.717,0,0,0,.5-1.218V6.228A1.733,1.733,0,0,0,13.594,4.5Zm3.455,0V14.866H20.5V4.5Z" transform="translate(115.002 549.139) rotate(180)" fill="#1dbc91"/>
+    </g>
+    <text id="Session_2_OBQ-44_Questionnaire" data-name="Session 2
+OBQ-44 Questionnaire" transform="translate(29 26)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Session 2</tspan><tspan font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="49">OBQ-44 Questionnaire</tspan></tspan></text>
+    <text id="Questions_1_44" data-name="Questions 1/44" transform="translate(29 113)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Questions 1/44</tspan></text>
+    <g id="Group_3076" data-name="Group 3076" transform="translate(-37.007 -291)">
+      <rect id="Rectangle_1708" data-name="Rectangle 1708" width="349" height="5" rx="2.5" transform="translate(66.007 391)" fill="#dce9f5"/>
+      <rect id="Rectangle_1709" data-name="Rectangle 1709" width="57" height="5" rx="2.5" transform="translate(66.007 391)" fill="#1e64cc"/>
+    </g>
+    <g id="Group_3246" data-name="Group 3246">
+      <path id="Path_5300" data-name="Path 5300" d="M7.39,5H301.127c4.081,0,7.39,3.961,7.39,8.848V43.71c0,4.887-3.308,8.848-7.39,8.848H7.39C3.308,52.558,0,48.6,0,43.71V13.848C0,8.961,3.308,5,7.39,5Z" transform="translate(49.929 472.221)" fill="#1e64cc"/>
+      <text id="neither_agrees_nor_disagrees-2" data-name="neither agrees nor disagrees" transform="translate(116 491.185)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Neither Agrees Nor Disagrees</tspan></text>
+      <path id="Icon_awesome-hand-rock" data-name="Icon awesome-hand-rock" d="M15.3,3.83a1.58,1.58,0,0,0-1.606,1.58H13.43V4.383a1.6,1.6,0,0,0-1.554-1.606,1.58,1.58,0,0,0-1.606,1.58V5.41h-.263V3.856A1.6,1.6,0,0,0,8.453,2.25,1.58,1.58,0,0,0,6.847,3.83V5.41H6.583V4.383A1.6,1.6,0,0,0,5.03,2.776a1.58,1.58,0,0,0-1.606,1.58V8.833L3.16,8.6V7.016A1.6,1.6,0,0,0,1.606,5.41,1.58,1.58,0,0,0,0,6.99V9.176a3.168,3.168,0,0,0,1.06,2.363l3.677,3.269a1.587,1.587,0,0,1,.53,1.182v.221a.788.788,0,0,0,.79.79h7.9a.788.788,0,0,0,.79-.79v-.1a3.207,3.207,0,0,1,.247-1.228l1.613-3.828a3.146,3.146,0,0,0,.247-1.228V5.436A1.6,1.6,0,0,0,15.3,3.83Z" transform="translate(79.573 491.375)" fill="#fff"/>
+    </g>
+    <g id="Group_3234" data-name="Group 3234" transform="translate(-4.848 -10.263)">
+      <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M15.217,17.7,23.926,9A1.645,1.645,0,1,0,21.6,6.674l-9.867,9.86a1.642,1.642,0,0,0-.048,2.268l9.908,9.929a1.645,1.645,0,0,0,2.33-2.323Z" transform="translate(362.579 30.069)" fill="#fff"/>
+      <path id="Icon_ionic-ios-arrow-back-2" data-name="Icon ionic-ios-arrow-back" d="M3.967,11.506l8.709-8.7A1.645,1.645,0,1,0,10.346.481L.479,10.341a1.642,1.642,0,0,0-.048,2.268l9.908,9.929a1.645,1.645,0,1,0,2.33-2.323Z" transform="translate(377.472 59.28) rotate(180)" fill="#fff"/>
+    </g>
+    <g id="Component_119_379" data-name="Component 119 – 379" transform="translate(0 779.138)">
+      <rect id="Rectangle_1927" data-name="Rectangle 1927" width="412" height="67" transform="translate(0 0.722)" fill="#102646"/>
+      <path id="Path_4714" data-name="Path 4714" d="M1053,4508.186h411.151" transform="translate(-1053 -4508.186)" fill="none" stroke="#fff" stroke-width="2" opacity="0.206"/>
+      <g id="Group_3096" data-name="Group 3096" transform="translate(-3 -997.186)">
+        <text id="Next" transform="translate(318 1038)" fill="#f2f5f7" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Next</tspan></text>
+        <path id="Icon_ionic-ios-arrow-back-3" data-name="Icon ionic-ios-arrow-back" d="M14.033,14.264l6.109-6.1a1.154,1.154,0,0,0-1.634-1.629l-6.921,6.916a1.152,1.152,0,0,0-.034,1.591L18.5,22a1.154,1.154,0,1,0,1.634-1.629Z" transform="translate(389.251 1046.266) rotate(180)" fill="#f2f5f7"/>
+      </g>
+      <g id="Group_3224" data-name="Group 3224" transform="translate(2.529 7.076)">
+        <g id="Group_3212" data-name="Group 3212" transform="translate(34.47 14.737)">
+          <text id="Back" transform="translate(19.06 18)" fill="#fff" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Back</tspan></text>
+          <path id="Icon_ionic-ios-arrow-back-4" data-name="Icon ionic-ios-arrow-back" d="M14.033,14.264l6.109-6.1a1.154,1.154,0,0,0-1.634-1.629l-6.921,6.916a1.152,1.152,0,0,0-.034,1.591L18.5,22a1.154,1.154,0,1,0,1.634-1.629Z" transform="translate(-11.251 -3.193)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

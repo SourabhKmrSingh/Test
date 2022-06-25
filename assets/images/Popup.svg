@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="844" viewBox="0 0 412 844">
+  <defs>
+    <filter id="Path_7" x="26" y="614" width="360" height="96.064" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Popup">
+      <rect width="412" height="844"/>
+    </clipPath>
+  </defs>
+  <g id="Popup" clip-path="url(#clip-Popup)">
+    <rect id="Rectangle_1982" data-name="Rectangle 1982" width="412" height="911" transform="translate(0 -36)" fill="rgba(44,44,44,0.71)"/>
+    <rect id="Rectangle_1727" data-name="Rectangle 1727" width="376" height="543" rx="10" transform="translate(18 162)" fill="#e9eef3"/>
+    <text id="Obsession" transform="translate(32 185.269)" fill="#1e64cc" font-size="15" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Obsession</tspan></text>
+    <g id="Rectangle_1758" data-name="Rectangle 1758" transform="translate(32 218)" fill="#f7fafe" stroke="#d2dff2" stroke-width="1">
+      <rect width="343" height="386" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="342" height="385" rx="4.5" fill="none"/>
+    </g>
+    <path id="Path_6405" data-name="Path 6405" d="M6861,14832.731h331.438" transform="translate(-6823.047 -14481.269)" fill="none" stroke="#808495" stroke-width="1" opacity="0.2"/>
+    <text id="Telling_someone_about_the_violent_thought_like_accidently_harming_someone_." data-name="Telling someone about the violent thought (like accidently harming someone)…." transform="translate(48 235.731)" fill="#2e5b9f" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Telling someone about the violent thought </tspan><tspan x="0" y="38">(like accidently harming someone)….</tspan></text>
+    <text id="_3" data-name="3" transform="translate(358 514)" fill="#1e64cc" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-8.898" y="0">3</tspan></text>
+    <text id="_3-2" data-name="3" transform="translate(358 396)" fill="#1e64cc" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-8.898" y="0">3</tspan></text>
+    <text id="_10" data-name="10" transform="translate(361 560)" fill="#1e64cc" font-size="12" font-family="ArialMT, Arial"><tspan x="-13.348" y="0">10</tspan></text>
+    <text id="_10-2" data-name="10" transform="translate(361 442)" fill="#1e64cc" font-size="12" font-family="ArialMT, Arial"><tspan x="-13.348" y="0">10</tspan></text>
+    <text id="_1" data-name="1" transform="translate(55 560)" fill="#1e64cc" font-size="12" font-family="ArialMT, Arial"><tspan x="-6.674" y="0">1</tspan></text>
+    <text id="_1-2" data-name="1" transform="translate(55 442)" fill="#1e64cc" font-size="12" font-family="ArialMT, Arial"><tspan x="-6.674" y="0">1</tspan></text>
+    <text id="Avoidance" transform="translate(48 515)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Avoidance</tspan></text>
+    <text id="Subjective_Units_of_Distress_SUDS_0-10_" data-name="Subjective Units of Distress (SUDS) (0-10)" transform="translate(48 397)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Subjective Units of Distress (SUDS) (0-10)</tspan></text>
+    <g id="Group_3583" data-name="Group 3583" transform="translate(48 554)">
+      <rect id="Rectangle_1708" data-name="Rectangle 1708" width="281" height="5" rx="2.5" transform="translate(12)" fill="#8eb1e5"/>
+      <rect id="Rectangle_1759" data-name="Rectangle 1759" width="50" height="5" rx="2.5" transform="translate(12)" fill="#1e64cc"/>
+    </g>
+    <g id="Group_3584" data-name="Group 3584" transform="translate(48 436)">
+      <rect id="Rectangle_1708-2" data-name="Rectangle 1708" width="281" height="5" rx="2.5" transform="translate(12)" fill="#8eb1e5"/>
+      <rect id="Rectangle_1759-2" data-name="Rectangle 1759" width="50" height="5" rx="2.5" transform="translate(12)" fill="#1e64cc"/>
+    </g>
+    <g id="Ellipse_699" data-name="Ellipse 699" transform="translate(104 545)" fill="#fff" stroke="#1e64cc" stroke-width="7">
+      <circle cx="11" cy="11" r="11" stroke="none"/>
+      <circle cx="11" cy="11" r="7.5" fill="none"/>
+    </g>
+    <g id="Ellipse_700" data-name="Ellipse 700" transform="translate(104 427)" fill="#fff" stroke="#1e64cc" stroke-width="7">
+      <circle cx="11" cy="11" r="11" stroke="none"/>
+      <circle cx="11" cy="11" r="7.5" fill="none"/>
+    </g>
+    <g id="CTA" transform="translate(50 635.438)">
+      <g transform="matrix(1, 0, 0, 1, -50, -635.44)" filter="url(#Path_7)">
+        <path id="Path_7-2" data-name="Path 7" d="M7.473,5H304.527C308.654,5,312,9,312,13.942v30.18c0,4.939-3.346,8.942-7.473,8.942H7.473c-4.127,0-7.473-4-7.473-8.942V13.942C0,9,3.346,5,7.473,5Z" transform="translate(50 630)" fill="#ff9241"/>
+      </g>
+      <text id="Submit" transform="translate(156 28.563)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="-21.786" y="0">Submit</tspan></text>
+    </g>
+  </g>
+</svg>

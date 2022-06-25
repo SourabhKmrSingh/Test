@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <clipPath id="clip-Task_habit_33">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="Task_habit_33" data-name="Task/habit – 33" clip-path="url(#clip-Task_habit_33)">
+    <rect width="412" height="847" fill="#102646"/>
+    <text id="Set_Target" data-name="Set Target" transform="translate(20 46.779)" fill="#fff" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="16">Set Target</tspan></text>
+    <text id="How_you_want_to_do_this_" data-name="How you want to do this ?" transform="translate(20 262.779)" fill="#fff" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="16">How you want to do this ?</tspan></text>
+    <g id="Group_2766" data-name="Group 2766" transform="translate(-55 -146)">
+      <g id="Group_2774" data-name="Group 2774" transform="translate(181.525 927)">
+        <text id="Close" transform="translate(0.476)" fill="#fff" font-size="16" font-family="Lato-Regular, Lato"><tspan x="60.044" y="16">Close</tspan></text>
+        <path id="Icon_ionic-md-close" data-name="Icon ionic-md-close" d="M17.518,8.523l-1-1-4,4-4-4-1,1,4,4-4,4,1,1,4-4,4,4,1-1-4-4Z" transform="translate(32.956 -1.606)" fill="#fff"/>
+      </g>
+    </g>
+    <path id="Path_4714" data-name="Path 4714" d="M1053,4508.186h411.151" transform="translate(-1053 -3766)" fill="none" stroke="#fff" stroke-width="2" opacity="0.206"/>
+    <text id="Do_not_worry_these_things_happen._The_most_important_part_is_the_introspection_of_the_episode_accept_it_and_learn_from_that_mistake" data-name="Do not worry these things happen. The most important part is the introspection of the episode; accept it and learn from that mistake" transform="translate(20 91)" fill="#edf4fd" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Do not worry these things happen. The most </tspan><tspan x="0" y="47">important part is the introspection of the episode; </tspan><tspan x="0" y="80">accept it and learn from that mistake</tspan></text>
+    <text id="YES_or_NO_these_things_happen._The_most_important_part_" data-name="YES or NO  these things happen. The most important part " transform="translate(20 307)" fill="#edf4fd" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">YES or NO </tspan><tspan y="14" xml:space="preserve" font-family="ArialMT, Arial" font-weight="400"> these things happen. The most </tspan><tspan x="0" y="47" font-family="ArialMT, Arial" font-weight="400">important part </tspan></text>
+    <text id="By_Value_ntrospection_of_the_episode_accept_it_and_learn_from_that_mistake" data-name="By Value ntrospection of the episode; accept it and learn from that mistake" transform="translate(20 385)" fill="#edf4fd" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">By Value</tspan><tspan y="14" xml:space="preserve" font-family="ArialMT, Arial" font-weight="400"> ntrospection of the episode; accept it and </tspan><tspan x="0" y="47" font-family="ArialMT, Arial" font-weight="400">learn from that mistake</tspan></text>
+  </g>
+</svg>

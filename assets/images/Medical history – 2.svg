@@ -1,0 +1,559 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="1016" viewBox="0 0 412 1016">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="-1" y="-17" width="420" height="804" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_1480" x="-3" y="3488" width="419" height="181" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1480-2" x="-3" y="3638" width="419" height="181" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-2"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1480-3" x="-3" y="3788" width="419" height="181" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-3"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1480-4" x="-3" y="3938" width="419" height="181" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-4"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1480-5" x="-3" y="4088" width="419" height="181" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-5"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1480-6" x="-3" y="4238" width="419" height="181" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-6"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1480-7" x="-3" y="4388" width="419" height="181" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-7"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1480-8" x="-3" y="4538" width="419" height="181" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-8"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1480-9" x="-4" y="276" width="419" height="3233" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-9"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_7" x="-4" y="98" width="419.5" height="91" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-10"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4b8ceb"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <filter id="Rectangle_1534" x="-9" y="775" width="430" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Medical_history_2">
+      <rect width="412" height="1016"/>
+    </clipPath>
+  </defs>
+  <g id="Medical_history_2" data-name="Medical history – 2" clip-path="url(#clip-Medical_history_2)">
+    <rect width="412" height="1016" fill="#e9eff4"/>
+    <g id="Scroll_Group_3" data-name="Scroll Group 3" transform="translate(-3 229)" clip-path="url(#clip-path)" style="isolation: isolate">
+      <g id="Tabs" transform="translate(27 0.36)">
+        <text id="All_Sessions" data-name="All Sessions" transform="translate(7 -0.36)" fill="#1e64cc" font-size="15" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">All </tspan></text>
+        <text id="Medical_Records" data-name="Medical Records" transform="translate(119 -0.36)" fill="#808495" font-size="15" font-family="ArialMT, Arial"><tspan x="-55.854" y="14">Medical Records</tspan></text>
+        <text id="Lab_report" data-name="Lab report" transform="translate(286 -0.36)" fill="#808495" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="14">Lab report</tspan></text>
+        <g id="Group_43" data-name="Group 43" transform="translate(0 37.589)">
+          <rect id="Rectangle_28" data-name="Rectangle 28" width="101" height="4" rx="2" transform="translate(0 0.051)" fill="#ff7600"/>
+          <line id="Line_3" data-name="Line 3" x2="360" transform="translate(0 2.051)" fill="none" stroke="#1c1c1c" stroke-linecap="round" stroke-width="0.5" opacity="0.2"/>
+        </g>
+      </g>
+      <g id="Component_116_9" data-name="Component 116 – 9" transform="translate(24 3279)">
+        <g transform="matrix(1, 0, 0, 1, -21, -3508)" filter="url(#Rectangle_1480)">
+          <rect id="Rectangle_1480-10" data-name="Rectangle 1480" width="371" height="133" rx="12" transform="translate(21 3508)" fill="#fff"/>
+        </g>
+        <g id="Group_2140" data-name="Group 2140" transform="translate(-385 -105)">
+          <text id="_11_07_2020" data-name="11/07/2020" transform="translate(498 213)" fill="#1c1c1c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">11/07/2020</tspan></text>
+        </g>
+        <g id="Group_2149" data-name="Group 2149" transform="translate(-306 -105)">
+          <text id="_12:00_PM_-_2:00_PM" data-name="12:00 PM - 2:00 PM" transform="translate(498 213)" fill="#1c1c1c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">12:00 PM - 2:00 PM</tspan></text>
+        </g>
+        <g id="Group_2146" data-name="Group 2146" transform="translate(-205 -285)">
+          <text id="Doctor" transform="translate(318 316)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Doctor</tspan></text>
+          <text id="Dr_._chan_droku_mar" data-name="Dr . chan droku mar" transform="translate(318 339)" fill="#272727" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Dr . chan droku mar</tspan></text>
+        </g>
+        <g id="Group_2147" data-name="Group 2147" transform="translate(-302.74 -175.99)">
+          <text id="Session_08" data-name="Session
+08" transform="translate(353.74 229.99)" fill="#d65022" font-size="16" font-family="ArialMT, Arial"><tspan x="-28.461" y="0">Session</tspan><tspan font-size="26"><tspan x="-14.46" y="30">08</tspan></tspan></text>
+        </g>
+        <text id="Time_date" data-name="Time/date" transform="translate(113 84)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Time/date</tspan></text>
+      </g>
+      <g id="Component_116_9-2" data-name="Component 116 – 9" transform="translate(24 3429)">
+        <g transform="matrix(1, 0, 0, 1, -21, -3658)" filter="url(#Rectangle_1480-2)">
+          <rect id="Rectangle_1480-11" data-name="Rectangle 1480" width="371" height="133" rx="12" transform="translate(21 3658)" fill="#fff"/>
+        </g>
+        <g id="Group_2140-2" data-name="Group 2140" transform="translate(-385 -105)">
+          <text id="_11_07_2020-2" data-name="11/07/2020" transform="translate(498 213)" fill="#1c1c1c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">11/07/2020</tspan></text>
+        </g>
+        <g id="Group_2149-2" data-name="Group 2149" transform="translate(-306 -105)">
+          <text id="_12:00_PM_-_2:00_PM-2" data-name="12:00 PM - 2:00 PM" transform="translate(498 213)" fill="#1c1c1c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">12:00 PM - 2:00 PM</tspan></text>
+        </g>
+        <g id="Group_2146-2" data-name="Group 2146" transform="translate(-205 -285)">
+          <text id="Doctor-2" data-name="Doctor" transform="translate(318 316)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Doctor</tspan></text>
+          <text id="Dr_._chan_droku_mar-2" data-name="Dr . chan droku mar" transform="translate(318 339)" fill="#272727" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Dr . chan droku mar</tspan></text>
+        </g>
+        <g id="Group_2147-2" data-name="Group 2147" transform="translate(-302.74 -175.99)">
+          <text id="Session_08-2" data-name="Session
+08" transform="translate(353.74 229.99)" fill="#d65022" font-size="16" font-family="ArialMT, Arial"><tspan x="-28.461" y="0">Session</tspan><tspan font-size="26"><tspan x="-14.46" y="30">08</tspan></tspan></text>
+        </g>
+        <text id="Time_date-2" data-name="Time/date" transform="translate(113 84)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Time/date</tspan></text>
+      </g>
+      <g id="Component_116_9-3" data-name="Component 116 – 9" transform="translate(24 3579)">
+        <g transform="matrix(1, 0, 0, 1, -21, -3808)" filter="url(#Rectangle_1480-3)">
+          <rect id="Rectangle_1480-12" data-name="Rectangle 1480" width="371" height="133" rx="12" transform="translate(21 3808)" fill="#fff"/>
+        </g>
+        <g id="Group_2140-3" data-name="Group 2140" transform="translate(-385 -105)">
+          <text id="_11_07_2020-3" data-name="11/07/2020" transform="translate(498 213)" fill="#1c1c1c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">11/07/2020</tspan></text>
+        </g>
+        <g id="Group_2149-3" data-name="Group 2149" transform="translate(-306 -105)">
+          <text id="_12:00_PM_-_2:00_PM-3" data-name="12:00 PM - 2:00 PM" transform="translate(498 213)" fill="#1c1c1c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">12:00 PM - 2:00 PM</tspan></text>
+        </g>
+        <g id="Group_2146-3" data-name="Group 2146" transform="translate(-205 -285)">
+          <text id="Doctor-3" data-name="Doctor" transform="translate(318 316)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Doctor</tspan></text>
+          <text id="Dr_._chan_droku_mar-3" data-name="Dr . chan droku mar" transform="translate(318 339)" fill="#272727" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Dr . chan droku mar</tspan></text>
+        </g>
+        <g id="Group_2147-3" data-name="Group 2147" transform="translate(-302.74 -175.99)">
+          <text id="Session_08-3" data-name="Session
+08" transform="translate(353.74 229.99)" fill="#d65022" font-size="16" font-family="ArialMT, Arial"><tspan x="-28.461" y="0">Session</tspan><tspan font-size="26"><tspan x="-14.46" y="30">08</tspan></tspan></text>
+        </g>
+        <text id="Time_date-3" data-name="Time/date" transform="translate(113 84)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Time/date</tspan></text>
+      </g>
+      <g id="Component_116_9-4" data-name="Component 116 – 9" transform="translate(24 3729)">
+        <g transform="matrix(1, 0, 0, 1, -21, -3958)" filter="url(#Rectangle_1480-4)">
+          <rect id="Rectangle_1480-13" data-name="Rectangle 1480" width="371" height="133" rx="12" transform="translate(21 3958)" fill="#fff"/>
+        </g>
+        <g id="Group_2140-4" data-name="Group 2140" transform="translate(-385 -105)">
+          <text id="_11_07_2020-4" data-name="11/07/2020" transform="translate(498 213)" fill="#1c1c1c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">11/07/2020</tspan></text>
+        </g>
+        <g id="Group_2149-4" data-name="Group 2149" transform="translate(-306 -105)">
+          <text id="_12:00_PM_-_2:00_PM-4" data-name="12:00 PM - 2:00 PM" transform="translate(498 213)" fill="#1c1c1c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">12:00 PM - 2:00 PM</tspan></text>
+        </g>
+        <g id="Group_2146-4" data-name="Group 2146" transform="translate(-205 -285)">
+          <text id="Doctor-4" data-name="Doctor" transform="translate(318 316)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Doctor</tspan></text>
+          <text id="Dr_._chan_droku_mar-4" data-name="Dr . chan droku mar" transform="translate(318 339)" fill="#272727" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Dr . chan droku mar</tspan></text>
+        </g>
+        <g id="Group_2147-4" data-name="Group 2147" transform="translate(-302.74 -175.99)">
+          <text id="Session_08-4" data-name="Session
+08" transform="translate(353.74 229.99)" fill="#d65022" font-size="16" font-family="ArialMT, Arial"><tspan x="-28.461" y="0">Session</tspan><tspan font-size="26"><tspan x="-14.46" y="30">08</tspan></tspan></text>
+        </g>
+        <text id="Time_date-4" data-name="Time/date" transform="translate(113 84)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Time/date</tspan></text>
+      </g>
+      <g id="Component_116_9-5" data-name="Component 116 – 9" transform="translate(24 3879)">
+        <g transform="matrix(1, 0, 0, 1, -21, -4108)" filter="url(#Rectangle_1480-5)">
+          <rect id="Rectangle_1480-14" data-name="Rectangle 1480" width="371" height="133" rx="12" transform="translate(21 4108)" fill="#fff"/>
+        </g>
+        <g id="Group_2140-5" data-name="Group 2140" transform="translate(-385 -105)">
+          <text id="_11_07_2020-5" data-name="11/07/2020" transform="translate(498 213)" fill="#1c1c1c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">11/07/2020</tspan></text>
+        </g>
+        <g id="Group_2149-5" data-name="Group 2149" transform="translate(-306 -105)">
+          <text id="_12:00_PM_-_2:00_PM-5" data-name="12:00 PM - 2:00 PM" transform="translate(498 213)" fill="#1c1c1c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">12:00 PM - 2:00 PM</tspan></text>
+        </g>
+        <g id="Group_2146-5" data-name="Group 2146" transform="translate(-205 -285)">
+          <text id="Doctor-5" data-name="Doctor" transform="translate(318 316)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Doctor</tspan></text>
+          <text id="Dr_._chan_droku_mar-5" data-name="Dr . chan droku mar" transform="translate(318 339)" fill="#272727" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Dr . chan droku mar</tspan></text>
+        </g>
+        <g id="Group_2147-5" data-name="Group 2147" transform="translate(-302.74 -175.99)">
+          <text id="Session_08-5" data-name="Session
+08" transform="translate(353.74 229.99)" fill="#d65022" font-size="16" font-family="ArialMT, Arial"><tspan x="-28.461" y="0">Session</tspan><tspan font-size="26"><tspan x="-14.46" y="30">08</tspan></tspan></text>
+        </g>
+        <text id="Time_date-5" data-name="Time/date" transform="translate(113 84)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Time/date</tspan></text>
+      </g>
+      <g id="Component_116_9-6" data-name="Component 116 – 9" transform="translate(24 4029)">
+        <g transform="matrix(1, 0, 0, 1, -21, -4258)" filter="url(#Rectangle_1480-6)">
+          <rect id="Rectangle_1480-15" data-name="Rectangle 1480" width="371" height="133" rx="12" transform="translate(21 4258)" fill="#fff"/>
+        </g>
+        <g id="Group_2140-6" data-name="Group 2140" transform="translate(-385 -105)">
+          <text id="_11_07_2020-6" data-name="11/07/2020" transform="translate(498 213)" fill="#1c1c1c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">11/07/2020</tspan></text>
+        </g>
+        <g id="Group_2149-6" data-name="Group 2149" transform="translate(-306 -105)">
+          <text id="_12:00_PM_-_2:00_PM-6" data-name="12:00 PM - 2:00 PM" transform="translate(498 213)" fill="#1c1c1c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">12:00 PM - 2:00 PM</tspan></text>
+        </g>
+        <g id="Group_2146-6" data-name="Group 2146" transform="translate(-205 -285)">
+          <text id="Doctor-6" data-name="Doctor" transform="translate(318 316)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Doctor</tspan></text>
+          <text id="Dr_._chan_droku_mar-6" data-name="Dr . chan droku mar" transform="translate(318 339)" fill="#272727" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Dr . chan droku mar</tspan></text>
+        </g>
+        <g id="Group_2147-6" data-name="Group 2147" transform="translate(-302.74 -175.99)">
+          <text id="Session_08-6" data-name="Session
+08" transform="translate(353.74 229.99)" fill="#d65022" font-size="16" font-family="ArialMT, Arial"><tspan x="-28.461" y="0">Session</tspan><tspan font-size="26"><tspan x="-14.46" y="30">08</tspan></tspan></text>
+        </g>
+        <text id="Time_date-6" data-name="Time/date" transform="translate(113 84)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Time/date</tspan></text>
+      </g>
+      <g id="Component_116_9-7" data-name="Component 116 – 9" transform="translate(24 4179)">
+        <g transform="matrix(1, 0, 0, 1, -21, -4408)" filter="url(#Rectangle_1480-7)">
+          <rect id="Rectangle_1480-16" data-name="Rectangle 1480" width="371" height="133" rx="12" transform="translate(21 4408)" fill="#fff"/>
+        </g>
+        <g id="Group_2140-7" data-name="Group 2140" transform="translate(-385 -105)">
+          <text id="_11_07_2020-7" data-name="11/07/2020" transform="translate(498 213)" fill="#1c1c1c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">11/07/2020</tspan></text>
+        </g>
+        <g id="Group_2149-7" data-name="Group 2149" transform="translate(-306 -105)">
+          <text id="_12:00_PM_-_2:00_PM-7" data-name="12:00 PM - 2:00 PM" transform="translate(498 213)" fill="#1c1c1c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">12:00 PM - 2:00 PM</tspan></text>
+        </g>
+        <g id="Group_2146-7" data-name="Group 2146" transform="translate(-205 -285)">
+          <text id="Doctor-7" data-name="Doctor" transform="translate(318 316)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Doctor</tspan></text>
+          <text id="Dr_._chan_droku_mar-7" data-name="Dr . chan droku mar" transform="translate(318 339)" fill="#272727" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Dr . chan droku mar</tspan></text>
+        </g>
+        <g id="Group_2147-7" data-name="Group 2147" transform="translate(-302.74 -175.99)">
+          <text id="Session_08-7" data-name="Session
+08" transform="translate(353.74 229.99)" fill="#d65022" font-size="16" font-family="ArialMT, Arial"><tspan x="-28.461" y="0">Session</tspan><tspan font-size="26"><tspan x="-14.46" y="30">08</tspan></tspan></text>
+        </g>
+        <text id="Time_date-7" data-name="Time/date" transform="translate(113 84)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Time/date</tspan></text>
+      </g>
+      <g id="Component_116_9-8" data-name="Component 116 – 9" transform="translate(24 4329)">
+        <g transform="matrix(1, 0, 0, 1, -21, -4558)" filter="url(#Rectangle_1480-8)">
+          <rect id="Rectangle_1480-17" data-name="Rectangle 1480" width="371" height="133" rx="12" transform="translate(21 4558)" fill="#fff"/>
+        </g>
+        <g id="Group_2140-8" data-name="Group 2140" transform="translate(-385 -105)">
+          <text id="_11_07_2020-8" data-name="11/07/2020" transform="translate(498 213)" fill="#1c1c1c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">11/07/2020</tspan></text>
+        </g>
+        <g id="Group_2149-8" data-name="Group 2149" transform="translate(-306 -105)">
+          <text id="_12:00_PM_-_2:00_PM-8" data-name="12:00 PM - 2:00 PM" transform="translate(498 213)" fill="#1c1c1c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">12:00 PM - 2:00 PM</tspan></text>
+        </g>
+        <g id="Group_2146-8" data-name="Group 2146" transform="translate(-205 -285)">
+          <text id="Doctor-8" data-name="Doctor" transform="translate(318 316)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Doctor</tspan></text>
+          <text id="Dr_._chan_droku_mar-8" data-name="Dr . chan droku mar" transform="translate(318 339)" fill="#272727" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Dr . chan droku mar</tspan></text>
+        </g>
+        <g id="Group_2147-8" data-name="Group 2147" transform="translate(-302.74 -175.99)">
+          <text id="Session_08-8" data-name="Session
+08" transform="translate(353.74 229.99)" fill="#d65022" font-size="16" font-family="ArialMT, Arial"><tspan x="-28.461" y="0">Session</tspan><tspan font-size="26"><tspan x="-14.46" y="30">08</tspan></tspan></text>
+        </g>
+        <text id="Time_date-8" data-name="Time/date" transform="translate(113 84)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Time/date</tspan></text>
+      </g>
+      <g id="Group_2552" data-name="Group 2552" transform="translate(-1029 -8494)">
+        <g id="Component_117" data-name="Component 117" transform="translate(1052 8561)">
+          <g transform="matrix(1, 0, 0, 1, -20, -296)" filter="url(#Rectangle_1480-9)">
+            <rect id="Rectangle_1480-18" data-name="Rectangle 1480" width="371" height="3185" rx="12" transform="translate(20 296)" fill="#f4f9fa"/>
+          </g>
+          <g id="Group_2140-9" data-name="Group 2140" transform="translate(-385 -103)">
+            <text id="_11_07_2020-9" data-name="11/07/2020" transform="translate(498 213)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">11/07/2020</tspan></text>
+          </g>
+          <g id="Group_2149-9" data-name="Group 2149" transform="translate(-306 -103)">
+            <text id="_12:00_PM_-_2:00_PM-9" data-name="12:00 PM - 2:00 PM" transform="translate(498 213)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">12:00 PM - 2:00 PM</tspan></text>
+          </g>
+          <g id="Group_2146-9" data-name="Group 2146" transform="translate(-205 -283)">
+            <text id="Doctor-9" data-name="Doctor" transform="translate(318 316)" fill="#8eb1e5" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Doctor</tspan></text>
+            <text id="Dr_._chan_droku_mar-9" data-name="Dr . chan droku mar" transform="translate(318 339)" fill="#2e5b9f" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Dr . chan droku mar</tspan></text>
+          </g>
+          <g id="Group_2147-9" data-name="Group 2147" transform="translate(-302.74 -173.99)">
+            <text id="Session_08-9" data-name="Session
+08" transform="translate(353.74 229.99)" fill="#d65022" font-size="16" font-family="ArialMT, Arial"><tspan x="-28.461" y="0">Session</tspan><tspan font-size="26"><tspan x="-14.46" y="30">08</tspan></tspan></text>
+          </g>
+          <text id="Time_date-9" data-name="Time/date" transform="translate(113 86)" fill="#8eb1e5" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Time/date</tspan></text>
+          <g id="Group_2555" data-name="Group 2555" transform="translate(23 2292.548)">
+            <text id="Prescription_-_Drug" data-name="Prescription - Drug" transform="translate(0 23.452)" fill="#205fbf" font-size="24" font-family="GillSans-UltraBold, Gill Sans" font-weight="700"><tspan x="0" y="0">Prescription - Drug</tspan></text>
+          </g>
+          <g id="Group_2558" data-name="Group 2558" transform="translate(23 2852.548)">
+            <text id="Prescription_-_Therapy_task" data-name="Prescription - Therapy task" transform="translate(0 23.452)" fill="#205fbf" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Prescription - Therapy task</tspan></text>
+          </g>
+          <g id="Group_2556" data-name="Group 2556" transform="translate(23.268 2352.484)">
+            <rect id="Rectangle_715" data-name="Rectangle 715" width="325" height="438" rx="5" transform="translate(-0.268 -10.484)" fill="#fff" stroke="#bfbfbf" stroke-width="1"/>
+            <g id="Group_1941" data-name="Group 1941" transform="translate(29.732 4.016)">
+              <text id="Cipla_tablet_Code_-_Cp939393" data-name="Cipla tablet
+Code - Cp939393" transform="translate(134 27.5)" fill="#272727" font-size="16" font-family="ArialMT, Arial" letter-spacing="0.01em"><tspan x="0" y="0">Cipla tablet</tspan><tspan x="0" y="25">Code - Cp939393</tspan></text>
+              <text id="_1." data-name="1." transform="translate(-19 25.5)" fill="#272727" font-size="16" font-family="ArialMT, Arial" letter-spacing="0.01em"><tspan x="0" y="0">1.</tspan></text>
+              <text id="_50mg" data-name="50mg" transform="translate(134 91.5)" fill="#272727" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">50mg</tspan></text>
+              <text id="_1-0-1" data-name="1-0-1" transform="translate(154 129.5)" fill="#272727" font-size="16" font-family="ArialMT, Arial"><tspan x="-18.676" y="0">1-0-1</tspan></text>
+              <text id="Empty" transform="translate(157 169.5)" fill="#272727" font-size="16" font-family="ArialMT, Arial"><tspan x="-22.672" y="0">Empty</tspan></text>
+              <text id="Drug_name" data-name="Drug name" transform="translate(20 24.5)" fill="#205fbf" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Drug name</tspan></text>
+              <text id="Dose" transform="translate(20 90.5)" fill="#205fbf" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Dose</tspan></text>
+              <text id="Repeatation" transform="translate(58 130.5)" fill="#205fbf" font-size="14" font-family="ArialMT, Arial"><tspan x="-37.751" y="0">Repeatation</tspan></text>
+              <text id="Intake" transform="translate(39 169.5)" fill="#205fbf" font-size="14" font-family="ArialMT, Arial"><tspan x="-19.069" y="0">Intake</tspan></text>
+            </g>
+            <g id="Group_2557" data-name="Group 2557" transform="translate(29.732 220.016)">
+              <text id="Cipla_tablet_Code_-_Cp939393-2" data-name="Cipla tablet
+Code - Cp939393" transform="translate(134 27.5)" fill="#272727" font-size="16" font-family="ArialMT, Arial" letter-spacing="0.01em"><tspan x="0" y="0">Cipla tablet</tspan><tspan x="0" y="25">Code - Cp939393</tspan></text>
+              <text id="_50mg-2" data-name="50mg" transform="translate(134 91.5)" fill="#272727" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">50mg</tspan></text>
+              <text id="_1-0-1-2" data-name="1-0-1" transform="translate(154 129.5)" fill="#272727" font-size="16" font-family="ArialMT, Arial"><tspan x="-18.676" y="0">1-0-1</tspan></text>
+              <text id="Empty-2" data-name="Empty" transform="translate(157 169.5)" fill="#272727" font-size="16" font-family="ArialMT, Arial"><tspan x="-22.672" y="0">Empty</tspan></text>
+              <text id="Drug_name-2" data-name="Drug name" transform="translate(20 24.5)" fill="#205fbf" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Drug name</tspan></text>
+              <text id="Dose-2" data-name="Dose" transform="translate(20 90.5)" fill="#205fbf" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Dose</tspan></text>
+              <text id="Repeatation-2" data-name="Repeatation" transform="translate(58 130.5)" fill="#205fbf" font-size="14" font-family="ArialMT, Arial"><tspan x="-37.751" y="0">Repeatation</tspan></text>
+              <text id="Intake-2" data-name="Intake" transform="translate(39 169.5)" fill="#205fbf" font-size="14" font-family="ArialMT, Arial"><tspan x="-19.069" y="0">Intake</tspan></text>
+              <text id="_2." data-name="2." transform="translate(-19 26.5)" fill="#272727" font-size="16" font-family="ArialMT, Arial" letter-spacing="0.01em"><tspan x="0" y="0">2.</tspan></text>
+            </g>
+            <path id="Path_4447" data-name="Path 4447" d="M-.268,210.616H313.957" transform="translate(4.904 -7)" fill="none" stroke="#bfbfbf" stroke-width="1"/>
+          </g>
+          <g id="Group_2561" data-name="Group 2561" transform="translate(23.268 2912.484)">
+            <rect id="Rectangle_715-2" data-name="Rectangle 715" width="325" height="177" rx="5" transform="translate(-0.268 -10.484)" fill="#fff" stroke="#bfbfbf" stroke-width="1"/>
+            <g id="Group_1941-2" data-name="Group 1941" transform="translate(29.732 4.016)">
+              <text id="Meet_new_people_to_overcome_crowd_stress" data-name="Meet new people to 
+overcome crowd stress" transform="translate(134 27.5)" fill="#272727" font-size="14" font-family="ArialMT, Arial" letter-spacing="0.01em"><tspan x="0" y="0">Meet new people to </tspan><tspan x="0" y="25">overcome crowd stress</tspan></text>
+              <text id="_1.-2" data-name="1." transform="translate(-19 25.5)" fill="#272727" font-size="16" font-family="ArialMT, Arial" letter-spacing="0.01em"><tspan x="0" y="0">1.</tspan></text>
+              <text id="De-addiction_tool" data-name="De-addiction tool" transform="translate(134 91.5)" fill="#272727" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">De-addiction tool</tspan></text>
+              <text id="_21_weeks" data-name="21 weeks" transform="translate(134 129.5)" fill="#272727" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">21 weeks</tspan></text>
+              <text id="Therapy_Tool" data-name="Therapy / Tool" transform="translate(20 24.5)" fill="#205fbf" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Therapy / Tool</tspan></text>
+              <text id="Tool" transform="translate(20 90.5)" fill="#205fbf" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Tool</tspan></text>
+              <text id="Duration" transform="translate(20 130.5)" fill="#205fbf" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Duration</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="Group_2527" data-name="Group 2527" transform="translate(1069 8788)">
+          <g id="Group_1880" data-name="Group 1880" transform="translate(38 1)">
+            <text id="Gardian_Name" data-name="Gardian Name" transform="translate(0 17)" fill="gray" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Gardian Name</tspan></text>
+            <text id="Akram_Malik" data-name="Akram Malik" transform="translate(163 5)" fill="#272727" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="11">Akram Malik</tspan></text>
+          </g>
+          <g id="Group_2523" data-name="Group 2523">
+            <circle id="Ellipse_350" data-name="Ellipse 350" cx="13.5" cy="13.5" r="13.5" fill="#808495" opacity="0.2"/>
+            <path id="account-multiple-outline" d="M10.853,10.547a3.547,3.547,0,0,0,0-4.129A2.4,2.4,0,0,1,12.222,6a2.483,2.483,0,0,1,0,4.966,2.4,2.4,0,0,1-1.369-.419M5.483,8.483a2.483,2.483,0,1,1,2.483,2.483A2.483,2.483,0,0,1,5.483,8.483m1.419,0A1.064,1.064,0,1,0,7.966,7.419,1.064,1.064,0,0,0,6.9,8.483m6.03,6.739v1.419H3V15.222s0-2.838,4.966-2.838,4.966,2.838,4.966,2.838m-1.419,0c-.1-.553-.944-1.419-3.547-1.419s-3.5.929-3.547,1.419M12.9,12.385a3.774,3.774,0,0,1,1.454,2.838v1.419h2.838V15.222s0-2.575-4.3-2.838Z" transform="translate(3.966 1.385)" fill="#a9aca9"/>
+          </g>
+        </g>
+        <g id="Group_2528" data-name="Group 2528" transform="translate(1069 8831.501)">
+          <g id="Group_1931" data-name="Group 1931" transform="translate(38 1)">
+            <text id="Relationship_with_patient" data-name="Relationship with patient" transform="translate(0 17.499)" fill="gray" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Relationship with patient</tspan></text>
+            <text id="Friend" transform="translate(163 5.499)" fill="#272727" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="11">Friend</tspan></text>
+          </g>
+          <g id="Group_2524" data-name="Group 2524">
+            <circle id="Ellipse_351" data-name="Ellipse 351" cx="13.5" cy="13.5" r="13.5" transform="translate(0 0.499)" fill="#808495" opacity="0.2"/>
+            <path id="account-heart-outline" d="M4.363,13.873l-.429-.358C2.5,12.155,1.5,11.3,1.5,10.223A1.589,1.589,0,0,1,3.075,8.648a1.676,1.676,0,0,1,1.288.573,1.676,1.676,0,0,1,1.288-.573,1.543,1.543,0,0,1,1.575,1.575c0,1.074-1,1.932-2.433,3.292l-.429.358M11.52,6a2.863,2.863,0,1,0,2.863,2.863A2.863,2.863,0,0,0,11.52,6m0,4.366a1.5,1.5,0,1,1,1.5-1.5,1.5,1.5,0,0,1-1.5,1.5m0,2.076c-1.911,0-5.726.952-5.726,2.863v2.147H17.246V15.3c0-1.911-3.815-2.863-5.726-2.863m4.366,3.65H7.154V15.3c0-.458,2.219-1.5,4.366-1.5,2.126,0,4.366,1.045,4.366,1.5Z" transform="translate(3.908 1.024)" fill="#a9aca9"/>
+          </g>
+        </g>
+        <g id="Group_2529" data-name="Group 2529" transform="translate(1069 8877.357)">
+          <g id="Group_1932" data-name="Group 1932" transform="translate(38 1)">
+            <text id="Problem" transform="translate(0 16.642)" fill="gray" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Problem</tspan></text>
+            <text id="Depression" transform="translate(163 4.642)" fill="#272727" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="11">Depression</tspan></text>
+          </g>
+          <g id="Group_2525" data-name="Group 2525">
+            <circle id="Ellipse_352" data-name="Ellipse 352" cx="13.5" cy="13.5" r="13.5" transform="translate(0 -0.357)" fill="gray" opacity="0.2"/>
+            <path id="account-question-outline" d="M16.526,14.091v1.156H15.37V14.091h1.156m-1.541-3.853H13.829V9.853a2.312,2.312,0,0,1,4.623,0,2.253,2.253,0,0,1-.994,1.857l-.231.146a1.586,1.586,0,0,0-.7,1.31v.154H15.37v-.154A2.721,2.721,0,0,1,16.6,10.893l.223-.146a1.067,1.067,0,0,0,.478-.894,1.156,1.156,0,0,0-2.312,0v.385m-7.32,2.7c2.057,0,6.164,1.033,6.164,3.082v2.312H1.5V16.017c0-2.05,4.107-3.082,6.164-3.082M7.664,6A3.082,3.082,0,1,1,4.582,9.082,3.082,3.082,0,0,1,7.664,6m0,8.4c-2.289,0-4.7,1.125-4.7,1.618v.848h9.4v-.848c0-.493-2.412-1.618-4.7-1.618m0-6.935A1.618,1.618,0,1,0,9.283,9.082,1.618,1.618,0,0,0,7.664,7.464Z" transform="translate(3.908 0.657)" fill="#a9aca9"/>
+          </g>
+        </g>
+        <g id="Group_2530" data-name="Group 2530" transform="translate(1069 8921.096)">
+          <g id="Group_1933" data-name="Group 1933" transform="translate(38 1)">
+            <text id="Duration_of_illness" data-name="Duration of illness" transform="translate(0 16.904)" fill="gray" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Duration of illness</tspan></text>
+            <text id="_21_Week" data-name="21 Week" transform="translate(163 4.904)" fill="#272727" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="11">21 Week</tspan></text>
+          </g>
+          <g id="Group_2526" data-name="Group 2526">
+            <circle id="Ellipse_353" data-name="Ellipse 353" cx="13.5" cy="13.5" r="13.5" transform="translate(0 -0.096)" fill="#808495" opacity="0.2"/>
+            <path id="account-clock-outline" d="M12.012,13.008h1.051v1.976l1.71.988-.526.911-2.235-1.289V13.008m.7-1.4a3.5,3.5,0,1,0,3.5,3.5,3.5,3.5,0,0,0-3.5-3.5m0-1.4a4.905,4.905,0,1,1-4.436,7.008H1.5v-2.1c0-1.864,3.735-2.8,5.606-2.8a9.386,9.386,0,0,1,1.486.14A4.9,4.9,0,0,1,12.712,10.2M7.807,15.11a4.806,4.806,0,0,1,.2-1.4,5.551,5.551,0,0,0-.9-.07c-2.081,0-4.275,1.023-4.275,1.472v.771H7.87a4.7,4.7,0,0,1-.063-.771M7.106,6A2.8,2.8,0,1,1,4.3,8.8,2.8,2.8,0,0,1,7.106,6m0,1.331A1.472,1.472,0,1,0,8.578,8.8,1.472,1.472,0,0,0,7.106,7.331Z" transform="translate(4.536 0.641)" fill="#a9aca9"/>
+          </g>
+        </g>
+        <g id="Group_2531" data-name="Group 2531" transform="translate(1069 9005)">
+          <text id="Patient_s_chief_complaints" data-name="Patient’s chief complaints" transform="translate(40 15)" fill="#606060" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Patient’s chief complaints</tspan></text>
+          <text id="The_core_symptom_of_depression_is_said_to_be_anhedonia_which_refers_to_loss_of_interest_or_a_loss_of_feeling_of_pleasure_in_certain_activities_that_usually_bring_joy_to_people._" data-name="The core symptom of depression is said to be anhedonia, which refers to loss of interest or a loss of feeling of pleasure in certain activities that usually bring joy to people. " transform="translate(40 29)" fill="#606060" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">The core symptom of depression is said to be </tspan><tspan x="0" y="33">anhedonia, which refers to loss of interest or a </tspan><tspan x="0" y="53">loss of feeling of pleasure in certain activities </tspan><tspan x="0" y="73">that usually bring joy to people. </tspan></text>
+        </g>
+        <g id="Group_2533" data-name="Group 2533" transform="translate(1069 9177)">
+          <text id="Relavant_History" data-name="Relavant History" transform="translate(40 15)" fill="#606060" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Relavant History</tspan></text>
+          <text id="The_core_symptom_of_depression_is_said_to_be_anhedonia_which_refers_to_loss_of_interest_or_a_loss_of_feeling_of_pleasure_in_certain_activities_that_usually_bring_joy_to_people._2" data-name="The core symptom of depression is said to be anhedonia, which refers to loss of interest or a loss of feeling of pleasure in certain activities that usually bring joy to people. " transform="translate(40 29)" fill="#606060" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">The core symptom of depression is said to be </tspan><tspan x="0" y="33">anhedonia, which refers to loss of interest or a </tspan><tspan x="0" y="53">loss of feeling of pleasure in certain activities </tspan><tspan x="0" y="73">that usually bring joy to people. </tspan></text>
+        </g>
+        <g id="Group_2535" data-name="Group 2535" transform="translate(1069 9349)">
+          <text id="Past_History" data-name="Past History" transform="translate(40 15)" fill="#606060" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Past History</tspan></text>
+          <text id="The_core_symptom_of_depression_is_said_to_be_anhedonia_which_refers_to_loss_of_interest_or_a_loss_of_feeling_of_pleasure_in_certain_activities_that_usually_bring_joy_to_people._3" data-name="The core symptom of depression is said to be anhedonia, which refers to loss of interest or a loss of feeling of pleasure in certain activities that usually bring joy to people. " transform="translate(40 29)" fill="#606060" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">The core symptom of depression is said to be </tspan><tspan x="0" y="33">anhedonia, which refers to loss of interest or a </tspan><tspan x="0" y="53">loss of feeling of pleasure in certain activities </tspan><tspan x="0" y="73">that usually bring joy to people. </tspan></text>
+        </g>
+        <g id="Group_2537" data-name="Group 2537" transform="translate(1069 9521)">
+          <text id="Personality_Temperament_Traits" data-name="Personality / Temperament Traits" transform="translate(40 15)" fill="#606060" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Personality / Temperament Traits</tspan></text>
+          <text id="The_core_symptom_of_depression_is_said_to_be_anhedonia_which_refers_to_loss_of_interest_or_a_loss_of_feeling_of_pleasure_in_certain_activities_that_usually_bring_joy_to_people._4" data-name="The core symptom of depression is said to be anhedonia, which refers to loss of interest or a loss of feeling of pleasure in certain activities that usually bring joy to people. " transform="translate(40 29)" fill="#606060" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">The core symptom of depression is said to be </tspan><tspan x="0" y="33">anhedonia, which refers to loss of interest or a </tspan><tspan x="0" y="53">loss of feeling of pleasure in certain activities </tspan><tspan x="0" y="73">that usually bring joy to people. </tspan></text>
+        </g>
+        <g id="Group_2549" data-name="Group 2549" transform="translate(1069 10467)">
+          <text id="Provisional_diagnosis" data-name="Provisional diagnosis" transform="translate(40 15)" fill="#606060" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Provisional diagnosis</tspan></text>
+          <text id="Depressed_mood_is_a_symptom_of_some_mood_disorders_such_as_major_depressive_disorder_or_dysthymia." data-name="Depressed mood is a symptom of some mood disorders such as major depressive disorder or dysthymia." transform="translate(40 29)" fill="#606060" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Depressed mood is a symptom of some mood </tspan><tspan x="0" y="33">disorders such as major depressive disorder or </tspan><tspan x="0" y="53">dysthymia.</tspan></text>
+        </g>
+        <g id="Group_2539" data-name="Group 2539" transform="translate(1069 9693)">
+          <text id="Mental_status_Examination_findings_MSE_" data-name="Mental status Examination findings (MSE)" transform="translate(40 15)" fill="#606060" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Mental status Examination findings (MSE)</tspan></text>
+        </g>
+        <path id="Path_4440" data-name="Path 4440" d="M60,619.787H398" transform="translate(1009 8356)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+        <path id="Path_4441" data-name="Path 4441" d="M60,619.787H398" transform="translate(1009 8528)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+        <path id="Path_4442" data-name="Path 4442" d="M60,619.787H398" transform="translate(1009 8700)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+        <path id="Path_4443" data-name="Path 4443" d="M60,619.787H398" transform="translate(1009 8872)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+        <path id="Path_4445" data-name="Path 4445" d="M60,619.787H398" transform="translate(1009 9818)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+        <path id="Path_4446" data-name="Path 4446" d="M60,619.787H398" transform="translate(1009 9975)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+        <path id="Path_4444" data-name="Path 4444" d="M60,619.787H398" transform="translate(1009 9044)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+        <g id="Group_2532" data-name="Group 2532" transform="translate(1067 9007)">
+          <circle id="Ellipse_335" data-name="Ellipse 335" cx="13.5" cy="13.5" r="13.5" transform="translate(2 -3)" fill="#1e64cc"/>
+          <text id="_1" data-name="1" transform="translate(12 15)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">1</tspan></text>
+        </g>
+        <g id="Group_2534" data-name="Group 2534" transform="translate(1067 9179)">
+          <circle id="Ellipse_335-2" data-name="Ellipse 335" cx="13.5" cy="13.5" r="13.5" transform="translate(2 -3)" fill="#1e64cc"/>
+          <text id="_2" data-name="2" transform="translate(12 15)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">2</tspan></text>
+        </g>
+        <g id="Group_2536" data-name="Group 2536" transform="translate(1067 9351)">
+          <circle id="Ellipse_335-3" data-name="Ellipse 335" cx="13.5" cy="13.5" r="13.5" transform="translate(2 -3)" fill="#1e64cc"/>
+          <text id="_3" data-name="3" transform="translate(12 15)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">3</tspan></text>
+        </g>
+        <g id="Group_2538" data-name="Group 2538" transform="translate(1067 9523)">
+          <circle id="Ellipse_335-4" data-name="Ellipse 335" cx="13.5" cy="13.5" r="13.5" transform="translate(2 -3)" fill="#1e64cc"/>
+          <text id="_4" data-name="4" transform="translate(12 15)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">4</tspan></text>
+        </g>
+        <g id="Group_2550" data-name="Group 2550" transform="translate(1067 10469)">
+          <circle id="Ellipse_335-5" data-name="Ellipse 335" cx="13.5" cy="13.5" r="13.5" transform="translate(2 -3)" fill="#1e64cc"/>
+          <text id="_4-2" data-name="4" transform="translate(12 15)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">4</tspan></text>
+        </g>
+        <g id="Group_2540" data-name="Group 2540" transform="translate(1067 9695)">
+          <circle id="Ellipse_335-6" data-name="Ellipse 335" cx="13.5" cy="13.5" r="13.5" transform="translate(2 -3)" fill="#1e64cc"/>
+          <text id="_4-3" data-name="4" transform="translate(12 15)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">4</tspan></text>
+        </g>
+        <g id="Group_2541" data-name="Group 2541" transform="translate(1069 9710)">
+          <g id="Group_1920" data-name="Group 1920" transform="translate(1 37)">
+            <text id="Depressed_mood_is_a_symptom_of_some_mood_disorders_" data-name="Depressed mood is a symptom of some mood
+disorders " transform="translate(59 37)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Depressed mood is a symptom of some mood</tspan><tspan x="0" y="20">disorders </tspan></text>
+            <text id="GAB_General_Appearance_and_behaviour_" data-name="GAB (General Appearance and behaviour )" transform="translate(59 13)" fill="#808495" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">GAB (General Appearance and behaviour )</tspan></text>
+            <text id="_-" data-name="-" transform="translate(293 13)" fill="#272727" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">-</tspan></text>
+            <circle id="Ellipse_343" data-name="Ellipse 343" cx="4" cy="4" r="4" transform="translate(39 4)" fill="#205fbf"/>
+          </g>
+          <g id="Group_2542" data-name="Group 2542" transform="translate(1 127)">
+            <text id="Depressive_disorder_or_dysthymia_it_is_a_normal_temporary_reaction_to_life_events" data-name="Depressive disorder or dysthymia; it is a normal
+temporary reaction to life events" transform="translate(59 37)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Depressive disorder or dysthymia; it is a normal</tspan><tspan x="0" y="20">temporary reaction to life events</tspan></text>
+            <text id="PMA_Psychomotor_activity_" data-name="PMA (Psychomotor activity )" transform="translate(59 13)" fill="#808495" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">PMA (Psychomotor activity )</tspan></text>
+            <text id="_--2" data-name="-" transform="translate(223 13)" fill="#272727" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">-</tspan></text>
+            <circle id="Ellipse_343-2" data-name="Ellipse 343" cx="4" cy="4" r="4" transform="translate(39 4)" fill="#205fbf"/>
+          </g>
+          <g id="Group_2545" data-name="Group 2545" transform="translate(1 402)">
+            <text id="Depressed_mood_is_a_symptom_of_some_mood_disorders_2" data-name="Depressed mood is a symptom of some mood
+disorders " transform="translate(59 37)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Depressed mood is a symptom of some mood</tspan><tspan x="0" y="20">disorders </tspan></text>
+            <text id="Mood_Affect" data-name="Mood &amp; Affect" transform="translate(59 13)" fill="#808495" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Mood &amp; Affect</tspan></text>
+            <text id="_--3" data-name="-" transform="translate(148 13)" fill="#272727" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">-</tspan></text>
+            <circle id="Ellipse_343-3" data-name="Ellipse 343" cx="4" cy="4" r="4" transform="translate(39 4)" fill="#205fbf"/>
+          </g>
+          <g id="Group_2546" data-name="Group 2546" transform="translate(1 492)">
+            <text id="Major_depressive_disorder_or_dysthymia" data-name="Major depressive disorder or dysthymia" transform="translate(59 37)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Major depressive disorder or dysthymia</tspan></text>
+            <text id="Thought" transform="translate(59 13)" fill="#808495" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Thought</tspan></text>
+            <text id="_--4" data-name="-" transform="translate(115 13)" fill="#272727" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">-</tspan></text>
+            <circle id="Ellipse_343-4" data-name="Ellipse 343" cx="4" cy="4" r="4" transform="translate(39 4)" fill="#205fbf"/>
+          </g>
+          <g id="Group_2547" data-name="Group 2547" transform="translate(1 562)">
+            <text id="Some_physical_diseases_and_a_side_effect_of_some_drugs" data-name="Some physical diseases and a side effect of
+some drugs" transform="translate(59 37)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Some physical diseases and a side effect of</tspan><tspan x="0" y="20">some drugs</tspan></text>
+            <text id="Perception" transform="translate(59 13)" fill="#808495" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Perception</tspan></text>
+            <text id="_--5" data-name="-" transform="translate(124 13)" fill="#272727" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">-</tspan></text>
+            <circle id="Ellipse_343-5" data-name="Ellipse 343" cx="4" cy="4" r="4" transform="translate(39 4)" fill="#205fbf"/>
+          </g>
+          <g id="Group_2548" data-name="Group 2548" transform="translate(1 652)">
+            <text id="Normal_temporary_reaction_to_life_events" data-name="Normal temporary reaction to life events" transform="translate(59 37)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Normal temporary reaction to life events</tspan></text>
+            <text id="Higher_mental_functions_COGNITION" data-name="Higher mental functions / COGNITION" transform="translate(59 13)" fill="#808495" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Higher mental functions / COGNITION</tspan></text>
+            <text id="_--6" data-name="-" transform="translate(276 13)" fill="#272727" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">-</tspan></text>
+            <circle id="Ellipse_343-6" data-name="Ellipse 343" cx="4" cy="4" r="4" transform="translate(39 4)" fill="#205fbf"/>
+          </g>
+          <g id="Group_2543" data-name="Group 2543" transform="translate(1 217)">
+            <text id="Speech" transform="translate(59 13)" fill="#808495" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Speech</tspan></text>
+            <text id="_--7" data-name="-" transform="translate(112 13)" fill="#272727" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">-</tspan></text>
+            <circle id="Ellipse_343-7" data-name="Ellipse 343" cx="4" cy="4" r="4" transform="translate(39 4)" fill="#205fbf"/>
+            <g id="Group_2544" data-name="Group 2544" transform="translate(-102 -52.791)">
+              <g id="Group_2513" data-name="Group 2513" transform="translate(161 83.791)">
+                <text id="Low" transform="translate(59 13)" fill="#606060" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Low</tspan></text>
+                <text id="Quantity" transform="translate(0 12)" fill="#808495" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Quantity</tspan></text>
+              </g>
+              <g id="Group_2514" data-name="Group 2514" transform="translate(160.545 110.791)">
+                <text id="_--8" data-name="-" transform="translate(40.455 13)" fill="#606060" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">-</tspan></text>
+                <text id="Rate" transform="translate(0.455 12)" fill="#808495" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Rate</tspan></text>
+              </g>
+              <g id="Group_2515" data-name="Group 2515" transform="translate(161.496 164.791)">
+                <text id="High" transform="translate(50.504 13)" fill="#606060" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">High</tspan></text>
+                <text id="Volume" transform="translate(-0.496 12)" fill="#808495" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Volume</tspan></text>
+              </g>
+              <g id="Group_2518" data-name="Group 2518" transform="translate(161.496 191.791)">
+                <text id="Low-2" data-name="Low" transform="translate(89.504 13)" fill="#606060" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Low</tspan></text>
+                <text id="Reaction_time" data-name="Reaction time" transform="translate(-0.496 12)" fill="#808495" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Reaction time</tspan></text>
+              </g>
+              <g id="Group_2516" data-name="Group 2516" transform="translate(160.841 137.791)">
+                <text id="Low-3" data-name="Low" transform="translate(38.159 13)" fill="#606060" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Low</tspan></text>
+                <text id="Tone" transform="translate(0.159 12)" fill="#808495" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Tone</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_2551" data-name="Group 2551" transform="translate(1008 10226)">
+          <text id="Physical_examination" data-name="Physical examination" transform="translate(100 419)" fill="#606060" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Physical examination</tspan></text>
+          <g id="Group_1868" data-name="Group 1868" transform="translate(40 12)">
+            <text id="_150" data-name="150" transform="translate(175 448)" fill="#606060" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">150</tspan></text>
+            <text id="Blood_pressure" data-name="Blood pressure" transform="translate(60 447)" fill="#808495" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Blood pressure</tspan></text>
+          </g>
+          <g id="Group_1869" data-name="Group 1869" transform="translate(-116 45)">
+            <text id="_150-2" data-name="150" transform="translate(331 448)" fill="#606060" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">150</tspan></text>
+            <text id="Pulse_rate" data-name="Pulse rate" transform="translate(216 447)" fill="#808495" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Pulse rate</tspan></text>
+          </g>
+          <g id="Group_1871" data-name="Group 1871" transform="translate(-430 112)">
+            <text id="_150-3" data-name="150" transform="translate(645 448)" fill="#606060" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">150</tspan></text>
+            <text id="Weight" transform="translate(530 447)" fill="#808495" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Weight</tspan></text>
+          </g>
+          <g id="Group_1870" data-name="Group 1870" transform="translate(-275 79)">
+            <text id="_150-4" data-name="150" transform="translate(490 448)" fill="#606060" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">150</tspan></text>
+            <text id="Height" transform="translate(375 447)" fill="#808495" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Height</tspan></text>
+          </g>
+          <g id="Group_2199" data-name="Group 2199" transform="translate(59 400)">
+            <circle id="Ellipse_335-7" data-name="Ellipse 335" cx="13.5" cy="13.5" r="13.5" transform="translate(2 -3)" fill="#1e64cc"/>
+            <text id="_5" data-name="5" transform="translate(12 15)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">5</tspan></text>
+          </g>
+        </g>
+        <text id="Doctor_s_note" data-name="Doctor’s note" transform="translate(1069 8755)" fill="#205fbf" font-size="24" font-family="ArialMT, Arial"><tspan x="0" y="0">Doctor’s note</tspan></text>
+      </g>
+    </g>
+    <g id="Search" transform="translate(-0.5 -60)">
+      <g transform="matrix(1, 0, 0, 1, 0.5, 60)" filter="url(#Path_7)">
+        <path id="Path_7-2" data-name="Path 7" d="M8.9,5H362.6c4.914,0,8.9,3.582,8.9,8V40c0,4.418-3.984,8-8.9,8H8.9C3.984,48,0,44.418,0,40V13C0,8.582,3.984,5,8.9,5Z" transform="translate(20 114)" fill="#f4f9fa"/>
+      </g>
+      <text id="Search-2" data-name="Search" transform="translate(36 190)" fill="#1c1c1c" font-size="16" font-family="Lato-Regular, Lato" opacity="0.2"><tspan x="0" y="16">Search</tspan></text>
+      <g id="noun_Search_860389" transform="translate(358.227 192)">
+        <g id="Group_5" data-name="Group 5">
+          <g id="Group_4" data-name="Group 4">
+            <path id="Path_8" data-name="Path 8" d="M12.9,11.737l4.091,4.091a.819.819,0,0,1-1.158,1.158L11.737,12.9A6.549,6.549,0,1,1,12.9,11.737Zm-1.7-.543a4.912,4.912,0,1,0-6.947,0A4.912,4.912,0,0,0,11.194,11.194Z" transform="translate(-1.172 -1.172)" fill="#1c1c1c" fill-rule="evenodd" opacity="0.2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1500" data-name="Group 1500" transform="translate(0 -5)">
+      <text id="Medical_records-2" data-name="Medical records" transform="translate(23 44)" fill="#1e64cc" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="22">Medical records</tspan></text>
+      <g id="Group_2650" data-name="Group 2650" transform="translate(322.479 29)">
+        <g id="Icon_ionic-ios-notifications" data-name="Icon ionic-ios-notifications" transform="translate(11 3)">
+          <circle id="Ellipse_746" data-name="Ellipse 746" cx="23" cy="23" r="23" transform="translate(-0.478 11)" fill="#fff"/>
+          <path id="Path_9493" data-name="Path 9493" d="M18.8,32.954c2.71,0,4.191-1.917,4.191-4.618H14.6C14.6,31.037,16.085,32.954,18.8,32.954Z" transform="translate(4.722 17.933)" fill="#ff9241"/>
+          <path id="Path_9494" data-name="Path 9494" d="M34.279,29.746C32.938,27.977,30.3,26.941,30.3,19.021c0-8.129-3.59-11.4-6.935-12.18-.314-.078-.54-.183-.54-.514V6.074a2.126,2.126,0,1,0-4.252,0v.253c0,.322-.227.436-.54.514-3.354.793-6.935,4.051-6.935,12.18,0,7.92-2.64,8.948-3.982,10.725A1.729,1.729,0,0,0,8.5,32.517H32.9A1.73,1.73,0,0,0,34.279,29.746Z" transform="translate(2.846 12.097)" fill="url(#linear-gradient)"/>
+          <circle id="Ellipse_747" data-name="Ellipse 747" cx="12" cy="12" r="12" transform="translate(30.522)" fill="#ff9241"/>
+          <text id="_1-2" data-name="1" transform="translate(38.521 18)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">1</tspan></text>
+        </g>
+      </g>
+    </g>
+    <path id="Path_4578" data-name="Path 4578" d="M-1789,6345.073h372" transform="translate(1810 -6156)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+    <g id="Component_119_36" data-name="Component 119 – 36" transform="translate(0 787)">
+      <g transform="matrix(1, 0, 0, 1, 0, -787)" filter="url(#Rectangle_1534)">
+        <rect id="Rectangle_1534-2" data-name="Rectangle 1534" width="412" height="60" transform="translate(0 787)" fill="#102646"/>
+      </g>
+      <g id="Group_2755" data-name="Group 2755" transform="translate(0 -779)">
+        <g id="Rectangle_1564" data-name="Rectangle 1564" transform="translate(12 789)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+          <rect width="50" height="45" stroke="none"/>
+          <rect x="0.5" y="0.5" width="49" height="44" fill="none"/>
+        </g>
+        <path id="Path_4565" data-name="Path 4565" d="M35.606,24.011l-7.368-7.1,7.368-7.1a1.37,1.37,0,0,0,.424-.982,1.4,1.4,0,0,0-.4-1,1.369,1.369,0,0,0-.982-.424h-.022a1.385,1.385,0,0,0-.982.4l-8.417,8.1a1.42,1.42,0,0,0-.424,1,1.382,1.382,0,0,0,.424,1l8.439,8.1a1.443,1.443,0,0,0,.982.4,1.42,1.42,0,0,0,1-.424,1.4,1.4,0,0,0,.4-1A1.274,1.274,0,0,0,35.606,24.011Z" transform="translate(5.036 792.435)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="1087" viewBox="0 0 412 1087">
+  <defs>
+    <filter id="Path_7" x="26" y="748" width="360" height="96.064" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_7-2" x="26" y="684" width="360" height="96.064" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-2"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1534" x="-9" y="775" width="430" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Success_page_15">
+      <rect width="412" height="1087"/>
+    </clipPath>
+  </defs>
+  <g id="Success_page_15" data-name="Success page – 15" clip-path="url(#clip-Success_page_15)">
+    <rect width="412" height="1087" fill="#102646"/>
+    <g id="CTA" transform="translate(50 769.438)">
+      <g transform="matrix(1, 0, 0, 1, -50, -769.44)" filter="url(#Path_7)">
+        <path id="Path_7-3" data-name="Path 7" d="M7.473,5H304.527C308.654,5,312,9,312,13.942v30.18c0,4.939-3.346,8.942-7.473,8.942H7.473c-4.127,0-7.473-4-7.473-8.942V13.942C0,9,3.346,5,7.473,5Z" transform="translate(50 764)" fill="#254069"/>
+      </g>
+      <text id="Things_to_keep_in_mind" data-name="Things to keep in mind" transform="translate(156 28.563)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="-70.427" y="0">Things to keep in mind</tspan></text>
+    </g>
+    <text id="Alexis_Balencesco" data-name="Alexis Balencesco" transform="translate(21 118)" fill="#fff" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Before you start lets us write on a piece of paper </tspan><tspan x="0" y="39">some basic information:</tspan><tspan font-size="26"><tspan x="0" y="64"></tspan></tspan><tspan fill="#edf4fd" font-family="ArialMT, Arial" font-weight="400"><tspan x="0" y="89">A) Name</tspan><tspan x="0" y="114"></tspan><tspan x="0" y="139">B) Current Job Title / If fresher (Desired Job)</tspan><tspan x="0" y="164">Phone Number</tspan><tspan x="0" y="189"></tspan><tspan x="0" y="214">C) Email</tspan><tspan x="0" y="239"></tspan><tspan x="0" y="264">D) Address</tspan><tspan x="0" y="289"></tspan><tspan x="0" y="314">E) Education Degree, Name of Institute </tspan><tspan x="0" y="339">(Chronological order – newest to oldest) </tspan><tspan x="0" y="364">20XX-20XX.</tspan><tspan x="0" y="389"></tspan><tspan x="0" y="414">F) Work History (Title, Company, Year (20XX-20XX) </tspan><tspan x="0" y="439">newest to oldest.</tspan><tspan x="0" y="464"></tspan><tspan x="0" y="489">G) Also add relevant school, college, or social </tspan><tspan x="0" y="514">projects where you learned the skills you will use in </tspan><tspan x="0" y="539">your new job)</tspan></tspan></text>
+    <g id="CTA-2" data-name="CTA" transform="translate(50 705.438)">
+      <g transform="matrix(1, 0, 0, 1, -50, -705.44)" filter="url(#Path_7-2)">
+        <path id="Path_7-4" data-name="Path 7" d="M7.473,5H304.527C308.654,5,312,9,312,13.942v30.18c0,4.939-3.346,8.942-7.473,8.942H7.473c-4.127,0-7.473-4-7.473-8.942V13.942C0,9,3.346,5,7.473,5Z" transform="translate(50 700)" fill="#254069"/>
+      </g>
+      <text id="Preferred_tools" data-name="Preferred tools" transform="translate(156 28.563)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="-45.91" y="0">Preferred tools</tspan></text>
+    </g>
+    <text id="Session_4_Increase_your_Job_skills" data-name="Session 4
+Increase your Job skills" transform="translate(21 26)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Session 4</tspan><tspan font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="49">Increase your Job skills</tspan></tspan></text>
+    <g id="Group_3234" data-name="Group 3234" transform="translate(4.012 -10.262)">
+      <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M15.217,17.7,23.926,9A1.645,1.645,0,1,0,21.6,6.674l-9.867,9.86a1.642,1.642,0,0,0-.048,2.268l9.908,9.929a1.645,1.645,0,0,0,2.33-2.323Z" transform="translate(362.579 30.069)" fill="#fff"/>
+      <path id="Icon_ionic-ios-arrow-back-2" data-name="Icon ionic-ios-arrow-back" d="M3.967,11.506l8.709-8.7A1.645,1.645,0,1,0,10.346.481L.479,10.341a1.642,1.642,0,0,0-.048,2.268l9.908,9.929a1.645,1.645,0,1,0,2.33-2.323Z" transform="translate(377.472 59.28) rotate(180)" fill="#fff"/>
+    </g>
+    <g id="Component_119_65" data-name="Component 119 – 65" transform="translate(0 787)">
+      <g transform="matrix(1, 0, 0, 1, 0, -787)" filter="url(#Rectangle_1534)">
+        <rect id="Rectangle_1534-2" data-name="Rectangle 1534" width="412" height="60" transform="translate(0 787)" fill="#102646"/>
+      </g>
+      <g id="Group_2755" data-name="Group 2755" transform="translate(0 -779)">
+        <g id="Rectangle_1564" data-name="Rectangle 1564" transform="translate(12 789)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+          <rect width="50" height="45" stroke="none"/>
+          <rect x="0.5" y="0.5" width="49" height="44" fill="none"/>
+        </g>
+        <path id="Path_4565" data-name="Path 4565" d="M35.606,24.011l-7.368-7.1,7.368-7.1a1.37,1.37,0,0,0,.424-.982,1.4,1.4,0,0,0-.4-1,1.369,1.369,0,0,0-.982-.424h-.022a1.385,1.385,0,0,0-.982.4l-8.417,8.1a1.42,1.42,0,0,0-.424,1,1.382,1.382,0,0,0,.424,1l8.439,8.1a1.443,1.443,0,0,0,.982.4,1.42,1.42,0,0,0,1-.424,1.4,1.4,0,0,0,.4-1A1.274,1.274,0,0,0,35.606,24.011Z" transform="translate(5.036 792.435)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="CTA-3" data-name="CTA" transform="translate(49 863.373)">
+      <path id="Path_7-5" data-name="Path 7" d="M7.473,5H304.527C308.654,5,312,9,312,13.942v30.18c0,4.939-3.346,8.942-7.473,8.942H7.473c-4.127,0-7.473-4-7.473-8.942V13.942C0,9,3.346,5,7.473,5Z" transform="translate(0 -5.438)" fill="#fff"/>
+      <text id="Add_to_do_list" data-name="Add to do list" transform="translate(76 13.563)" fill="#1e64cc" font-size="16" font-family="ArialMT, Arial"><tspan x="33.25" y="14">Add to do list</tspan></text>
+    </g>
+  </g>
+</svg>

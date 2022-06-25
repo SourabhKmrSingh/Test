@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aadd"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <filter id="Rectangle_290" x="21" y="85" width="372" height="684" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="250" height="594" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Benefits">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="Benefits" clip-path="url(#clip-Benefits)">
+    <rect width="412" height="847" fill="url(#linear-gradient)"/>
+    <path id="Path_1733" data-name="Path 1733" d="M0,2763.943s316.965,985.685,708.8,0C958.826,2135,0,2763.943,0,2763.943Z" transform="translate(1442.465 -1872.154) rotate(34)" fill="#edf4fe"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_290)">
+      <rect id="Rectangle_290-2" data-name="Rectangle 290" width="324" height="636" rx="12" transform="translate(45 106)" fill="#fff"/>
+    </g>
+    <text id="Benefits_of_zenquip" data-name="Benefits of zenquip" transform="translate(206 69)" fill="#fff" font-size="26" font-family="ArialMT, Arial"><tspan x="-108.399" y="0">Benefits of zenquip</tspan></text>
+    <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(81 126)" clip-path="url(#clip-path)">
+      <g transform="translate(-111 -235)">
+        <text id="Set_your_own_goals_and_Therapy_plans" data-name="Set your own goals and
+Therapy plans" transform="translate(161 255)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Set your own goals and</tspan><tspan x="0" y="26">Therapy plans</tspan></text>
+        <path id="Icon_awesome-check" data-name="Icon awesome-check" d="M7.133,20.263.308,13.29a1.089,1.089,0,0,1,0-1.517l1.485-1.517a1.034,1.034,0,0,1,1.485,0l4.6,4.7L17.723,4.891a1.034,1.034,0,0,1,1.485,0l1.485,1.517a1.089,1.089,0,0,1,0,1.517L8.617,20.263A1.034,1.034,0,0,1,7.133,20.263Z" transform="translate(121 237.423)" fill="#1e64cc"/>
+      </g>
+      <g transform="translate(-111 -158)">
+        <text id="Keep_End_-_End_treatment_records" data-name="Keep End - End 
+treatment records" transform="translate(161 255)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Keep End - End </tspan><tspan x="0" y="26">treatment records</tspan></text>
+        <path id="Icon_awesome-check-2" data-name="Icon awesome-check" d="M7.133,20.263.308,13.29a1.089,1.089,0,0,1,0-1.517l1.485-1.517a1.034,1.034,0,0,1,1.485,0l4.6,4.7L17.723,4.891a1.034,1.034,0,0,1,1.485,0l1.485,1.517a1.089,1.089,0,0,1,0,1.517L8.617,20.263A1.034,1.034,0,0,1,7.133,20.263Z" transform="translate(121 237.423)" fill="#1e64cc"/>
+      </g>
+      <g transform="translate(-111 -81)">
+        <text id="Track_Pills_Habit_Mood_and_activity" data-name="Track Pills, Habit, Mood
+and activity" transform="translate(161 255)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Track Pills, Habit, Mood</tspan><tspan x="0" y="26">and activity</tspan></text>
+        <path id="Icon_awesome-check-3" data-name="Icon awesome-check" d="M7.133,20.263.308,13.29a1.089,1.089,0,0,1,0-1.517l1.485-1.517a1.034,1.034,0,0,1,1.485,0l4.6,4.7L17.723,4.891a1.034,1.034,0,0,1,1.485,0l1.485,1.517a1.089,1.089,0,0,1,0,1.517L8.617,20.263A1.034,1.034,0,0,1,7.133,20.263Z" transform="translate(121 237.423)" fill="#1e64cc"/>
+      </g>
+      <g transform="translate(-111 -4)">
+        <text id="Multiple_tools_for_different_Therapy_treatment" data-name="Multiple tools for different
+Therapy / treatment" transform="translate(161 255)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Multiple tools for different</tspan><tspan x="0" y="26">Therapy / treatment</tspan></text>
+        <path id="Icon_awesome-check-4" data-name="Icon awesome-check" d="M7.133,20.263.308,13.29a1.089,1.089,0,0,1,0-1.517l1.485-1.517a1.034,1.034,0,0,1,1.485,0l4.6,4.7L17.723,4.891a1.034,1.034,0,0,1,1.485,0l1.485,1.517a1.089,1.089,0,0,1,0,1.517L8.617,20.263A1.034,1.034,0,0,1,7.133,20.263Z" transform="translate(121 237.423)" fill="#1e64cc"/>
+      </g>
+      <g transform="translate(-111 73)">
+        <text id="Add_Guardian_for_therapy_treatment" data-name="Add Guardian for
+therapy / treatment" transform="translate(161 255)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Add Guardian for</tspan><tspan x="0" y="26">therapy / treatment</tspan></text>
+        <path id="Icon_awesome-check-5" data-name="Icon awesome-check" d="M7.133,20.263.308,13.29a1.089,1.089,0,0,1,0-1.517l1.485-1.517a1.034,1.034,0,0,1,1.485,0l4.6,4.7L17.723,4.891a1.034,1.034,0,0,1,1.485,0l1.485,1.517a1.089,1.089,0,0,1,0,1.517L8.617,20.263A1.034,1.034,0,0,1,7.133,20.263Z" transform="translate(121 237.423)" fill="#1e64cc"/>
+      </g>
+      <g transform="translate(-111 150)">
+        <text id="Store_All_your_medical_records_and_Lab_reports" data-name="Store All your medical
+records and Lab reports" transform="translate(161 255)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Store All your medical</tspan><tspan x="0" y="26">records and Lab reports</tspan></text>
+        <path id="Icon_awesome-check-6" data-name="Icon awesome-check" d="M7.133,20.263.308,13.29a1.089,1.089,0,0,1,0-1.517l1.485-1.517a1.034,1.034,0,0,1,1.485,0l4.6,4.7L17.723,4.891a1.034,1.034,0,0,1,1.485,0l1.485,1.517a1.089,1.089,0,0,1,0,1.517L8.617,20.263A1.034,1.034,0,0,1,7.133,20.263Z" transform="translate(121 237.423)" fill="#1e64cc"/>
+      </g>
+      <g transform="translate(-111 227)">
+        <text id="Book_appointment_and_Consult_Psychiatrist" data-name="Book appointment and
+Consult Psychiatrist" transform="translate(161 255)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Book appointment and</tspan><tspan x="0" y="26">Consult Psychiatrist</tspan></text>
+        <path id="Icon_awesome-check-7" data-name="Icon awesome-check" d="M7.133,20.263.308,13.29a1.089,1.089,0,0,1,0-1.517l1.485-1.517a1.034,1.034,0,0,1,1.485,0l4.6,4.7L17.723,4.891a1.034,1.034,0,0,1,1.485,0l1.485,1.517a1.089,1.089,0,0,1,0,1.517L8.617,20.263A1.034,1.034,0,0,1,7.133,20.263Z" transform="translate(121 237.423)" fill="#1e64cc"/>
+      </g>
+      <g transform="translate(-111 304)">
+        <text id="Virtual_Appointment_text_Video_calls_" data-name="Virtual Appointment
+(text, Video calls)" transform="translate(161 255)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Virtual Appointment</tspan><tspan x="0" y="26">(text, Video calls)</tspan></text>
+        <path id="Icon_awesome-check-8" data-name="Icon awesome-check" d="M7.133,20.263.308,13.29a1.089,1.089,0,0,1,0-1.517l1.485-1.517a1.034,1.034,0,0,1,1.485,0l4.6,4.7L17.723,4.891a1.034,1.034,0,0,1,1.485,0l1.485,1.517a1.089,1.089,0,0,1,0,1.517L8.617,20.263A1.034,1.034,0,0,1,7.133,20.263Z" transform="translate(121 237.423)" fill="#1e64cc"/>
+      </g>
+    </g>
+    <g id="Group_1495" data-name="Group 1495" transform="translate(-8)">
+      <rect id="Rectangle_292" data-name="Rectangle 292" width="294" height="50" rx="25" transform="translate(67 768)" fill="#ff9241"/>
+      <text id="Get_Started" data-name="Get Started" transform="translate(163 801)" fill="#fff" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">Get Started</tspan></text>
+    </g>
+  </g>
+</svg>

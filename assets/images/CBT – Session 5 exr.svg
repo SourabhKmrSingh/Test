@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="1084" viewBox="0 0 412 1084">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aadd"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <filter id="Rectangle_1570" x="-24" y="84" width="460" height="1024" filterUnits="userSpaceOnUse">
+      <feOffset dy="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-CBT_Session_5_exr">
+      <rect width="412" height="1084"/>
+    </clipPath>
+  </defs>
+  <g id="CBT_Session_5_exr" data-name="CBT – Session 5 exr" clip-path="url(#clip-CBT_Session_5_exr)">
+    <rect width="412" height="1084" fill="url(#linear-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1570)">
+      <path id="Rectangle_1570-2" data-name="Rectangle 1570" d="M30,0H382a30,30,0,0,1,30,30V976a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V30A30,30,0,0,1,30,0Z" transform="translate(0 111)" fill="#102646"/>
+    </g>
+    <g id="Group_3594" data-name="Group 3594" transform="translate(20 143)">
+      <rect id="Rectangle_1844" data-name="Rectangle 1844" width="224" height="51" rx="6" fill="#edf4fd"/>
+      <text id="Describe_about_the_event" data-name="Describe about the event" transform="translate(18 14)" fill="#2e5b9f" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Describe about the event</tspan></text>
+    </g>
+    <g id="Group_3595" data-name="Group 3595" transform="translate(20 333)">
+      <rect id="Rectangle_1844-2" data-name="Rectangle 1844" width="336" height="51" rx="6" fill="#edf4fd"/>
+      <text id="What_you_are_bothered_by_this_incident" data-name="What you are bothered by this incident" transform="translate(18 14)" fill="#2e5b9f" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">What you are bothered by this incident</tspan></text>
+    </g>
+    <g id="Group_3596" data-name="Group 3596" transform="translate(20 510)">
+      <rect id="Rectangle_1844-3" data-name="Rectangle 1844" width="319" height="51" rx="6" fill="#edf4fd"/>
+      <text id="Okay_So_what_" data-name="Okay So what ?" transform="translate(18 14)" fill="#2e5b9f" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Okay So what ?</tspan></text>
+    </g>
+    <g id="Group_3597" data-name="Group 3597" transform="translate(20 687)">
+      <rect id="Rectangle_1844-4" data-name="Rectangle 1844" width="373" height="183" rx="6" fill="#edf4fd"/>
+      <text id="Is_there_any_core_belief_in_your_thinking_" data-name="Is there any core belief in your thinking ?" transform="translate(18 14)" fill="#2e5b9f" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Is there any core belief in your thinking ?</tspan></text>
+      <text id="Yes" transform="translate(18 60)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Yes</tspan></text>
+      <text id="No" transform="translate(18 144)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">No</tspan></text>
+      <text id="Or" transform="translate(18 102)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Or</tspan></text>
+      <path id="Path_8477" data-name="Path 8477" d="M1053,4508.186h292.177" transform="translate(-986.341 -4394.186)" fill="none" stroke="#fff" stroke-width="2" opacity="0.206"/>
+    </g>
+    <text id="Social_Marital_Familial_problems_in_detail_example_poor_relation_with_spouse_children_etc_" data-name="Social/Marital/Familial problems in detail (example poor relation with spouse, children etc)" transform="translate(64 234)" fill="#d2dff2" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Social/Marital/Familial problems in detail </tspan><tspan x="0" y="32">(example poor relation with spouse, children </tspan><tspan x="0" y="50">etc)</tspan></text>
+    <text id="Social_Marital_Familial_problems_in_detail_example_poor_relation_with_spouse_children_etc_2" data-name="Social/Marital/Familial problems in detail (example poor relation with spouse, children etc)" transform="translate(64 424)" fill="#d2dff2" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Social/Marital/Familial problems in detail </tspan><tspan x="0" y="32">(example poor relation with spouse, children </tspan></text>
+    <text id="Social_Marital_Familial_problems_in_detail_example_poor_relation_with_spouse_children_etc_3" data-name="Social/Marital/Familial problems in detail (example poor relation with spouse, children etc)" transform="translate(64 601)" fill="#d2dff2" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Social/Marital/Familial problems in detail </tspan><tspan x="0" y="32">(example poor relation with spouse, children </tspan></text>
+    <text id="Session_5_Find_your_beliefs" data-name="Session 5
+Find your beliefs" transform="translate(20 26)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Session 5</tspan><tspan font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="49">Find your beliefs</tspan></tspan></text>
+    <g id="Group_3234" data-name="Group 3234" transform="translate(3.012 -10.262)">
+      <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M15.217,17.7,23.926,9A1.645,1.645,0,1,0,21.6,6.674l-9.867,9.86a1.642,1.642,0,0,0-.048,2.268l9.908,9.929a1.645,1.645,0,0,0,2.33-2.323Z" transform="translate(362.579 30.069)" fill="#fff"/>
+      <path id="Icon_ionic-ios-arrow-back-2" data-name="Icon ionic-ios-arrow-back" d="M3.967,11.506l8.709-8.7A1.645,1.645,0,1,0,10.346.481L.479,10.341a1.642,1.642,0,0,0-.048,2.268l9.908,9.929a1.645,1.645,0,1,0,2.33-2.323Z" transform="translate(377.472 59.28) rotate(180)" fill="#fff"/>
+    </g>
+    <g id="Group_3380" data-name="Group 3380" transform="translate(0 7)">
+      <g id="Rectangle_2143" data-name="Rectangle 2143" transform="translate(7 785)" fill="#fff" stroke="#2e5b9f" stroke-width="1">
+        <rect width="397" height="54" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="396" height="53" rx="7.5" fill="none"/>
+      </g>
+      <text id="Social_Marital_Familial_problems_in_detail_example_poor_relation_with_spouse_children_etc_4" data-name="Social/Marital/Familial problems in detail (example poor relation with spouse, children etc)" transform="translate(22 793)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Social/Marital/Familial problems in detail </tspan><tspan x="0" y="34">(example poor relation with spouse, children </tspan></text>
+      <path id="Icon_ionic-md-send" data-name="Icon ionic-md-send" d="M3.375,31.5,32.625,18,3.375,4.5V15l20.953,3L3.375,21Z" transform="translate(354.75 795)" fill="#1e64cc"/>
+    </g>
+  </g>
+</svg>

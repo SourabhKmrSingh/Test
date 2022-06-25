@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="902" viewBox="0 0 412 902">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4b8ceb"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <clipPath id="clip-Side_effect_reeportiing-2_2">
+      <rect width="412" height="902"/>
+    </clipPath>
+  </defs>
+  <g id="Side_effect_reeportiing-2_2" data-name="Side effect reeportiing-2 – 2" clip-path="url(#clip-Side_effect_reeportiing-2_2)">
+    <rect width="412" height="902" fill="#e9eff4"/>
+    <rect id="Rectangle_2122" data-name="Rectangle 2122" width="372" height="208" rx="10" transform="translate(21 295)" fill="#f2f5f7"/>
+    <text id="Medicine" transform="translate(21 150)" fill="#0e58c7" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="16">Medicine</tspan></text>
+    <text id="Side_effects" data-name="Side effects" transform="translate(21 264)" fill="#0e58c7" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="16">Side effects</tspan></text>
+    <text id="One_night_Emily_stabs_Martin_to_death_while_sleepwalking._Jonathan_fights_for_Emily_s_acquittal_in_court._She_pleads_not_guilty_by_reason_of_insanity_and_is_declared_innocent_on_the_condition_that_she_stays_in_a_psychiatric_hospital_until_cleared_by_Jonat" data-name="One night, Emily stabs Martin to death while sleepwalking. Jonathan fights for Emily’s acquittal in court. She pleads not guilty by reason of insanity and is declared innocent on the condition that she stays in a psychiatric hospital until cleared by Jonat" transform="translate(36 313)" fill="#2e5b9f" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">One night, Emily stabs Martin to death while </tspan><tspan x="0" y="39">sleepwalking. Jonathan fights for Emily’s </tspan><tspan x="0" y="64">acquittal in court. She pleads not guilty by </tspan><tspan x="0" y="89">reason of insanity and is declared innocent on </tspan><tspan x="0" y="114">the condition that she stays in a psychiatric </tspan><tspan x="0" y="139">hospital until cleared by Jonathan.</tspan></text>
+    <g id="Group_1500" data-name="Group 1500" transform="translate(0 -5)">
+      <text id="Side_Effects_Reporting" data-name="Side Effects Reporting" transform="translate(23 29)" fill="#0e58c7" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="22">Side Effects </tspan><tspan x="0" y="53">Reporting</tspan></text>
+      <g id="Group_2650" data-name="Group 2650" transform="translate(322.479 29)">
+        <g id="Icon_ionic-ios-notifications" data-name="Icon ionic-ios-notifications" transform="translate(11 3)">
+          <circle id="Ellipse_746" data-name="Ellipse 746" cx="23" cy="23" r="23" transform="translate(-0.478 11)" fill="#fff"/>
+          <path id="Path_9493" data-name="Path 9493" d="M18.8,32.954c2.71,0,4.191-1.917,4.191-4.618H14.6C14.6,31.037,16.085,32.954,18.8,32.954Z" transform="translate(4.722 17.933)" fill="#ff9241"/>
+          <path id="Path_9494" data-name="Path 9494" d="M34.279,29.746C32.938,27.977,30.3,26.941,30.3,19.021c0-8.129-3.59-11.4-6.935-12.18-.314-.078-.54-.183-.54-.514V6.074a2.126,2.126,0,1,0-4.252,0v.253c0,.322-.227.436-.54.514-3.354.793-6.935,4.051-6.935,12.18,0,7.92-2.64,8.948-3.982,10.725A1.729,1.729,0,0,0,8.5,32.517H32.9A1.73,1.73,0,0,0,34.279,29.746Z" transform="translate(2.846 12.097)" fill="url(#linear-gradient)"/>
+          <circle id="Ellipse_747" data-name="Ellipse 747" cx="12" cy="12" r="12" transform="translate(30.522)" fill="#ff9241"/>
+          <text id="_1" data-name="1" transform="translate(38.521 18)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">1</tspan></text>
+        </g>
+      </g>
+    </g>
+    <path id="Path_4578" data-name="Path 4578" d="M-1789,6345.073h372" transform="translate(1810 -6222)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+    <g id="card" transform="translate(-7 17)">
+      <g id="bg" transform="translate(28 164)" fill="#f2f5f7" stroke="#e4e9f4" stroke-width="1">
+        <rect width="372" height="60" rx="12" stroke="none"/>
+        <rect x="0.5" y="0.5" width="371" height="59" rx="11.5" fill="none"/>
+      </g>
+      <g id="Group_3695" data-name="Group 3695" transform="translate(52.135 186.029)">
+        <text id="Abatacept_100mg" data-name="Abatacept 100mg" transform="translate(19.865 12.942)" fill="#2e5b9f" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Abatacept 100mg</tspan></text>
+        <path id="Icon_awesome-pills" data-name="Icon awesome-pills" d="M2.929,0A2.927,2.927,0,0,0,0,2.929V8.786a2.929,2.929,0,1,0,5.858,0V2.929A2.927,2.927,0,0,0,2.929,0ZM4.184,5.858H1.674V2.929a1.255,1.255,0,1,1,2.51,0Z" transform="matrix(0.839, 0.545, -0.545, 0.839, 6.381, 0)" fill="#2e5b9f"/>
+      </g>
+    </g>
+    <g id="Group_3380" data-name="Group 3380">
+      <rect id="Rectangle_1927" data-name="Rectangle 1927" width="411" height="67" transform="translate(0 780)" fill="#e9eff4"/>
+      <path id="Path_4714" data-name="Path 4714" d="M1053,4508.186h411.151" transform="translate(-1053 -3729)" fill="none" stroke="#fff" stroke-width="2" opacity="0.206"/>
+      <g id="Group_3224" data-name="Group 3224" transform="translate(0 786.262)">
+        <g id="Group_3212" data-name="Group 3212" transform="translate(34.47 14.737)">
+          <text id="Back" transform="translate(19.06 18)" fill="#1e64cc" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Back</tspan></text>
+          <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M14.033,14.264l6.109-6.1a1.154,1.154,0,0,0-1.634-1.629l-6.921,6.916a1.152,1.152,0,0,0-.034,1.591L18.5,22a1.154,1.154,0,1,0,1.634-1.629Z" transform="translate(-11.251 -3.193)" fill="#1e64cc"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

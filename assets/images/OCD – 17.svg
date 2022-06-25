@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <clipPath id="clip-OCD_17">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="OCD_17" data-name="OCD – 17" clip-path="url(#clip-OCD_17)">
+    <rect width="412" height="847" fill="#f5f8fa"/>
+    <g id="Group_3078" data-name="Group 3078" transform="translate(-7408 -10082)">
+      <rect id="Rectangle_1710" data-name="Rectangle 1710" width="372" height="609" rx="15" transform="translate(7428 10237)" fill="#fff"/>
+      <text id="Have_you_continued_your_drug_use_despite_knowledge_of_developing_a_persistent_or_recurring_physical_or_psychological_problem_" data-name="Have you continued your drug use despite knowledge of developing a persistent or recurring physical or psychological problem? " transform="translate(7443 10252)" fill="#2e5b9f" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="16">Have you continued your drug use despite </tspan><tspan x="0" y="46">knowledge of developing a persistent or </tspan><tspan x="0" y="76">recurring physical or psychological </tspan><tspan x="0" y="106">problem? </tspan></text>
+    </g>
+    <text id="Session_2_Questionnaire_-_11" data-name="Session 2
+Questionnaire - 11" transform="translate(29 26)" fill="#1f64cc" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Session 2</tspan><tspan font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="49">Questionnaire - 11</tspan></tspan></text>
+    <text id="Questions_1_44" data-name="Questions 1/44" transform="translate(29 113)" fill="#808495" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Questions 1/44</tspan></text>
+    <path id="Rectangle_1720" data-name="Rectangle 1720" d="M30,0H182a0,0,0,0,1,0,0V60a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V30A30,30,0,0,1,30,0Z" transform="translate(230 787)" fill="#1e64cc"/>
+    <g id="Group_3096" data-name="Group 3096" transform="translate(-15 -213)">
+      <text id="Next" transform="translate(310 1038)" fill="#f2f5f7" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">Next</tspan></text>
+      <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M14.033,14.264l6.109-6.1a1.154,1.154,0,0,0-1.634-1.629l-6.921,6.916a1.152,1.152,0,0,0-.034,1.591L18.5,22a1.154,1.154,0,1,0,1.634-1.629Z" transform="translate(389.251 1046.266) rotate(180)" fill="#f2f5f7"/>
+    </g>
+    <g id="Group_3076" data-name="Group 3076" transform="translate(-37.007 -291)">
+      <rect id="Rectangle_1708" data-name="Rectangle 1708" width="349" height="5" rx="2.5" transform="translate(66.007 391)" fill="#dce9f5"/>
+      <rect id="Rectangle_1709" data-name="Rectangle 1709" width="57" height="5" rx="2.5" transform="translate(66.007 391)" fill="#1e64cc"/>
+    </g>
+    <g id="Group_3308" data-name="Group 3308" transform="translate(-26.831 33.107)">
+      <g id="Search" transform="translate(51.742 546.221)">
+        <path id="Path_7" data-name="Path 7" d="M8.675,5H353.5c4.791,0,8.675,4.777,8.675,10.669V51.676c0,5.892-3.884,10.669-8.675,10.669H8.675C3.884,62.345,0,57.568,0,51.676V15.669C0,9.777,3.884,5,8.675,5Z" transform="translate(0 -5)" fill="#f7fafc"/>
+        <text id="Never_or_almost_never" data-name="Never or almost never" transform="translate(76.049 16.837)" fill="#808495" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Never Or Almost Never</tspan></text>
+      </g>
+      <g id="Search-2" data-name="Search" transform="translate(51.742 668.548)">
+        <path id="Path_7-2" data-name="Path 7" d="M8.675,5H353.5c4.791,0,8.675,4.777,8.675,10.669V51.676c0,5.892-3.884,10.669-8.675,10.669H8.675C3.884,62.345,0,57.568,0,51.676V15.669C0,9.777,3.884,5,8.675,5Z" transform="translate(0 -5)" fill="#f7fafc"/>
+        <text id="Many_times_Almost_always" data-name="Many times/Almost always" transform="translate(76.049 16.837)" fill="#808495" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Many Times/Almost Always</tspan></text>
+      </g>
+      <g id="Group_3106" data-name="Group 3106" transform="translate(73.532 550.778)">
+        <circle id="Ellipse_579" data-name="Ellipse 579" cx="24.115" cy="24.115" r="24.115" fill="#f7fafd"/>
+        <path id="Icon_material-thumb-down" data-name="Icon material-thumb-down" d="M16.083,4.5H6.708A2.069,2.069,0,0,0,4.791,5.771L1.646,13.114a2.058,2.058,0,0,0-.146.76v1.989l.01.01-.01.083a2.089,2.089,0,0,0,2.083,2.083h6.573l-.99,4.76-.031.333a1.568,1.568,0,0,0,.458,1.1l1.1,1.094,6.864-6.864a2.07,2.07,0,0,0,.6-1.469V6.583A2.089,2.089,0,0,0,16.083,4.5Zm4.166,0V17h4.166V4.5Z" transform="translate(11.281 10.871)" fill="#e68b3b"/>
+      </g>
+      <g id="Group_3109" data-name="Group 3109" transform="translate(73.532 673.105)">
+        <circle id="Ellipse_579-2" data-name="Ellipse 579" cx="24.115" cy="24.115" r="24.115" transform="translate(0 0)" fill="#f7fafd"/>
+        <path id="Icon_material-thumb-down-2" data-name="Icon material-thumb-down" d="M14.583,0H5.208A2.069,2.069,0,0,0,3.291,1.271L.146,8.614A2.058,2.058,0,0,0,0,9.374v1.989l.01.01L0,11.458a2.089,2.089,0,0,0,2.083,2.083H8.656l-.99,4.76-.031.333a1.568,1.568,0,0,0,.458,1.1l1.1,1.094,6.864-6.864a2.07,2.07,0,0,0,.6-1.469V2.083A2.089,2.089,0,0,0,14.583,0Zm4.166,0V12.5h4.166V0Z" transform="translate(35.573 32.12) rotate(180)" fill="#73bc1d"/>
+      </g>
+      <g id="Group_3245" data-name="Group 3245" transform="translate(51.742 607.384)">
+        <path id="Path_5300" data-name="Path 5300" d="M8.675,5H353.5c4.791,0,8.675,4.777,8.675,10.669V51.676c0,5.892-3.884,10.669-8.675,10.669H8.675C3.884,62.345,0,57.568,0,51.676V15.669C0,9.777,3.884,5,8.675,5Z" transform="translate(0 -5)" fill="#f7fafc"/>
+        <text id="Sometimes" transform="translate(79.667 16.837)" fill="#808495" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Sometimes</tspan></text>
+        <path id="Icon_awesome-hand-rock" data-name="Icon awesome-hand-rock" d="M18.448,4.155A1.905,1.905,0,0,0,16.511,6.06h-.318V4.822A1.929,1.929,0,0,0,14.32,2.885,1.905,1.905,0,0,0,12.383,4.79V6.06h-.318V4.187A1.929,1.929,0,0,0,10.193,2.25,1.905,1.905,0,0,0,8.256,4.155V6.06H7.938V4.822A1.929,1.929,0,0,0,6.065,2.885,1.905,1.905,0,0,0,4.128,4.79v5.4L3.81,9.906V8A1.929,1.929,0,0,0,1.937,6.06,1.905,1.905,0,0,0,0,7.965V10.6a3.819,3.819,0,0,0,1.278,2.85l4.433,3.941a1.914,1.914,0,0,1,.639,1.425v.266a.95.95,0,0,0,.953.953h9.526a.95.95,0,0,0,.953-.953v-.115a3.867,3.867,0,0,1,.3-1.48l1.945-4.616a3.794,3.794,0,0,0,.3-1.48v-5.3A1.927,1.927,0,0,0,18.448,4.155Z" transform="translate(35.744 17.53)" fill="#bfcc1e"/>
+      </g>
+    </g>
+    <g id="Group_3234" data-name="Group 3234" transform="translate(-4.848 -10.263)">
+      <path id="Icon_ionic-ios-arrow-back-2" data-name="Icon ionic-ios-arrow-back" d="M15.217,17.7,23.926,9A1.645,1.645,0,1,0,21.6,6.674l-9.867,9.86a1.642,1.642,0,0,0-.048,2.268l9.908,9.929a1.645,1.645,0,0,0,2.33-2.323Z" transform="translate(362.579 30.069)" fill="#1e64cc"/>
+      <path id="Icon_ionic-ios-arrow-back-3" data-name="Icon ionic-ios-arrow-back" d="M3.967,11.506l8.709-8.7A1.645,1.645,0,1,0,10.346.481L.479,10.341a1.642,1.642,0,0,0-.048,2.268l9.908,9.929a1.645,1.645,0,1,0,2.33-2.323Z" transform="translate(377.472 59.28) rotate(180)" fill="#1e64cc"/>
+    </g>
+    <g id="Group_3095" data-name="Group 3095" transform="translate(-3.137 -214)">
+      <text id="Close" transform="translate(54.196 1038)" fill="#1e64cc" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="0">Close</tspan></text>
+      <path id="Icon_ionic-ios-arrow-back-4" data-name="Icon ionic-ios-arrow-back" d="M13.253,12l4.4-4.393a.83.83,0,1,0-1.176-1.173l-4.981,4.978a.829.829,0,0,0-.024,1.145l5,5.013A.83.83,0,0,0,17.646,16.4Z" transform="translate(26.199 1019.069)" fill="#1e64cc"/>
+      <path id="Icon_ionic-ios-arrow-back-5" data-name="Icon ionic-ios-arrow-back" d="M2,5.809,6.4,1.415A.83.83,0,0,0,5.223.243L.242,5.221A.829.829,0,0,0,.218,6.366l5,5.013A.83.83,0,1,0,6.4,10.205Z" transform="translate(39.054 1036.883) rotate(180)" fill="#1e64cc"/>
+    </g>
+  </g>
+</svg>

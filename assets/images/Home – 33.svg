@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <clipPath id="clip-Home_33">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="Home_33" data-name="Home – 33" clip-path="url(#clip-Home_33)">
+    <rect id="Rectangle_1978" data-name="Rectangle 1978" width="412" height="847" fill="#151515" opacity="0.803"/>
+    <g id="Group_3563" data-name="Group 3563" transform="translate(0 -129)">
+      <g id="Big_Card" data-name="Big Card" transform="translate(51 302)">
+        <rect id="Cirlce_Background" data-name="Cirlce Background" width="369" height="426" rx="21" transform="translate(-29 32)" fill="#102646"/>
+        <text id="Set_Goal" data-name="Set Goal" transform="translate(-2 54)" fill="#fff" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="22">Set Goal</tspan></text>
+        <path id="Icon_ionic-md-close" data-name="Icon ionic-md-close" d="M28.377,9.609,26.292,7.523,17.95,15.865,9.609,7.523,7.523,9.609l8.342,8.342L7.523,26.292l2.085,2.085,8.342-8.342,8.342,8.342,2.085-2.085L20.035,17.95Z" transform="translate(288.184 48.309)" fill="#808495"/>
+        <text id="Start_from" data-name="Start from" transform="translate(-2 139)" fill="#fff" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="16">Start from</tspan></text>
+        <text id="End" transform="translate(-2 212)" fill="#fff" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="16">End</tspan></text>
+        <g id="Group_3530" data-name="Group 3530" transform="translate(206.561 139)">
+          <g id="Rectangle_1583" data-name="Rectangle 1583" transform="translate(0.439)" fill="none" stroke="#fff" stroke-width="1">
+            <rect width="110" height="35" rx="5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="109" height="34" rx="4.5" fill="none"/>
+          </g>
+          <g id="Group_2759" data-name="Group 2759" transform="translate(22.248 7.025)">
+            <text id="Today" transform="translate(20.916 16)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Today</tspan></text>
+            <path id="Icon_ionic-md-calendar" data-name="Icon ionic-md-calendar" d="M16.3,12.572H12.572V16.3H16.3ZM15.055,4.5V5.742H8.846V4.5H6.984V5.742H6.052A1.557,1.557,0,0,0,4.5,7.294V17.85A1.557,1.557,0,0,0,6.052,19.4h11.8A1.557,1.557,0,0,0,19.4,17.85V7.294A1.557,1.557,0,0,0,17.85,5.742h-.931V4.5ZM17.85,17.85H6.052V9.622h11.8Z" transform="translate(-4.5 -0.827)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_2778" data-name="Group 2778" transform="translate(206.561 212)">
+          <g id="Rectangle_1600" data-name="Rectangle 1600" transform="translate(0.439)" fill="none" stroke="#fff" stroke-width="1">
+            <rect width="110" height="35" rx="5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="109" height="34" rx="4.5" fill="none"/>
+          </g>
+          <g id="Group_2776" data-name="Group 2776" transform="translate(7.248 9.025)">
+            <text id="_28_03_2021" data-name="28/03/2021" transform="translate(23.916 13)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">28/03/2021</tspan></text>
+            <path id="Icon_ionic-md-calendar-2" data-name="Icon ionic-md-calendar" d="M16.3,12.572H12.572V16.3H16.3ZM15.055,4.5V5.742H8.846V4.5H6.984V5.742H6.052A1.557,1.557,0,0,0,4.5,7.294V17.85A1.557,1.557,0,0,0,6.052,19.4h11.8A1.557,1.557,0,0,0,19.4,17.85V7.294A1.557,1.557,0,0,0,17.85,5.742h-.931V4.5ZM17.85,17.85H6.052V9.622h11.8Z" transform="translate(-4.5 -3.827)" fill="#fff"/>
+          </g>
+        </g>
+        <text id="_60_days" data-name="60 days" transform="translate(0 244)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">60 days</tspan></text>
+        <g id="Symbol_123_6" data-name="Symbol 123 – 6" transform="translate(168.006 378)">
+          <rect id="Rectangle_150" data-name="Rectangle 150" width="120" height="40" rx="5" transform="translate(-0.007)" fill="#ff9241"/>
+          <text id="SHARE" transform="translate(59.994 24)" fill="#fff" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-26.831" y="0">Confirm</tspan></text>
+        </g>
+        <g id="Symbol_124_2" data-name="Symbol 124 – 2" transform="translate(17.994 378)">
+          <g id="Rectangle_151" data-name="Rectangle 151" transform="translate(0.007)" fill="none" stroke="#fff" stroke-width="1">
+            <rect width="120" height="40" rx="5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="119" height="39" rx="4.5" fill="none"/>
+          </g>
+          <text id="SKIP" transform="translate(60.006 24)" fill="#fff" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-22.955" y="0">Cancel</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

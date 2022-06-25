@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aadd"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <filter id="Cirlce_Background" x="-32.5" y="225.5" width="477" height="464" filterUnits="userSpaceOnUse">
+      <feOffset dy="34" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="27.5" result="blur"/>
+      <feFlood flood-color="#282828" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="bg" x="26" y="499" width="360" height="102" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-2"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-OCD_reminder">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="OCD_reminder" data-name="OCD reminder" clip-path="url(#clip-OCD_reminder)">
+    <rect id="Rectangle_1978" data-name="Rectangle 1978" width="412" height="847" fill="#272727" opacity="0.6"/>
+    <g id="Group_3563" data-name="Group 3563" transform="translate(-1 -28)">
+      <g id="Big_Card" data-name="Big Card" transform="translate(51 302)">
+        <g transform="matrix(1, 0, 0, 1, -50, -274)" filter="url(#Cirlce_Background)">
+          <rect id="Cirlce_Background-2" data-name="Cirlce Background" width="312" height="299" rx="21" transform="translate(50 274)" fill="url(#linear-gradient)"/>
+        </g>
+        <text id="Target_time_Reached" data-name="Target time Reached" transform="translate(38 189)" fill="#f2f5f7" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="30.64" y="16">Target time Reached</tspan></text>
+        <text id="Alexis_Balencesco" data-name="Alexis Balencesco" transform="translate(53 19)" fill="#f2f5f7" font-size="13" font-family="ArialMT, Arial"><tspan x="31.241" y="12">OCD Challenge Level - 1</tspan></text>
+        <g id="Group_3505" data-name="Group 3505" transform="translate(104.585 65.198)">
+          <circle id="Ellipse_550" data-name="Ellipse 550" cx="49" cy="49" r="49" transform="translate(2.415 2.803)" fill="#dbecff" opacity="0.354"/>
+          <circle id="Ellipse_430" data-name="Ellipse 430" cx="42" cy="42" r="42" transform="translate(9.415 9.802)" fill="#fff"/>
+          <text id="_2mins" data-name="2mins" transform="translate(52.414 57.801)" fill="#1e64cc" font-size="15" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-21.676" y="0">2mins</tspan></text>
+        </g>
+        <g id="Group_3068" data-name="Group 3068" transform="translate(-51 -2)">
+          <g transform="matrix(1, 0, 0, 1, 1, -272)" filter="url(#bg)">
+            <path id="bg-2" data-name="bg" d="M0,0H312a0,0,0,0,1,0,0V42a12,12,0,0,1-12,12H12A12,12,0,0,1,0,42V0A0,0,0,0,1,0,0Z" transform="translate(50 519)" fill="#ff9241"/>
+          </g>
+          <text id="Add_your_Distress_level" data-name="Add your Distress level" transform="translate(207 280)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="-81.809" y="0">Add your Distress level</tspan></text>
+        </g>
+        <path id="Icon_ionic-md-close" data-name="Icon ionic-md-close" d="M19.691,8.74,18.475,7.523l-4.867,4.867L8.74,7.523,7.523,8.74l4.867,4.867L7.523,18.475,8.74,19.691l4.867-4.867,4.867,4.867,1.217-1.217-4.867-4.867Z" transform="translate(268.869 13.393)" fill="#edf4fd"/>
+      </g>
+    </g>
+  </g>
+</svg>

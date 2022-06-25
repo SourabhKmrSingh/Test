@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aadd"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <filter id="Cirlce_Background" x="-32.5" y="193.5" width="477" height="554" filterUnits="userSpaceOnUse">
+      <feOffset dy="34" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="27.5" result="blur"/>
+      <feFlood flood-color="#282828" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_7" x="61.736" y="441.969" width="286.527" height="96.064" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-2"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_7-2" x="61.736" y="506.969" width="286.527" height="96.064" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-3"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Success_page_38">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="Success_page_38" data-name="Success page – 38" clip-path="url(#clip-Success_page_38)">
+    <rect width="412" height="847" fill="#f2f5f7"/>
+    <g id="Background" transform="translate(-0.372)" style="isolation: isolate">
+      <path id="Mask" d="M0,0H414a0,0,0,0,1,0,0V491a34,34,0,0,1-34,34H34A34,34,0,0,1,0,491V0A0,0,0,0,1,0,0Z" transform="translate(0.372)" fill="url(#linear-gradient)"/>
+    </g>
+    <text id="Congratulations_You" data-name="Congratulations! You" transform="translate(207 121)" fill="#fff" font-size="34" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-114.327" y="0">Successfully !</tspan><tspan x="-52.884" y="45">Added</tspan></text>
+    <g id="Big_Card" data-name="Big Card" transform="translate(50 242)">
+      <g transform="matrix(1, 0, 0, 1, -50, -242)" filter="url(#Cirlce_Background)">
+        <rect id="Cirlce_Background-2" data-name="Cirlce Background" width="312" height="389" rx="21" transform="translate(50 242)" fill="#fff"/>
+      </g>
+      <text id="Congratulations_You-2" data-name="Congratulations! You" transform="translate(155 87)" fill="#2e5b9f" font-size="22" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-130.163" y="0">How is your mood now ?</tspan></text>
+      <text id="Congratulations_You-3" data-name="Congratulations! You" transform="translate(19 106)" fill="#2e5b9f" font-size="15" font-family="ArialMT, Arial"><tspan x="9.676" y="14">Adding your mood will help you to see </tspan><tspan x="27.177" y="38">and track the behaviour changes </tspan></text>
+    </g>
+    <g id="CTA" transform="translate(85.736 463.406)">
+      <g transform="matrix(1, 0, 0, 1, -85.74, -463.41)" filter="url(#Path_7)">
+        <path id="Path_7-3" data-name="Path 7" d="M5.713,5h227.1c3.155,0,5.713,4,5.713,8.942v30.18c0,4.939-2.558,8.942-5.713,8.942H5.713c-3.155,0-5.713-4-5.713-8.942V13.942C0,9,2.558,5,5.713,5Z" transform="translate(85.74 457.97)" fill="#ff9241"/>
+      </g>
+      <text id="Add_your_Mood" data-name="Add your Mood" transform="translate(119.264 28.563)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="-47.472" y="0">Add your Mood</tspan></text>
+    </g>
+    <g id="CTA-2" data-name="CTA" transform="translate(85.736 528.406)">
+      <g transform="matrix(1, 0, 0, 1, -85.74, -528.41)" filter="url(#Path_7-2)">
+        <path id="Path_7-4" data-name="Path 7" d="M5.713,5h227.1c3.155,0,5.713,4,5.713,8.942v30.18c0,4.939-2.558,8.942-5.713,8.942H5.713c-3.155,0-5.713-4-5.713-8.942V13.942C0,9,2.558,5,5.713,5Z" transform="translate(85.74 522.97)" fill="#d2dff2"/>
+      </g>
+      <text id="No_thanks" data-name="No, thanks" transform="translate(119.264 28.563)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="-33.462" y="0">No, thanks</tspan></text>
+    </g>
+  </g>
+</svg>

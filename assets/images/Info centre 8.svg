@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aadd"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <filter id="Rectangle_1556" x="-4" y="156" width="172" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1556-2" x="128" y="156" width="142" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-2"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1556-3" x="230" y="156" width="162" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-3"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1556-4" x="-3" y="212" width="132" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-4"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1556-5" x="91" y="212" width="132" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-5"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2129" x="77" y="320" width="258" height="258" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-6"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Info_centre_8">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="Info_centre_8" data-name="Info centre 8" clip-path="url(#clip-Info_centre_8)">
+    <rect width="412" height="847" fill="#e9eff4"/>
+    <g id="Group_1500" data-name="Group 1500">
+      <path id="Rectangle_293" data-name="Rectangle 293" d="M0,0H412a0,0,0,0,1,0,0V131a20,20,0,0,1-20,20H20A20,20,0,0,1,0,131V0A0,0,0,0,1,0,0Z" fill="url(#linear-gradient)"/>
+      <text id="Information_Center" data-name="Information Center" transform="translate(21 99)" fill="#fff" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="22">Information Center</tspan></text>
+    </g>
+    <g id="Group_3554" data-name="Group 3554" transform="translate(-131.162 -472)">
+      <g transform="matrix(1, 0, 0, 1, 131.16, 472)" filter="url(#Rectangle_1556)">
+        <rect id="Rectangle_1556-6" data-name="Rectangle 1556" width="124" height="40" rx="20" transform="translate(20 179)" fill="#f4f9fa"/>
+      </g>
+      <text id="General_Topics" data-name="General Topics" transform="translate(213.162 677)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="-46.563" y="0">General Topics</tspan></text>
+    </g>
+    <g id="Group_3555" data-name="Group 3555" transform="translate(-9.162 -472)">
+      <g transform="matrix(1, 0, 0, 1, 9.16, 472)" filter="url(#Rectangle_1556-2)">
+        <rect id="Rectangle_1556-7" data-name="Rectangle 1556" width="94" height="40" rx="20" transform="translate(152 179)" fill="#f4f9fa"/>
+      </g>
+      <text id="Stories" transform="translate(208.162 677)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="-21.786" y="0">Stories</tspan></text>
+    </g>
+    <g id="Group_3556" data-name="Group 3556" transform="translate(102.838 -472)">
+      <g transform="matrix(1, 0, 0, 1, -102.84, 472)" filter="url(#Rectangle_1556-3)">
+        <rect id="Rectangle_1556-8" data-name="Rectangle 1556" width="114" height="40" rx="20" transform="translate(254 179)" fill="#f4f9fa"/>
+      </g>
+      <text id="Latest_New" data-name="Latest New" transform="translate(208.162 677)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="-35.017" y="0">Latest New</tspan></text>
+    </g>
+    <g id="Group_3557" data-name="Group 3557" transform="translate(-130.162 -416)">
+      <g transform="matrix(1, 0, 0, 1, 130.16, 416)" filter="url(#Rectangle_1556-4)">
+        <rect id="Rectangle_1556-9" data-name="Rectangle 1556" width="84" height="40" rx="20" transform="translate(21 235)" fill="#f4f9fa"/>
+      </g>
+      <text id="FAQ" transform="translate(193.162 677)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="-14.003" y="0">FAQ</tspan></text>
+    </g>
+    <g id="Group_3697" data-name="Group 3697" transform="translate(-36.162 -416)">
+      <g transform="matrix(1, 0, 0, 1, 36.16, 416)" filter="url(#Rectangle_1556-5)">
+        <rect id="Rectangle_1556-10" data-name="Rectangle 1556" width="84" height="40" rx="20" transform="translate(115 235)" fill="#2e5b9f"/>
+      </g>
+      <text id="Q_A" data-name="Q/A" transform="translate(193.162 677)" fill="#edf4fd" font-size="14" font-family="ArialMT, Arial"><tspan x="-12.059" y="0">Q/A</tspan></text>
+    </g>
+    <path id="Path_4578" data-name="Path 4578" d="M-1789,6345.073h372" transform="translate(1809.5 -6047)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+    <g id="Search" transform="translate(85.295 425.152)">
+      <path id="Path_7" data-name="Path 7" d="M5.65,5h224.6c3.121,0,5.65,3.25,5.65,7.259v24.5c0,4.009-2.53,7.259-5.65,7.259H5.65C2.53,44.017,0,40.767,0,36.758v-24.5C0,8.25,2.53,5,5.65,5Z" transform="translate(2.566 -5)" fill="#1ecccc"/>
+      <text id="_11" data-name="11" transform="translate(20.153 9.816)" fill="#edf4fd" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">11</tspan></text>
+    </g>
+    <g id="Search-2" data-name="Search" transform="translate(85.295 474.152)">
+      <path id="Path_7-2" data-name="Path 7" d="M5.65,5h224.6c3.121,0,5.65,3.25,5.65,7.259v24.5c0,4.009-2.53,7.259-5.65,7.259H5.65C2.53,44.017,0,40.767,0,36.758v-24.5C0,8.25,2.53,5,5.65,5Z" transform="translate(2.566 -5)" fill="#f7fafd"/>
+      <text id="_22" data-name="22" transform="translate(20.153 9.816)" fill="#808495" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">22</tspan></text>
+    </g>
+    <g id="Search-3" data-name="Search" transform="translate(85.295 523.152)">
+      <path id="Path_7-3" data-name="Path 7" d="M5.65,5h224.6c3.121,0,5.65,3.25,5.65,7.259v24.5c0,4.009-2.53,7.259-5.65,7.259H5.65C2.53,44.017,0,40.767,0,36.758v-24.5C0,8.25,2.53,5,5.65,5Z" transform="translate(2.566 -5)" fill="#f7fafd"/>
+      <text id="_5" data-name="5" transform="translate(20.153 9.816)" fill="#808495" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">5</tspan></text>
+    </g>
+    <g id="Search-4" data-name="Search" transform="translate(85.295 572.152)">
+      <path id="Path_7-4" data-name="Path 7" d="M5.65,5h224.6c3.121,0,5.65,3.25,5.65,7.259v24.5c0,4.009-2.53,7.259-5.65,7.259H5.65C2.53,44.017,0,40.767,0,36.758v-24.5C0,8.25,2.53,5,5.65,5Z" transform="translate(2.566 -5)" fill="#f7fafd"/>
+      <text id="_1" data-name="1" transform="translate(20.153 9.816)" fill="#808495" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">1</tspan></text>
+    </g>
+    <g id="Search-5" data-name="Search" transform="translate(85.295 621.152)">
+      <path id="Path_7-5" data-name="Path 7" d="M5.65,5h224.6c3.121,0,5.65,3.25,5.65,7.259v24.5c0,4.009-2.53,7.259-5.65,7.259H5.65C2.53,44.017,0,40.767,0,36.758v-24.5C0,8.25,2.53,5,5.65,5Z" transform="translate(2.566 -5)" fill="#f7fafd"/>
+      <text id="None" transform="translate(20.153 9.816)" fill="#808495" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">None</tspan></text>
+    </g>
+    <text id="How_many_time_zones_are_there_in_Russia_" data-name="How many time zones are there in Russia? " transform="translate(21 349.112)" fill="#1e64cc" font-size="16" font-family="ArialMT, Arial"><tspan x="32.488" y="14">How many time zones are there in Russia? </tspan></text>
+    <rect id="Rectangle_2130" data-name="Rectangle 2130" width="412" height="847" fill="#465460" opacity="0.114"/>
+    <g id="Group_3704" data-name="Group 3704" transform="translate(-14 -14)">
+      <g id="Group_3922" data-name="Group 3922">
+        <g transform="matrix(1, 0, 0, 1, 14, 14)" filter="url(#Rectangle_2129)">
+          <rect id="Rectangle_2129-2" data-name="Rectangle 2129" width="210" height="210" rx="30" transform="translate(101 340)" fill="#fff"/>
+        </g>
+        <g id="Group_3700" data-name="Group 3700" transform="translate(128.17 362.781)">
+          <g id="Group_3698" data-name="Group 3698" transform="translate(0 44.47)" opacity="0.5">
+            <rect id="Rectangle_1486" data-name="Rectangle 1486" width="2.312" height="13.1" transform="translate(5.394 0)" fill="#3ad29f"/>
+            <rect id="Rectangle_1487" data-name="Rectangle 1487" width="2.312" height="13.1" transform="translate(13.1 5.394) rotate(90)" fill="#3ad29f"/>
+          </g>
+          <g id="Group_3699" data-name="Group 3699" transform="translate(52.011 155.512) rotate(45)" opacity="0.5">
+            <rect id="Rectangle_1492" data-name="Rectangle 1492" width="2.312" height="13.1" transform="translate(5.394 0)" fill="#3ad29f"/>
+            <rect id="Rectangle_1493" data-name="Rectangle 1493" width="2.312" height="13.1" transform="translate(13.1 5.394) rotate(90)" fill="#3ad29f"/>
+          </g>
+          <g id="Group_3703" data-name="Group 3703" transform="translate(2.809 171.325)" opacity="0.5">
+            <rect id="Rectangle_1492-2" data-name="Rectangle 1492" width="2.312" height="13.1" transform="translate(5.394 0)" fill="#3ad29f"/>
+            <rect id="Rectangle_1493-2" data-name="Rectangle 1493" width="2.312" height="13.1" transform="translate(13.1 5.394) rotate(90)" fill="#3ad29f"/>
+          </g>
+          <g id="Group_3701" data-name="Group 3701" transform="translate(167.06 54.858) rotate(45)" opacity="0.5">
+            <rect id="Rectangle_1492-3" data-name="Rectangle 1492" width="2.312" height="13.1" transform="translate(5.394 0)" fill="#3ad29f"/>
+            <rect id="Rectangle_1493-3" data-name="Rectangle 1493" width="2.312" height="13.1" transform="translate(13.1 5.394) rotate(90)" fill="#3ad29f"/>
+          </g>
+          <g id="Group_3702" data-name="Group 3702" transform="translate(177.372 160.121)" opacity="0.5">
+            <rect id="Rectangle_1492-4" data-name="Rectangle 1492" width="2.312" height="13.1" transform="translate(5.394 0)" fill="#3ad29f"/>
+            <rect id="Rectangle_1493-4" data-name="Rectangle 1493" width="2.312" height="13.1" transform="translate(13.1 5.394) rotate(90)" fill="#3ad29f"/>
+          </g>
+          <path id="Path_9367" data-name="Path 9367" d="M693.856,247.827a2.832,2.832,0,0,1-1.578-3.422,1.35,1.35,0,0,0,.061-.314h0a1.42,1.42,0,0,0-2.551-.941h0a1.362,1.362,0,0,0-.157.279,2.832,2.832,0,0,1-3.422,1.578,1.361,1.361,0,0,0-.314-.062h0a1.42,1.42,0,0,0-.941,2.551h0a1.378,1.378,0,0,0,.279.157,2.832,2.832,0,0,1,1.578,3.422,1.344,1.344,0,0,0-.062.314h0a1.42,1.42,0,0,0,2.551.941h0a1.351,1.351,0,0,0,.157-.279,2.832,2.832,0,0,1,3.423-1.578,1.36,1.36,0,0,0,.314.062h0a1.42,1.42,0,0,0,.941-2.551h0A1.367,1.367,0,0,0,693.856,247.827Z" transform="translate(-557.128 -242.584)" fill="#f55f44"/>
+          <path id="Path_9368" data-name="Path 9368" d="M950.856,253.827a2.832,2.832,0,0,1-1.578-3.422,1.364,1.364,0,0,0,.061-.314h0a1.42,1.42,0,0,0-2.551-.941h0a1.367,1.367,0,0,0-.157.279,2.832,2.832,0,0,1-3.422,1.578,1.353,1.353,0,0,0-.314-.061h0a1.42,1.42,0,0,0-.941,2.551h0a1.345,1.345,0,0,0,.279.157,2.832,2.832,0,0,1,1.578,3.422,1.355,1.355,0,0,0-.061.314h0a1.42,1.42,0,0,0,2.551.941h0a1.362,1.362,0,0,0,.157-.279,2.831,2.831,0,0,1,3.422-1.578,1.354,1.354,0,0,0,.314.062h0a1.42,1.42,0,0,0,.941-2.551h0A1.367,1.367,0,0,0,950.856,253.827Z" transform="translate(-814.129 -66.681)" fill="#f55f44"/>
+          <path id="Path_9369" data-name="Path 9369" d="M580.856,528.827a2.832,2.832,0,0,1-1.578-3.422,1.367,1.367,0,0,0,.062-.314h0a1.42,1.42,0,0,0-2.551-.941h0a1.375,1.375,0,0,0-.157.279,2.831,2.831,0,0,1-3.422,1.578,1.389,1.389,0,0,0-.314-.061h0a1.42,1.42,0,0,0-.941,2.551h0a1.35,1.35,0,0,0,.279.157,2.831,2.831,0,0,1,1.578,3.422,1.394,1.394,0,0,0-.062.314h0a1.42,1.42,0,0,0,2.551.941h0a1.362,1.362,0,0,0,.157-.279,2.832,2.832,0,0,1,3.422-1.578,1.341,1.341,0,0,0,.314.061h0a1.42,1.42,0,0,0,.941-2.551h0a1.352,1.352,0,0,0-.279-.157Z" transform="translate(-485.094 -362.069)" fill="#f55f44" opacity="0.5"/>
+          <path id="Path_9375" data-name="Path 9375" d="M580.856,528.827a2.832,2.832,0,0,1-1.578-3.422,1.367,1.367,0,0,0,.062-.314h0a1.42,1.42,0,0,0-2.551-.941h0a1.375,1.375,0,0,0-.157.279,2.831,2.831,0,0,1-3.422,1.578,1.389,1.389,0,0,0-.314-.061h0a1.42,1.42,0,0,0-.941,2.551h0a1.35,1.35,0,0,0,.279.157,2.831,2.831,0,0,1,1.578,3.422,1.394,1.394,0,0,0-.062.314h0a1.42,1.42,0,0,0,2.551.941h0a1.362,1.362,0,0,0,.157-.279,2.832,2.832,0,0,1,3.422-1.578,1.341,1.341,0,0,0,.314.061h0a1.42,1.42,0,0,0,.941-2.551h0a1.352,1.352,0,0,0-.279-.157Z" transform="translate(-543.94 -400.235)" fill="#f55f44" opacity="0.5"/>
+          <path id="Path_9376" data-name="Path 9376" d="M580.856,528.827a2.832,2.832,0,0,1-1.578-3.422,1.367,1.367,0,0,0,.062-.314h0a1.42,1.42,0,0,0-2.551-.941h0a1.375,1.375,0,0,0-.157.279,2.831,2.831,0,0,1-3.422,1.578,1.389,1.389,0,0,0-.314-.061h0a1.42,1.42,0,0,0-.941,2.551h0a1.35,1.35,0,0,0,.279.157,2.831,2.831,0,0,1,1.578,3.422,1.394,1.394,0,0,0-.062.314h0a1.42,1.42,0,0,0,2.551.941h0a1.362,1.362,0,0,0,.157-.279,2.832,2.832,0,0,1,3.422-1.578,1.341,1.341,0,0,0,.314.061h0a1.42,1.42,0,0,0,.941-2.551h0a1.352,1.352,0,0,0-.279-.157Z" transform="translate(-555.479 -508.376)" fill="#f55f44" opacity="0.5"/>
+          <path id="Path_9370" data-name="Path 9370" d="M672.31,477.054c-3.332.972-1.828,6.152,1.51,5.179S675.647,476.082,672.31,477.054Z" transform="translate(-601.494 -469.333)" fill="#65b8f4"/>
+          <path id="Path_9371" data-name="Path 9371" d="M845.169,466.871c-3.332.972-1.828,6.152,1.51,5.179S848.506,465.9,845.169,466.871Z" transform="translate(-681.49 -348.822)" fill="#a265f4"/>
+          <path id="Path_9372" data-name="Path 9372" d="M845.169,466.871c-3.332.972-1.828,6.152,1.51,5.179S848.506,465.9,845.169,466.871Z" transform="translate(-835.45 -355.013)" fill="#a265f4"/>
+          <path id="Path_9373" data-name="Path 9373" d="M845.169,466.871c-3.332.972-1.828,6.152,1.51,5.179S848.506,465.9,845.169,466.871Z" transform="translate(-793.912 -421.15)" fill="#a265f4"/>
+          <path id="Path_9374" data-name="Path 9374" d="M845.169,466.871c-3.332.972-1.828,6.152,1.51,5.179S848.506,465.9,845.169,466.871Z" transform="translate(-681.49 -461.859)" fill="#a265f4"/>
+        </g>
+      </g>
+      <text id="Hooray_" data-name="Hooray!!!" transform="translate(220 420)" fill="#1e64cc" font-size="16" font-family="ArialMT, Arial"><tspan x="-32.457" y="0">Hooray!!!</tspan></text>
+      <text id="You_WON" data-name="You WON" transform="translate(218 461)" fill="#1e64cc" font-size="28" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-63.506" y="0">You WON</tspan></text>
+      <text id="_10pts" data-name="10pts" transform="translate(219 508)" fill="#1e64cc" font-size="28" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-36.572" y="0">10pts</tspan></text>
+    </g>
+  </g>
+</svg>

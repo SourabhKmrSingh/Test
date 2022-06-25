@@ -1,0 +1,666 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="2503" viewBox="0 0 412 2503">
+  <defs>
+    <filter id="bg" x="-4" y="1625.854" width="411" height="172" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1960" data-name="Rectangle 1960" width="33" height="83" transform="translate(0 0.5)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <filter id="bg-2" x="-4" y="2028.854" width="411" height="172" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-2"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="bg-3" x="-4" y="2172.854" width="411" height="172" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-3"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="bg-4" x="-4" y="352" width="421" height="219" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-4"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_1960-4" data-name="Rectangle 1960" width="45" height="112" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <filter id="bg-5" x="-4" y="205" width="421" height="128" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-5"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="bg-6" x="-4" y="1769.854" width="411" height="172" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-6"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1556" x="236" y="1136.854" width="181" height="84" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-7"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1556-2" x="256" y="1575.854" width="151" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-8"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1556-3" x="256" y="1978.854" width="151" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-9"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="bg-7" x="-4" y="1197.854" width="421" height="344" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-10"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aadd"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <filter id="Ellipse_415" x="325" y="1444.854" width="43" height="44" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_408" x="44" y="1444.854" width="44" height="44" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-12"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="bg-8" x="-4" y="735" width="421" height="144" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-13"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-6">
+      <rect id="Rectangle_1960-6" data-name="Rectangle 1960" width="33" height="83" transform="translate(0 0)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <filter id="bg-9" x="-4" y="849" width="421" height="144" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-14"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-7">
+      <rect id="Rectangle_1960-7" data-name="Rectangle 1960" width="33" height="83" transform="translate(0 0.045)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <filter id="bg-10" x="-4" y="963" width="421" height="144" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-15"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-8">
+      <rect id="Rectangle_1960-8" data-name="Rectangle 1960" width="33" height="83" transform="translate(0 0.091)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <filter id="Rectangle_1556-4" x="266" y="690" width="151" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-16"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1556-5" x="-4" y="617" width="162" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-17"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-17"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1556-6" x="115" y="617" width="162" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-18"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-18"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1556-7" x="234" y="617" width="162" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-19"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-19"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1556-8" x="353" y="617" width="162" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-20"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-20"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1556-9" x="472" y="617" width="162" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-21"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-21"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-7" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4b8ceb"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <clipPath id="clip-My_health-1">
+      <rect width="412" height="2503"/>
+    </clipPath>
+  </defs>
+  <g id="My_health-1" data-name="My health-1" clip-path="url(#clip-My_health-1)">
+    <rect width="412" height="2503" fill="#e9eff4"/>
+    <text id="Pill_Tracking" data-name="Pill Tracking" transform="translate(21 331)" fill="#0e58c7" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="16">Pill Tracking</tspan></text>
+    <text id="Suggestion_based_on_the_Assessments" data-name="Suggestion based on the Assessments" transform="translate(21 194)" fill="#0e58c7" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Suggestion based on the Assessments</tspan></text>
+    <path id="Path_4599" data-name="Path 4599" d="M-1789,6345.073h372" transform="translate(1810 -5764)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+    <path id="Path_4600" data-name="Path 4600" d="M-1789,6345.073h372" transform="translate(1810 -5218.146)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+    <path id="Path_4702" data-name="Path 4702" d="M-1789,6345.073h372" transform="translate(1810 -4782.146)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+    <path id="Path_8465" data-name="Path 8465" d="M-1789,6345.073h372" transform="translate(1810 -4379.146)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+    <g id="card" transform="translate(20 1645.854)">
+      <g transform="matrix(1, 0, 0, 1, -20, -1645.85)" filter="url(#bg)">
+        <rect id="bg-11" data-name="bg" width="363" height="124" rx="12" transform="translate(20 1645.85)" fill="#f0f6fa"/>
+      </g>
+      <g id="Languages" transform="translate(19.028 11)">
+        <text id="Alcohol" transform="translate(-0.028)" fill="#1e64cc" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Alcohol</tspan></text>
+      </g>
+      <g id="Languages-2" data-name="Languages" transform="translate(19.028 33)">
+        <text id="Next_Milestone_in_5_days" data-name="Next Milestone in 5 days" transform="translate(-0.028 4)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Next Milestone in 5 days</tspan></text>
+      </g>
+      <text id="_4_days" data-name="4 days" transform="translate(19 108)" fill="#254069" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">4 days</tspan></text>
+      <text id="Sober" transform="translate(19 87)" fill="#606060" font-size="12" font-family="ArialMT, Arial" opacity="0.5"><tspan x="0" y="0">Sober</tspan></text>
+      <text id="_2000" data-name="2000" transform="translate(86 108)" fill="#254069" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">2000</tspan></text>
+      <text id="Money_saved" data-name="Money saved" transform="translate(86 87)" fill="#606060" font-size="12" font-family="ArialMT, Arial" opacity="0.5"><tspan x="0" y="0">Money saved</tspan></text>
+      <text id="_3_hours" data-name="3 hours" transform="translate(182 108)" fill="#254069" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">3 hours</tspan></text>
+      <text id="Time_saved" data-name="Time saved" transform="translate(182 87)" fill="#606060" font-size="12" font-family="ArialMT, Arial" opacity="0.5"><tspan x="0" y="0">Time saved</tspan></text>
+      <g id="Group_3544" data-name="Group 3544" transform="translate(14.652 15.5)">
+        <g id="Group_2746" data-name="Group 2746" transform="translate(258.999 13.152)">
+          <g id="Ellipse_396" data-name="Ellipse 396" transform="translate(0.349 0.348)" fill="none" stroke="#78d944" stroke-width="6">
+            <circle cx="33" cy="33" r="33" stroke="none"/>
+            <circle cx="33" cy="33" r="30" fill="none"/>
+          </g>
+          <text id="_50_" data-name="50%" transform="translate(35.349 39.348)" fill="#1e64cc" font-size="16" font-family="ArialMT, Arial"><tspan x="-16.012" y="0">50%</tspan></text>
+        </g>
+        <g id="Group_3531" data-name="Group 3531" transform="translate(292.348 5)">
+          <g id="Mask_Group_6" data-name="Mask Group 6" clip-path="url(#clip-path)">
+            <g id="Ellipse_396-2" data-name="Ellipse 396" transform="translate(12.206 87.055) rotate(-150)" fill="none" stroke="#e9eff4" stroke-width="6">
+              <circle cx="33.348" cy="33.348" r="33.348" stroke="none"/>
+              <circle cx="33.348" cy="33.348" r="30.348" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="card-2" data-name="card" transform="translate(20 2048.854)">
+      <g transform="matrix(1, 0, 0, 1, -20, -2048.85)" filter="url(#bg-2)">
+        <rect id="bg-12" data-name="bg" width="363" height="124" rx="12" transform="translate(20 2048.85)" fill="#f0f6fa"/>
+      </g>
+      <g id="Languages-3" data-name="Languages" transform="translate(19.028 11)">
+        <text id="Level_1_-_Obsession" data-name="Level 1 - Obsession" transform="translate(-0.028)" fill="#1e64cc" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Level 1 - Obsession</tspan></text>
+      </g>
+      <g id="Languages-4" data-name="Languages" transform="translate(19.028 33)">
+        <text id="Public_speaaking_for_5mins" data-name="Public speaaking for 5mins" transform="translate(-0.028 4)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Public speaaking for 5mins</tspan></text>
+      </g>
+      <text id="_3" data-name="3" transform="translate(19 108)" fill="#254069" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">3</tspan></text>
+      <text id="SUDS" transform="translate(19 87)" fill="#606060" font-size="12" font-family="ArialMT, Arial" opacity="0.5"><tspan x="0" y="0">SUDS</tspan></text>
+      <text id="_5_mins" data-name="5 mins" transform="translate(86 108)" fill="#254069" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">5 mins</tspan></text>
+      <text id="Duration" transform="translate(86 87)" fill="#606060" font-size="12" font-family="ArialMT, Arial" opacity="0.5"><tspan x="0" y="0">Duration</tspan></text>
+      <g id="Group_3546" data-name="Group 3546" transform="translate(14.652 15.5)">
+        <g id="Group_2746-2" data-name="Group 2746" transform="translate(258.999 13.152)">
+          <g id="Ellipse_396-3" data-name="Ellipse 396" transform="translate(0.349 0.348)" fill="none" stroke="#78d944" stroke-width="6">
+            <circle cx="33" cy="33" r="33" stroke="none"/>
+            <circle cx="33" cy="33" r="30" fill="none"/>
+          </g>
+          <text id="_50_2" data-name="50%" transform="translate(35.349 39.348)" fill="#1e64cc" font-size="16" font-family="ArialMT, Arial"><tspan x="-16.012" y="0">50%</tspan></text>
+        </g>
+        <g id="Group_3531-2" data-name="Group 3531" transform="translate(292.348 5)">
+          <g id="Mask_Group_6-2" data-name="Mask Group 6" clip-path="url(#clip-path)">
+            <g id="Ellipse_396-4" data-name="Ellipse 396" transform="translate(12.206 87.055) rotate(-150)" fill="none" stroke="#e9eff4" stroke-width="6">
+              <circle cx="33.348" cy="33.348" r="33.348" stroke="none"/>
+              <circle cx="33.348" cy="33.348" r="30.348" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="card-3" data-name="card" transform="translate(20 2192.854)">
+      <g transform="matrix(1, 0, 0, 1, -20, -2192.85)" filter="url(#bg-3)">
+        <rect id="bg-13" data-name="bg" width="363" height="124" rx="12" transform="translate(20 2192.85)" fill="#f0f6fa"/>
+      </g>
+      <g id="Languages-5" data-name="Languages" transform="translate(19.028 11)">
+        <text id="Level_2_-_Obsession" data-name="Level 2 - Obsession" transform="translate(-0.028)" fill="#1e64cc" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Level 2 - Obsession</tspan></text>
+      </g>
+      <g id="Languages-6" data-name="Languages" transform="translate(19.028 33)">
+        <text id="Touching_red_colour_product" data-name="Touching red colour product" transform="translate(-0.028 4)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Touching red colour product</tspan></text>
+      </g>
+      <text id="_3-2" data-name="3" transform="translate(19 108)" fill="#254069" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">3</tspan></text>
+      <text id="SUDS-2" data-name="SUDS" transform="translate(19 87)" fill="#606060" font-size="12" font-family="ArialMT, Arial" opacity="0.5"><tspan x="0" y="0">SUDS</tspan></text>
+      <text id="_5_mins-2" data-name="5 mins" transform="translate(86 108)" fill="#254069" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">5 mins</tspan></text>
+      <text id="Duration-2" data-name="Duration" transform="translate(86 87)" fill="#606060" font-size="12" font-family="ArialMT, Arial" opacity="0.5"><tspan x="0" y="0">Duration</tspan></text>
+      <g id="Group_3547" data-name="Group 3547" transform="translate(14.652 15.5)">
+        <g id="Group_2746-3" data-name="Group 2746" transform="translate(258.999 13.152)">
+          <g id="Ellipse_396-5" data-name="Ellipse 396" transform="translate(0.349 0.348)" fill="none" stroke="#78d944" stroke-width="6">
+            <circle cx="33" cy="33" r="33" stroke="none"/>
+            <circle cx="33" cy="33" r="30" fill="none"/>
+          </g>
+          <text id="_50_3" data-name="50%" transform="translate(35.349 39.348)" fill="#1e64cc" font-size="16" font-family="ArialMT, Arial"><tspan x="-16.012" y="0">50%</tspan></text>
+        </g>
+        <g id="Group_3531-3" data-name="Group 3531" transform="translate(292.348 5)">
+          <g id="Mask_Group_6-3" data-name="Mask Group 6" clip-path="url(#clip-path)">
+            <g id="Ellipse_396-6" data-name="Ellipse 396" transform="translate(12.206 87.055) rotate(-150)" fill="none" stroke="#e9eff4" stroke-width="6">
+              <circle cx="33.348" cy="33.348" r="33.348" stroke="none"/>
+              <circle cx="33.348" cy="33.348" r="30.348" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="card-4" data-name="card" transform="translate(20 372)">
+      <g transform="matrix(1, 0, 0, 1, -20, -372)" filter="url(#bg-4)">
+        <rect id="bg-14" data-name="bg" width="373" height="171" rx="12" transform="translate(20 372)" fill="#f0f6fa"/>
+      </g>
+      <g id="Languages-7" data-name="Languages" transform="translate(62 16)">
+        <text id="_08_Pills" data-name="08 Pills" transform="translate(14 6)" fill="#1e64cc" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="22">08 Pills</tspan></text>
+        <g id="Group_3918" data-name="Group 3918">
+          <circle id="Ellipse_689" data-name="Ellipse 689" cx="24.5" cy="24.5" r="24.5" transform="translate(-46 8)" fill="#d2dff2"/>
+          <path id="Icon_awesome-pills" data-name="Icon awesome-pills" d="M3.609,0A3.607,3.607,0,0,0,0,3.609v7.217a3.609,3.609,0,1,0,7.217,0V3.609A3.607,3.607,0,0,0,3.609,0ZM5.155,7.217H2.062V3.609a1.547,1.547,0,1,1,3.093,0Z" transform="matrix(0.839, 0.545, -0.545, 0.839, -25.4, 18.979)" fill="#1e64cc"/>
+          <g id="Group_3552" data-name="Group 3552" transform="translate(-24.328 31.851)">
+            <g id="Ellipse_690" data-name="Ellipse 690" transform="translate(0 0)" fill="#1e64cc" stroke="#fff" stroke-width="1">
+              <ellipse cx="7.085" cy="7.085" rx="7.085" ry="7.085" stroke="none"/>
+              <ellipse cx="7.085" cy="7.085" rx="6.585" ry="6.585" fill="none"/>
+            </g>
+            <path id="Path_8467" data-name="Path 8467" d="M-23.5,32.114V44.606" transform="translate(30.585 -31.185)" fill="none" stroke="#fff" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+      <g id="Languages-8" data-name="Languages" transform="translate(62 57)">
+        <text id="Prescribed_on_12_02_2021" data-name="Prescribed on 12/02/2021" transform="translate(14)" fill="#1e64cc" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="11">Prescribed on 12/02/2021</tspan></text>
+      </g>
+      <text id="Dr_._Gaurav_1_more" data-name="Dr . Gaurav +1 more" transform="translate(19 139)" fill="#1e64cc" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Dr . Gaurav </tspan><tspan y="0" font-size="14" font-family="ArialMT, Arial" font-weight="400">+1 more</tspan></text>
+      <text id="Click_to_view" data-name="Click to view" transform="translate(267 143)" fill="#8eb1e5" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Click to view</tspan></text>
+      <text id="Prescribed_by" data-name="Prescribed by" transform="translate(19 114)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial" opacity="0.5"><tspan x="0" y="0">Prescribed by</tspan></text>
+      <g id="Group_3543" data-name="Group 3543">
+        <g id="Group_2746-4" data-name="Group 2746" transform="translate(259 16)">
+          <g id="Ellipse_396-7" data-name="Ellipse 396" transform="translate(-0.001)" fill="none" stroke="#78d944" stroke-width="6">
+            <circle cx="45" cy="45" r="45" stroke="none"/>
+            <circle cx="45" cy="45" r="42" fill="none"/>
+          </g>
+          <text id="_50_4" data-name="50%" transform="translate(48.999 53)" fill="#1e64cc" font-size="23" font-family="ArialMT, Arial"><tspan x="-23.017" y="0">50%</tspan></text>
+        </g>
+        <g id="Group_3531-4" data-name="Group 3531" transform="translate(304 5)">
+          <g id="Mask_Group_6-4" data-name="Mask Group 6" clip-path="url(#clip-path-4)">
+            <g id="Ellipse_396-8" data-name="Ellipse 396" transform="translate(16.471 117.471) rotate(-150)" fill="none" stroke="#e9eff4" stroke-width="6">
+              <circle cx="45" cy="45" r="45" stroke="none"/>
+              <circle cx="45" cy="45" r="42" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="card-5" data-name="card" transform="translate(20 225)">
+      <g transform="matrix(1, 0, 0, 1, -20, -225)" filter="url(#bg-5)">
+        <rect id="bg-15" data-name="bg" width="373" height="80" rx="12" transform="translate(20 225)" fill="#f0f6fa"/>
+      </g>
+      <g id="Languages-9" data-name="Languages" transform="translate(62 9)">
+        <text id="_04_Tips_to_cure_Mental_health" data-name="04 Tips to cure Mental health" transform="translate(14 6)" fill="#1e64cc" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="16">04 Tips to cure Mental health</tspan></text>
+        <g id="Group_3917" data-name="Group 3917">
+          <circle id="Ellipse_689-2" data-name="Ellipse 689" cx="24.5" cy="24.5" r="24.5" transform="translate(-46 8)" fill="#f2ece7"/>
+          <path id="Icon_awesome-star" data-name="Icon awesome-star" d="M9.479.6l-2.2,4.457-4.918.717a1.078,1.078,0,0,0-.6,1.838l3.558,3.467-.841,4.9a1.076,1.076,0,0,0,1.562,1.134l4.4-2.312,4.4,2.312a1.077,1.077,0,0,0,1.562-1.134l-.841-4.9L19.123,7.61a1.078,1.078,0,0,0-.6-1.838l-4.918-.717L11.411.6A1.078,1.078,0,0,0,9.479.6Z" transform="translate(-31.945 23.883)" fill="#ff9241"/>
+        </g>
+      </g>
+      <g id="Languages-10" data-name="Languages" transform="translate(62 48)">
+        <text id="zenquip_will_suggest_tools_psychiatrist_" data-name="zenquip will suggest tools / psychiatrist " transform="translate(14)" fill="#1e64cc" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="11">zenquip will suggest tools / psychiatrist </tspan></text>
+      </g>
+    </g>
+    <g id="card-6" data-name="card" transform="translate(20 1789.854)">
+      <g transform="matrix(1, 0, 0, 1, -20, -1789.85)" filter="url(#bg-6)">
+        <rect id="bg-16" data-name="bg" width="363" height="124" rx="12" transform="translate(20 1789.85)" fill="#f0f6fa"/>
+      </g>
+      <g id="Languages-11" data-name="Languages" transform="translate(19.028 11)">
+        <text id="Alcohol-2" data-name="Alcohol" transform="translate(-0.028)" fill="#1e64cc" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Alcohol</tspan></text>
+      </g>
+      <g id="Languages-12" data-name="Languages" transform="translate(19.028 33)">
+        <text id="Next_Milestone_in_5_days-2" data-name="Next Milestone in 5 days" transform="translate(-0.028 4)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Next Milestone in 5 days</tspan></text>
+      </g>
+      <text id="_4_days-2" data-name="4 days" transform="translate(19 108)" fill="#254069" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">4 days</tspan></text>
+      <text id="Sober-2" data-name="Sober" transform="translate(19 87)" fill="#606060" font-size="12" font-family="ArialMT, Arial" opacity="0.5"><tspan x="0" y="0">Sober</tspan></text>
+      <text id="_2000-2" data-name="2000" transform="translate(86 108)" fill="#254069" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">2000</tspan></text>
+      <text id="Money_saved-2" data-name="Money saved" transform="translate(86 87)" fill="#606060" font-size="12" font-family="ArialMT, Arial" opacity="0.5"><tspan x="0" y="0">Money saved</tspan></text>
+      <text id="_3_hours-2" data-name="3 hours" transform="translate(182 108)" fill="#254069" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">3 hours</tspan></text>
+      <text id="Time_saved-2" data-name="Time saved" transform="translate(182 87)" fill="#606060" font-size="12" font-family="ArialMT, Arial" opacity="0.5"><tspan x="0" y="0">Time saved</tspan></text>
+      <g id="Group_3545" data-name="Group 3545" transform="translate(14.652 15.5)">
+        <g id="Group_2746-5" data-name="Group 2746" transform="translate(258.999 13.152)">
+          <g id="Ellipse_396-9" data-name="Ellipse 396" transform="translate(0.349 0.348)" fill="none" stroke="#78d944" stroke-width="6">
+            <circle cx="33" cy="33" r="33" stroke="none"/>
+            <circle cx="33" cy="33" r="30" fill="none"/>
+          </g>
+          <text id="_50_5" data-name="50%" transform="translate(35.349 39.348)" fill="#1e64cc" font-size="16" font-family="ArialMT, Arial"><tspan x="-16.012" y="0">50%</tspan></text>
+        </g>
+        <g id="Group_3531-5" data-name="Group 3531" transform="translate(292.348 5)">
+          <g id="Mask_Group_6-5" data-name="Mask Group 6" clip-path="url(#clip-path)">
+            <g id="Ellipse_396-10" data-name="Ellipse 396" transform="translate(12.206 87.055) rotate(-150)" fill="none" stroke="#e9eff4" stroke-width="6">
+              <circle cx="33.348" cy="33.348" r="33.348" stroke="none"/>
+              <circle cx="33.348" cy="33.348" r="30.348" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="Mood_Tracking" data-name="Mood Tracking" transform="translate(20 1185.854)" fill="#0e58c7" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">Mood Tracking</tspan></text>
+    <text id="De-addiction" transform="translate(20 1621.854)" fill="#0e58c7" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">De-addiction</tspan></text>
+    <text id="ERP_challenge" data-name="ERP challenge" transform="translate(20 2024.854)" fill="#0e58c7" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">ERP challenge</tspan></text>
+    <g id="Group_2695" data-name="Group 2695" transform="translate(128.838 511.854)">
+      <g transform="matrix(1, 0, 0, 1, -128.84, -511.85)" filter="url(#Rectangle_1556)">
+        <rect id="Rectangle_1556-10" data-name="Rectangle 1556" width="133" height="36" rx="18" transform="translate(260 1159.85)" fill="#f4f9fa"/>
+      </g>
+      <text id="This_Week" data-name="This Week" transform="translate(183.162 671)" fill="#0e58c7" font-size="14" font-family="ArialMT, Arial"><tspan x="-32.936" y="0">This Week</tspan></text>
+      <path id="Icon_feather-chevron-down" data-name="Icon feather-chevron-down" d="M9,13.5l5.392,5.392L19.783,13.5" transform="translate(230.268 650.134)" fill="none" stroke="#1e64cc" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+    <g id="Group_2745" data-name="Group 2745" transform="translate(128.838 947.854)">
+      <g transform="matrix(1, 0, 0, 1, -128.84, -947.85)" filter="url(#Rectangle_1556-2)">
+        <rect id="Rectangle_1556-11" data-name="Rectangle 1556" width="103" height="30" rx="15" transform="translate(280 1598.85)" fill="#f4f9fa"/>
+      </g>
+      <text id="View_all" data-name="View all" transform="translate(203.162 671)" fill="#0e58c7" font-size="12" font-family="ArialMT, Arial"><tspan x="-20.566" y="0">View all</tspan></text>
+    </g>
+    <g id="Group_3539" data-name="Group 3539" transform="translate(128.838 1350.854)">
+      <g transform="matrix(1, 0, 0, 1, -128.84, -1350.85)" filter="url(#Rectangle_1556-3)">
+        <rect id="Rectangle_1556-12" data-name="Rectangle 1556" width="103" height="30" rx="15" transform="translate(280 2001.85)" fill="#f4f9fa"/>
+      </g>
+      <text id="View_all-2" data-name="View all" transform="translate(203.162 671)" fill="#0e58c7" font-size="12" font-family="ArialMT, Arial"><tspan x="-20.566" y="0">View all</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#bg-7)">
+      <rect id="bg-17" data-name="bg" width="373" height="296" rx="12" transform="translate(20 1217.85)" fill="#f0f6fa"/>
+    </g>
+    <text id="_Calm" data-name="#Calm" transform="translate(46 1272.854)" fill="#1e64cc" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">#Calm</tspan></text>
+    <text id="Most_of_the_time" data-name="Most of the time" transform="translate(46 1248.854)" fill="#1e64cc" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Most of the time</tspan></text>
+    <text id="Click_to_view-2" data-name="Click to view" transform="translate(300 1248.854)" fill="#8eb1e5" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Click to view</tspan></text>
+    <text id="_Rest" data-name="#Rest" transform="translate(106 1272.854)" fill="#1e64cc" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">#Rest</tspan></text>
+    <text id="_Good" data-name="#Good" transform="translate(164 1272.854)" fill="#1e64cc" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">#Good</tspan></text>
+    <text id="Poor" transform="translate(66 1494.854)" fill="#1e64cc" font-size="12" font-family="ArialMT, Arial"><tspan x="-12.674" y="0">Poor</tspan></text>
+    <text id="Not_Bad" data-name="Not Bad" transform="translate(136 1494.854)" fill="#1e64cc" font-size="12" font-family="ArialMT, Arial"><tspan x="-21.68" y="0">Not Bad</tspan></text>
+    <text id="Okay" transform="translate(207 1494.854)" fill="#1e64cc" font-size="12" font-family="ArialMT, Arial"><tspan x="-14.004" y="0">Okay</tspan></text>
+    <text id="Good" transform="translate(277 1494.854)" fill="#1e64cc" font-size="12" font-family="ArialMT, Arial"><tspan x="-14.678" y="0">Good</tspan></text>
+    <text id="Awsm" transform="translate(346 1494.854)" fill="#1e64cc" font-size="12" font-family="ArialMT, Arial"><tspan x="-16.225" y="0">Awsm</tspan></text>
+    <path id="Rectangle_1961" data-name="Rectangle 1961" d="M2,0h8a2,2,0,0,1,2,2V119a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(62 1315.854)" fill="#d2dff2"/>
+    <path id="Rectangle_1962" data-name="Rectangle 1962" d="M2,0h8a2,2,0,0,1,2,2V119a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(132 1315.854)" fill="#d2dff2"/>
+    <path id="Rectangle_1963" data-name="Rectangle 1963" d="M2,0h8a2,2,0,0,1,2,2V119a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(201 1315.854)" fill="#d2dff2"/>
+    <path id="Rectangle_1964" data-name="Rectangle 1964" d="M2,0h8a2,2,0,0,1,2,2V119a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(271 1315.854)" fill="#d2dff2"/>
+    <path id="Rectangle_1965" data-name="Rectangle 1965" d="M2,0h8a2,2,0,0,1,2,2V119a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(340 1315.854)" fill="#d2dff2"/>
+    <path id="Rectangle_1966" data-name="Rectangle 1966" d="M2,0h8a2,2,0,0,1,2,2V30a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(62 1404.854)" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_1967" data-name="Rectangle 1967" d="M2,0h8a2,2,0,0,1,2,2V30a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(132 1404.854)" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_1968" data-name="Rectangle 1968" d="M2,0h8a2,2,0,0,1,2,2V95a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(201 1339.854)" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_1969" data-name="Rectangle 1969" d="M2,0h8a2,2,0,0,1,2,2V76a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(271 1358.854)" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_1970" data-name="Rectangle 1970" d="M2,0h8a2,2,0,0,1,2,2V98a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(340 1336.854)" fill="url(#linear-gradient)"/>
+    <g id="Group_3538" data-name="Group 3538" transform="translate(0 -125.146)">
+      <g id="_025-happy-15" data-name="025-happy-15" transform="translate(334 1576)">
+        <g transform="matrix(1, 0, 0, 1, -334, -1450.85)" filter="url(#Ellipse_415)">
+          <ellipse id="Ellipse_415-2" data-name="Ellipse 415" cx="12.5" cy="13" rx="12.5" ry="13" transform="translate(334 1450.85)" fill="#ffd93b"/>
+        </g>
+        <path id="Path_4660" data-name="Path 4660" d="M79.579,66.725A12.854,12.854,0,0,1,56.72,74.795,12.854,12.854,0,0,0,74.795,56.72,12.839,12.839,0,0,1,79.579,66.725Z" transform="translate(-54.074 -53.872)" fill="#f4c534"/>
+        <path id="Path_4661" data-name="Path 4661" d="M108.039,302.72a8.816,8.816,0,0,1-16.42,0,.678.678,0,0,1,.643-.912H107.4A.678.678,0,0,1,108.039,302.72Z" transform="translate(-87.178 -286.655)" fill="#3e4347"/>
+        <path id="Path_4662" data-name="Path 4662" d="M149.6,323.808a.93.93,0,0,1-.627.8,20.454,20.454,0,0,1-11.146,0,.932.932,0,0,1-.627-.8Z" transform="translate(-130.513 -307.55)" fill="#fff"/>
+        <path id="Path_4663" data-name="Path 4663" d="M207.656,384.545a8.751,8.751,0,0,1-3.173.59,8.845,8.845,0,0,1-2.723-.43,2.929,2.929,0,0,1,.281-.835,2.074,2.074,0,0,1,2.069-1.048q.121.012.241.012a2.688,2.688,0,0,0,.671-.084,2.067,2.067,0,0,1,2.273.92A2.944,2.944,0,0,1,207.656,384.545Z" transform="translate(-191.832 -363.467)" fill="#e24b4b"/>
+        <ellipse id="Ellipse_416" data-name="Ellipse 416" cx="1.888" cy="1.888" rx="1.888" ry="1.888" transform="translate(14.596 8.131)" fill="#3e4347"/>
+        <ellipse id="Ellipse_417" data-name="Ellipse 417" cx="0.482" cy="0.32" rx="0.482" ry="0.32" transform="translate(17.282 9.863) rotate(-135)" fill="#5a5f63"/>
+        <g id="Group_2739" data-name="Group 2739" transform="translate(6.929 6.073)">
+          <path id="Path_4664" data-name="Path 4664" d="M306.1,124.495c-1.37-2.771-2.02-2.205-4.936-3.177a3.144,3.144,0,0,1,1.482-.357C304.189,120.96,305.867,122,306.1,124.495Z" transform="translate(-293.178 -120.96)" fill="#3e4347"/>
+          <ellipse id="Ellipse_418" data-name="Ellipse 418" cx="1.888" cy="1.888" rx="1.888" ry="1.888" transform="translate(0 2.058)" fill="#3e4347"/>
+        </g>
+        <ellipse id="Ellipse_419" data-name="Ellipse 419" cx="0.32" cy="0.482" rx="0.32" ry="0.482" transform="translate(8.02 9.863) rotate(-135)" fill="#5a5f63"/>
+        <path id="Path_4665" data-name="Path 4665" d="M112.512,124.495c1.37-2.771,2.02-2.205,4.936-3.177a3.145,3.145,0,0,0-1.482-.357C114.428,120.96,112.749,122,112.512,124.495Z" transform="translate(-107.065 -114.887)" fill="#3e4347"/>
+      </g>
+      <g id="_020-happy-16" data-name="020-happy-16" transform="translate(263.715 1576)">
+        <circle id="Ellipse_413" data-name="Ellipse 413" cx="13" cy="13" r="13" transform="translate(0.285 0)" fill="#ffd93b"/>
+        <path id="Path_4648" data-name="Path 4648" d="M112.557,305.453A7.841,7.841,0,0,1,105.079,300a.6.6,0,1,1,1.136-.367,6.661,6.661,0,0,0,12.686,0,.6.6,0,0,1,1.136.367A7.841,7.841,0,0,1,112.557,305.453Z" transform="translate(-99.565 -284.095)" fill="#3e4347"/>
+        <path id="Path_4649" data-name="Path 4649" d="M79.363,66.631A12.733,12.733,0,0,1,56.72,74.624a12.733,12.733,0,0,0,17.9-17.9A12.718,12.718,0,0,1,79.363,66.631Z" transform="translate(-53.639 -53.656)" fill="#f4c534"/>
+        <g id="Group_2736" data-name="Group 2736" transform="translate(5.055 8.043)">
+          <path id="Path_4650" data-name="Path 4650" d="M102.221,159.684a3.791,3.791,0,0,0-5.821.006,2.911,2.911,0,0,1,5.821-.006Z" transform="translate(-96.4 -156.832)" fill="#3e4347"/>
+          <path id="Path_4651" data-name="Path 4651" d="M304.4,159.684a3.791,3.791,0,0,0-5.821.006,2.911,2.911,0,0,1,5.821-.006Z" transform="translate(-288.521 -156.832)" fill="#3e4347"/>
+        </g>
+      </g>
+      <g id="_009-angry-6" data-name="009-angry-6" transform="translate(123.186 1576)">
+        <ellipse id="Ellipse_409" data-name="Ellipse 409" cx="13.5" cy="13" rx="13.5" ry="13" transform="translate(-0.185)" fill="#ffd93b"/>
+        <path id="Path_4629" data-name="Path 4629" d="M79.609,66.756a12.854,12.854,0,0,1-22.857,8.071A12.855,12.855,0,0,0,74.827,56.752,12.846,12.846,0,0,1,79.609,66.756Z" transform="translate(-53.221 -53.903)" fill="#f4c534"/>
+        <g id="Group_2730" data-name="Group 2730" transform="translate(6.191 10.363)">
+          <path id="Path_4630" data-name="Path 4630" d="M115.363,208.033a1.631,1.631,0,1,1-3.262,0,1.654,1.654,0,0,1,.059-.434h-1.816a.6.6,0,1,1,0-1.2h3.39A1.625,1.625,0,0,1,115.363,208.033Z" transform="translate(-109.744 -206.4)" fill="#3e4347"/>
+          <path id="Path_4631" data-name="Path 4631" d="M295.955,208.033a1.631,1.631,0,1,1-3.262,0,1.653,1.653,0,0,1,.059-.434h-1.816a.6.6,0,1,1,0-1.2h3.39A1.625,1.625,0,0,1,295.955,208.033Z" transform="translate(-281.269 -206.4)" fill="#3e4347"/>
+        </g>
+        <g id="Group_2731" data-name="Group 2731" transform="translate(5.397 7.037)">
+          <path id="Path_4632" data-name="Path 4632" d="M100.245,140.928a.475.475,0,0,1,.123.664.48.48,0,0,1-.664.129,3.54,3.54,0,0,0-4.911.926.486.486,0,0,1-.669.129.48.48,0,0,1-.123-.664A4.5,4.5,0,0,1,100.245,140.928Z" transform="translate(-93.917 -140.151)" fill="#e9b02c"/>
+          <path id="Path_4633" data-name="Path 4633" d="M294.232,142.787a.482.482,0,0,1-.664-.129,3.54,3.54,0,0,0-4.911-.926.481.481,0,0,1-.664-.129.475.475,0,0,1,.123-.664,4.5,4.5,0,0,1,6.244,1.183A.477.477,0,0,1,294.232,142.787Z" transform="translate(-278.168 -140.162)" fill="#e9b02c"/>
+        </g>
+        <path id="Path_4634" data-name="Path 4634" d="M165.446,334.955c-.541.315-2.409-1.151-5.056-1.072-2.648-.08-4.515,1.386-5.056,1.072-.663-.248.854-3.348,5.056-3.355S166.109,334.707,165.446,334.955Z" transform="translate(-146.711 -314.951)" fill="#3e4347"/>
+      </g>
+      <g id="_008-nervous-1" data-name="008-nervous-1" transform="translate(52.939 1576)">
+        <g transform="matrix(1, 0, 0, 1, -52.94, -1450.85)" filter="url(#Ellipse_408)">
+          <circle id="Ellipse_408-2" data-name="Ellipse 408" cx="13" cy="13" r="13" transform="translate(53 1450.85)" fill="#ffd93b"/>
+        </g>
+        <path id="Path_4621" data-name="Path 4621" d="M79.609,66.756a12.854,12.854,0,0,1-22.857,8.071A12.855,12.855,0,0,0,74.827,56.752,12.846,12.846,0,0,1,79.609,66.756Z" transform="translate(-54.067 -53.903)" fill="#f4c534"/>
+        <g id="Group_2727" data-name="Group 2727" transform="translate(5.157 9.986)">
+          <path id="Path_4622" data-name="Path 4622" d="M165.446,334.955c-.541.315-2.409-1.151-5.056-1.072-2.648-.08-4.515,1.386-5.056,1.072-.663-.248.854-3.348,5.056-3.355S166.109,334.707,165.446,334.955Z" transform="translate(-152.714 -324.936)" fill="#3e4347"/>
+          <path id="Path_4623" data-name="Path 4623" d="M105.984,201.6a4.179,4.179,0,0,1,5.826,0h0a2.92,2.92,0,0,0-5.826,0Z" transform="translate(-105.984 -198.88)" fill="#3e4347"/>
+          <path id="Path_4624" data-name="Path 4624" d="M289.984,201.6a4.179,4.179,0,0,1,5.826,0h0a2.92,2.92,0,0,0-5.826,0Z" transform="translate(-280.746 -198.88)" fill="#3e4347"/>
+        </g>
+        <path id="Path_4625" data-name="Path 4625" d="M400.241,93.971c0-1.113-2.016-3.891-2.016-3.891s-2.016,2.778-2.016,3.891a2.016,2.016,0,1,0,4.033,0Z" transform="translate(-376.479 -85.557)" fill="#45cbea"/>
+        <g id="Group_2728" data-name="Group 2728" transform="translate(22.027 8.492)" opacity="0.2">
+          <path id="Path_4626" data-name="Path 4626" d="M442.794,169.908c-.2.275-.507.4-.684.275s-.171-.452.031-.727.507-.4.69-.275S443,169.626,442.794,169.908Z" transform="translate(-441.981 -169.13)" fill="#fff"/>
+        </g>
+        <path id="Path_4627" data-name="Path 4627" d="M338.372,17.168c0-.788-1.426-2.752-1.426-2.752s-1.426,1.964-1.426,2.752a1.426,1.426,0,0,0,2.852,0Z" transform="translate(-318.838 -13.692)" fill="#45cbea"/>
+        <g id="Group_2729" data-name="Group 2729" transform="translate(18.307 3.531)" opacity="0.2">
+          <path id="Path_4628" data-name="Path 4628" d="M368.463,70.869c-.138.194-.358.28-.484.194s-.121-.32.022-.514.358-.285.488-.194S368.605,70.671,368.463,70.869Z" transform="translate(-367.888 -70.32)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="_169-confused" data-name="169-confused" transform="translate(194 1576)">
+        <ellipse id="Ellipse_478" data-name="Ellipse 478" cx="13.218" cy="12.994" rx="13.218" ry="12.994" transform="translate(0 0)" fill="#ffd93b"/>
+        <path id="Path_4807" data-name="Path 4807" d="M79.915,66.872A13.043,13.043,0,0,1,56.72,75.06,13.043,13.043,0,0,0,75.06,56.72,13.028,13.028,0,0,1,79.915,66.872Z" transform="translate(-53.624 -53.914)" fill="#f4c534"/>
+        <g id="Group_2884" data-name="Group 2884" transform="translate(7.154 8.524)">
+          <path id="Path_4808" data-name="Path 4808" d="M153.1,331.189a.709.709,0,0,1-.709.709H142.133a.709.709,0,1,1,0-1.418h10.255A.709.709,0,0,1,153.1,331.189Z" transform="translate(-141.166 -322.25)" fill="#3e4347"/>
+          <circle id="Ellipse_479" data-name="Ellipse 479" cx="1.943" cy="1.943" r="1.943" fill="#3e4347"/>
+        </g>
+        <ellipse id="Ellipse_480" data-name="Ellipse 480" cx="0.51" cy="0.33" rx="0.51" ry="0.33" transform="translate(9.96 10.279) rotate(-126.653)" fill="#5a5f63"/>
+        <circle id="Ellipse_481" data-name="Ellipse 481" cx="1.943" cy="1.943" r="1.943" transform="translate(15.454 8.524)" fill="#3e4347"/>
+        <ellipse id="Ellipse_482" data-name="Ellipse 482" cx="0.51" cy="0.33" rx="0.51" ry="0.33" transform="matrix(-0.597, -0.802, 0.802, -0.597, 18.26, 10.281)" fill="#5a5f63"/>
+      </g>
+    </g>
+    <path id="Path_8464" data-name="Path 8464" d="M-21689-6667h-307.18" transform="translate(22050 8101.854)" fill="none" stroke="#8eb1e5" stroke-width="1"/>
+    <g id="Group_3551" data-name="Group 3551" transform="translate(-11 -571)">
+      <g id="card-7" data-name="card" transform="translate(31 1328)">
+        <g transform="matrix(1, 0, 0, 1, -20, -757)" filter="url(#bg-8)">
+          <rect id="bg-18" data-name="bg" width="373" height="96" rx="12" transform="translate(20 757)" fill="#f0f6fa"/>
+        </g>
+        <text id="Waking_Up_Early" data-name="Waking Up Early" transform="translate(40 11)" fill="#2e5b9f" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Waking Up Early</tspan></text>
+        <text id="Successfully_completed_4days" data-name="Successfully completed 4days" transform="translate(40 40)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="11">Successfully completed 4days</tspan></text>
+        <text id="_6_AM" data-name="6 AM" transform="translate(40 82)" fill="#2e5b9f" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">6 AM</tspan></text>
+        <text id="_5_days_week" data-name=" 5 days/week" transform="translate(111 82)" fill="#2e5b9f" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0" xml:space="preserve"> 5 days/week</tspan></text>
+        <g id="Group_3548" data-name="Group 3548" transform="translate(279 6)">
+          <g id="Group_2746-6" data-name="Group 2746" transform="translate(0 8)">
+            <g id="Ellipse_396-11" data-name="Ellipse 396" transform="translate(0 0)" fill="none" stroke="#78d944" stroke-width="6">
+              <circle cx="33" cy="33" r="33" stroke="none"/>
+              <circle cx="33" cy="33" r="30" fill="none"/>
+            </g>
+            <text id="_50_6" data-name="50%" transform="translate(34.999 39)" fill="#1e64cc" font-size="16" font-family="ArialMT, Arial"><tspan x="-16.012" y="0">50%</tspan></text>
+          </g>
+          <g id="Group_3531-6" data-name="Group 3531" transform="translate(33)">
+            <g id="Mask_Group_6-6" data-name="Mask Group 6" clip-path="url(#clip-path-6)">
+              <g id="Ellipse_396-12" data-name="Ellipse 396" transform="translate(12.207 86.555) rotate(-150)" fill="none" stroke="#e9eff4" stroke-width="6">
+                <circle cx="33.348" cy="33.348" r="33.348" stroke="none"/>
+                <circle cx="33.348" cy="33.348" r="30.348" fill="none"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <path id="Path_8466" data-name="Path 8466" d="M11.627,11V85.224" fill="none" stroke="#ffba26" stroke-linecap="round" stroke-width="3"/>
+      </g>
+      <g id="card-8" data-name="card" transform="translate(31 1441.955)">
+        <g transform="matrix(1, 0, 0, 1, -20, -870.95)" filter="url(#bg-9)">
+          <rect id="bg-19" data-name="bg" width="373" height="96" rx="12" transform="translate(20 871)" fill="#f0f6fa"/>
+        </g>
+        <text id="Cardio_Exercise" data-name="Cardio Exercise" transform="translate(40 11.045)" fill="#2e5b9f" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Cardio Exercise</tspan></text>
+        <text id="Successfully_completed_4days-2" data-name="Successfully completed 4days" transform="translate(40 40.045)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="11">Successfully completed 4days</tspan></text>
+        <text id="_3_KM" data-name="3 KM" transform="translate(40 82.045)" fill="#2e5b9f" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">3 KM</tspan></text>
+        <text id="_21_days" data-name="21 days" transform="translate(110 82.045)" fill="#2e5b9f" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">21 days</tspan></text>
+        <g id="Group_3548-2" data-name="Group 3548" transform="translate(279 6)">
+          <g id="Group_2746-7" data-name="Group 2746" transform="translate(0 8)">
+            <g id="Ellipse_396-13" data-name="Ellipse 396" transform="translate(0 0.045)" fill="none" stroke="#78d944" stroke-width="6">
+              <circle cx="33" cy="33" r="33" stroke="none"/>
+              <circle cx="33" cy="33" r="30" fill="none"/>
+            </g>
+            <text id="_50_7" data-name="50%" transform="translate(34.999 39.045)" fill="#1e64cc" font-size="16" font-family="ArialMT, Arial"><tspan x="-16.012" y="0">50%</tspan></text>
+          </g>
+          <g id="Group_3531-7" data-name="Group 3531" transform="translate(33)">
+            <g id="Mask_Group_6-7" data-name="Mask Group 6" clip-path="url(#clip-path-7)">
+              <g id="Ellipse_396-14" data-name="Ellipse 396" transform="translate(12.207 86.555) rotate(-150)" fill="none" stroke="#e9eff4" stroke-width="6">
+                <circle cx="33.348" cy="33.348" r="33.348" stroke="none"/>
+                <circle cx="33.348" cy="33.348" r="30.348" fill="none"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <path id="Path_8466-2" data-name="Path 8466" d="M11.627,11V85.224" fill="none" stroke="#fe620f" stroke-linecap="round" stroke-width="3"/>
+      </g>
+      <g id="card-9" data-name="card" transform="translate(31 1555.909)">
+        <g transform="matrix(1, 0, 0, 1, -20, -984.91)" filter="url(#bg-10)">
+          <rect id="bg-20" data-name="bg" width="373" height="96" rx="12" transform="translate(20 985)" fill="#f0f6fa"/>
+        </g>
+        <text id="Drink_more_water" data-name="Drink more water" transform="translate(40 11.091)" fill="#2e5b9f" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Drink more water</tspan></text>
+        <text id="Successfully_completed_4days-3" data-name="Successfully completed 4days" transform="translate(40 40.091)" fill="#606060" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="11">Successfully completed 4days</tspan></text>
+        <text id="_3_ltr" data-name="3 ltr" transform="translate(40 82.091)" fill="#2e5b9f" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">3 ltr</tspan></text>
+        <text id="_5_days_week-2" data-name=" 5 days/week" transform="translate(111 82.091)" fill="#2e5b9f" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0" xml:space="preserve"> 5 days/week</tspan></text>
+        <g id="Group_3548-3" data-name="Group 3548" transform="translate(279 6)">
+          <g id="Group_2746-8" data-name="Group 2746" transform="translate(0 8)">
+            <g id="Ellipse_396-15" data-name="Ellipse 396" transform="translate(0 0.091)" fill="none" stroke="#78d944" stroke-width="6">
+              <circle cx="33" cy="33" r="33" stroke="none"/>
+              <circle cx="33" cy="33" r="30" fill="none"/>
+            </g>
+            <text id="_50_8" data-name="50%" transform="translate(34.999 39.091)" fill="#1e64cc" font-size="16" font-family="ArialMT, Arial"><tspan x="-16.012" y="0">50%</tspan></text>
+          </g>
+          <g id="Group_3531-8" data-name="Group 3531" transform="translate(33)">
+            <g id="Mask_Group_6-8" data-name="Mask Group 6" clip-path="url(#clip-path-8)">
+              <g id="Ellipse_396-16" data-name="Ellipse 396" transform="translate(12.207 86.555) rotate(-150)" fill="none" stroke="#e9eff4" stroke-width="6">
+                <circle cx="33.348" cy="33.348" r="33.348" stroke="none"/>
+                <circle cx="33.348" cy="33.348" r="30.348" fill="none"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <path id="Path_8466-3" data-name="Path 8466" d="M11.627,11V85.224" fill="none" stroke="#0ebafd" stroke-linecap="round" stroke-width="3"/>
+      </g>
+      <text id="Habit_tracking_03_" data-name="Habit tracking (03)" transform="translate(31 1302)" fill="#1e64cc" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">Habit tracking (03)</tspan></text>
+      <g id="Group_3553" data-name="Group 3553" transform="translate(149.838 633)">
+        <g transform="matrix(1, 0, 0, 1, -138.84, -62)" filter="url(#Rectangle_1556-4)">
+          <rect id="Rectangle_1556-13" data-name="Rectangle 1556" width="103" height="30" rx="15" transform="translate(290 713)" fill="#f4f9fa"/>
+        </g>
+        <text id="View_all-3" data-name="View all" transform="translate(203.162 670)" fill="#0e58c7" font-size="12" font-family="ArialMT, Arial"><tspan x="-20.566" y="0">View all</tspan></text>
+      </g>
+    </g>
+    <g id="Group_3827" data-name="Group 3827">
+      <g id="Group_3554" data-name="Group 3554" transform="translate(-131.162 -11)">
+        <g transform="matrix(1, 0, 0, 1, 131.16, 11)" filter="url(#Rectangle_1556-5)">
+          <rect id="Rectangle_1556-14" data-name="Rectangle 1556" width="114" height="40" rx="20" transform="translate(20 640)" fill="#f4f9fa"/>
+        </g>
+        <text id="Habit" transform="translate(208.162 677)" fill="#0e58c7" font-size="14" font-family="ArialMT, Arial"><tspan x="-16.341" y="0">Habit</tspan></text>
+      </g>
+      <g id="Group_3555" data-name="Group 3555" transform="translate(-12.162 -11)">
+        <g transform="matrix(1, 0, 0, 1, 12.16, 11)" filter="url(#Rectangle_1556-6)">
+          <rect id="Rectangle_1556-15" data-name="Rectangle 1556" width="114" height="40" rx="20" transform="translate(139 640)" fill="#f4f9fa"/>
+        </g>
+        <text id="Mood" transform="translate(208.162 677)" fill="#0e58c7" font-size="14" font-family="ArialMT, Arial"><tspan x="-17.51" y="0">Mood</tspan></text>
+      </g>
+      <g id="Group_3556" data-name="Group 3556" transform="translate(106.838 -11)">
+        <g transform="matrix(1, 0, 0, 1, -106.84, 11)" filter="url(#Rectangle_1556-7)">
+          <rect id="Rectangle_1556-16" data-name="Rectangle 1556" width="114" height="40" rx="20" transform="translate(258 640)" fill="#f4f9fa"/>
+        </g>
+        <text id="De-addict" transform="translate(208.162 677)" fill="#0e58c7" font-size="14" font-family="ArialMT, Arial"><tspan x="-29.958" y="0">De-addict</tspan></text>
+      </g>
+      <g id="Group_3557" data-name="Group 3557" transform="translate(225.838 -11)">
+        <g transform="matrix(1, 0, 0, 1, -225.84, 11)" filter="url(#Rectangle_1556-8)">
+          <rect id="Rectangle_1556-17" data-name="Rectangle 1556" width="114" height="40" rx="20" transform="translate(377 640)" fill="#f4f9fa"/>
+        </g>
+        <text id="ERP" transform="translate(208.162 677)" fill="#0e58c7" font-size="14" font-family="ArialMT, Arial"><tspan x="-14.393" y="0">ERP</tspan></text>
+      </g>
+      <g id="Group_3828" data-name="Group 3828" transform="translate(344.838 -11)">
+        <g transform="matrix(1, 0, 0, 1, -344.84, 11)" filter="url(#Rectangle_1556-9)">
+          <rect id="Rectangle_1556-18" data-name="Rectangle 1556" width="114" height="40" rx="20" transform="translate(496 640)" fill="#f4f9fa"/>
+        </g>
+        <text id="Urge_tracker" data-name="Urge tracker" transform="translate(208.162 677)" fill="#0e58c7" font-size="14" font-family="ArialMT, Arial"><tspan x="-38.51" y="0">Urge tracker</tspan></text>
+      </g>
+    </g>
+    <text id="Filter_Tool_by" data-name="Filter Tool by" transform="translate(20 625)" fill="#8eb1e5" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Filter Tool by</tspan></text>
+    <g id="Component_118_78" data-name="Component 118 – 78" transform="translate(0 780)">
+      <path id="Rectangle_1553" data-name="Rectangle 1553" d="M10,0H402a10,10,0,0,1,10,10V67a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" fill="url(#linear-gradient)"/>
+      <g id="Group_2707" data-name="Group 2707" transform="translate(1400.269 -4030)">
+        <g id="Group_2699" data-name="Group 2699" transform="translate(-1381 4044.488)">
+          <path id="Icon_awesome-clipboard-check" data-name="Icon awesome-clipboard-check" d="M10.892,2.075H8.3a2.075,2.075,0,0,0-4.149,0H1.556A1.556,1.556,0,0,0,0,3.631V15.042A1.556,1.556,0,0,0,1.556,16.6h9.336a1.556,1.556,0,0,0,1.556-1.556V3.631A1.556,1.556,0,0,0,10.892,2.075ZM6.224,1.3a.778.778,0,1,1-.778.778A.776.776,0,0,1,6.224,1.3Zm3.929,7.514-4.636,4.6a.389.389,0,0,1-.551,0L2.289,10.7a.389.389,0,0,1,0-.551l.921-.914a.389.389,0,0,1,.551,0l1.491,1.5,3.436-3.41a.389.389,0,0,1,.551,0l.914.921A.389.389,0,0,1,10.153,8.811Z" transform="translate(10.154)" fill="#fff"/>
+          <text id="To-do" transform="translate(15.731 35.512)" fill="#fff" font-size="12" font-family="ArialMT, Arial"><tspan x="-15.009" y="0">To-do</tspan></text>
+        </g>
+        <g id="Group_2698" data-name="Group 2698" transform="translate(-1308.318 4045.028)">
+          <text id="My_Health" data-name="My Health" transform="translate(27.049 34.972)" fill="#fff" font-size="12" font-family="ArialMT, Arial"><tspan x="-27.009" y="0">My Health</tspan></text>
+          <path id="Icon_awesome-heartbeat" data-name="Icon awesome-heartbeat" d="M11.09,9.584,9.369,13.027a.554.554,0,0,1-1-.021L6.4,8.632,5.358,11.115H2.1l6.321,6.46a.617.617,0,0,0,.89,0l6.325-6.46H11.856ZM16.407,3.7l-.083-.087a4.537,4.537,0,0,0-6.491,0L8.866,4.6,7.9,3.616a4.531,4.531,0,0,0-6.491,0L1.326,3.7a4.756,4.756,0,0,0-.253,6.307H4.62L5.863,7.021a.555.555,0,0,1,1.018-.014L8.9,11.486l1.7-3.391a.553.553,0,0,1,.991,0l.956,1.912H16.66A4.756,4.756,0,0,0,16.407,3.7Z" transform="translate(17.664 -2.247)" fill="#fff"/>
+        </g>
+        <g id="Group_2706" data-name="Group 2706" transform="translate(-1210.624 4045.028)">
+          <g id="Group_3581" data-name="Group 3581">
+            <text id="Self_Help" data-name="Self Help" transform="translate(24.355 34.972)" fill="#fff" font-size="12" font-family="ArialMT, Arial"><tspan x="-24.346" y="0">Self Help</tspan></text>
+            <path id="Icon_awesome-hand-holding-heart" data-name="Icon awesome-hand-holding-heart" d="M9.251,8.416a.585.585,0,0,0,.857,0l3.659-3.837A2.785,2.785,0,0,0,13.578.587a2.554,2.554,0,0,0-3.525.259l-.376.393L9.3.849A2.551,2.551,0,0,0,5.779.587a2.788,2.788,0,0,0-.188,3.992Zm9.744,2.607a1.112,1.112,0,0,0-1.431,0l-3.1,2.483a2.139,2.139,0,0,1-1.344.47H9.14a.538.538,0,1,1,0-1.075h2.631a1.119,1.119,0,0,0,1.119-.894,1.076,1.076,0,0,0-1.062-1.257H6.451a3.955,3.955,0,0,0-2.49.884L2.4,12.9H.538A.539.539,0,0,0,0,13.44v3.226a.539.539,0,0,0,.538.538H12.527a2.153,2.153,0,0,0,1.344-.47l5.081-4.066A1.075,1.075,0,0,0,18.995,11.024Z" transform="translate(13.795 -0.842)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_2696" data-name="Group 2696" transform="translate(-1040.538 4044.488)">
+          <path id="Icon_awesome-user" data-name="Icon awesome-user" d="M7.262,8.3A4.149,4.149,0,1,0,3.112,4.149,4.149,4.149,0,0,0,7.262,8.3Zm2.9,1.037H9.625a5.643,5.643,0,0,1-4.727,0H4.357A4.358,4.358,0,0,0,0,13.693v1.349A1.556,1.556,0,0,0,1.556,16.6H12.967a1.556,1.556,0,0,0,1.556-1.556V13.693A4.358,4.358,0,0,0,10.166,9.336Z" transform="translate(10.044)" fill="#fff"/>
+          <text id="Profile" transform="translate(17.269 35.512)" fill="#fff" font-size="12" font-family="ArialMT, Arial"><tspan x="-17.007" y="0">Profile</tspan></text>
+        </g>
+        <g id="Group_2697" data-name="Group 2697" transform="translate(-1121.107 4044.488)">
+          <text id="Explore" transform="translate(19.838 35.512)" fill="#fff" font-size="12" font-family="ArialMT, Arial"><tspan x="-20.344" y="0">Explore</tspan></text>
+          <path id="Icon_material-explore" data-name="Icon material-explore" d="M11.3,10.386a.913.913,0,1,0,.913.913A.91.91,0,0,0,11.3,10.386ZM11.3,3a8.3,8.3,0,1,0,8.3,8.3A8.3,8.3,0,0,0,11.3,3Zm1.817,10.116-6.8,3.162,3.162-6.8,6.8-3.162Z" transform="translate(8.962 -3)" fill="#fff"/>
+        </g>
+      </g>
+      <path id="Path_4581" data-name="Path 4581" d="M-1678.447,6469.154h65.814" transform="translate(1763.383 -6413)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <g id="Tabs" transform="translate(25 130.359)">
+      <text id="My_activity" data-name="My activity" transform="translate(23 -0.36)" fill="#0e58c7" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">My activity</tspan></text>
+      <text id="Appointments_records" data-name="Appointments / records" transform="translate(185 -0.36)" fill="#808495" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Appointments / records</tspan></text>
+      <g id="Group_43" data-name="Group 43" transform="translate(0 37.589)">
+        <rect id="Rectangle_28" data-name="Rectangle 28" width="128" height="4" rx="2" transform="translate(0 -1.949)" fill="#0e58c7"/>
+        <line id="Line_3" data-name="Line 3" x2="360" transform="translate(0 2.051)" fill="none" stroke="#1c1c1c" stroke-linecap="round" stroke-width="0.5" opacity="0.2"/>
+      </g>
+    </g>
+    <g id="Group_1500" data-name="Group 1500">
+      <g id="Group_1500-2" data-name="Group 1500" transform="translate(23 24)">
+        <text id="Invest_in_your_Mental_health_:_" data-name="Invest in your
+Mental health : )" transform="translate(0 0)" fill="#1e64cc" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="22">Invest in your</tspan><tspan x="0" y="50">Mental health : )</tspan></text>
+        <g id="Group_2650" data-name="Group 2650" transform="translate(299.478)">
+          <g id="Icon_ionic-ios-notifications" data-name="Icon ionic-ios-notifications" transform="translate(11 3)">
+            <circle id="Ellipse_746" data-name="Ellipse 746" cx="23" cy="23" r="23" transform="translate(-0.478 11)" fill="#fff"/>
+            <path id="Path_9493" data-name="Path 9493" d="M18.8,32.954c2.71,0,4.191-1.917,4.191-4.618H14.6C14.6,31.037,16.085,32.954,18.8,32.954Z" transform="translate(4.722 17.933)" fill="#ff9241"/>
+            <path id="Path_9494" data-name="Path 9494" d="M34.279,29.746C32.938,27.977,30.3,26.941,30.3,19.021c0-8.129-3.59-11.4-6.935-12.18-.314-.078-.54-.183-.54-.514V6.074a2.126,2.126,0,1,0-4.252,0v.253c0,.322-.227.436-.54.514-3.354.793-6.935,4.051-6.935,12.18,0,7.92-2.64,8.948-3.982,10.725A1.729,1.729,0,0,0,8.5,32.517H32.9A1.73,1.73,0,0,0,34.279,29.746Z" transform="translate(2.846 12.097)" fill="url(#linear-gradient-7)"/>
+            <circle id="Ellipse_747" data-name="Ellipse 747" cx="12" cy="12" r="12" transform="translate(30.522)" fill="#ff9241"/>
+            <text id="_1" data-name="1" transform="translate(38.521 18)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">1</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

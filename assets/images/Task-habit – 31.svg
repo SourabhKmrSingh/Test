@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <filter id="Rectangle_1570" x="-24" y="182" width="460" height="686" filterUnits="userSpaceOnUse">
+      <feOffset dy="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="384" height="460" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_1534" x="-9" y="775" width="430" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Task_habit_31">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="Task_habit_31" data-name="Task/habit – 31" clip-path="url(#clip-Task_habit_31)">
+    <rect width="412" height="847" fill="#e9eff4"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1570)">
+      <path id="Rectangle_1570-2" data-name="Rectangle 1570" d="M30,0H382a30,30,0,0,1,30,30V638a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V30A30,30,0,0,1,30,0Z" transform="translate(0 209)" fill="#f2f5f7"/>
+    </g>
+    <text id="Set_Exposure_Challenge" data-name="Set Exposure Challenge" transform="translate(23 28)" fill="#1e64cc" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="22">Set Exposure Challenge</tspan></text>
+    <text id="Telling_someone_about_the_violent_thought_like_accidently_harming_someone_." data-name="Telling someone about the violent thought (like accidently harming someone)…." transform="translate(23 72)" fill="#1e64cc" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="16">Telling someone about the violent thought </tspan><tspan x="0" y="48">(like accidently harming someone)….</tspan></text>
+    <text id="Exposure_Challenge" data-name="Exposure Challenge" transform="translate(23 232)" fill="#2e5b9f" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="16">Exposure Challenge</tspan></text>
+    <text id="Select_any_or_create_new_challenge" data-name="Select any or create new challenge" transform="translate(23 261)" fill="#2e5b9f" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="11">Select any or create new challenge</tspan></text>
+    <g id="CTA" transform="translate(259.448 232.445)">
+      <rect id="Rectangle_1808" data-name="Rectangle 1808" width="143" height="44" rx="8" transform="translate(-14.448 -0.445)" fill="#ff9241"/>
+      <text id="Creart_challenge" data-name="Creart challenge" transform="translate(4.552 13.595)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="1.321" y="13">Creart challenge</tspan></text>
+    </g>
+    <g id="Repeat_Grid_16" data-name="Repeat Grid 16" transform="translate(14 320)" clip-path="url(#clip-path)">
+      <g id="Group_3300" data-name="Group 3300" transform="translate(-31 -151)">
+        <g id="Group_3306" data-name="Group 3306">
+          <rect id="Rectangle_1810" data-name="Rectangle 1810" width="379" height="72" rx="5" transform="translate(33 151)" fill="#f7fafe"/>
+          <rect id="Rectangle_1807" data-name="Rectangle 1807" width="51" height="51" rx="10" transform="translate(47 161)" fill="#1e64cc"/>
+          <text id="Challenge_1" data-name="Challenge 1" transform="translate(115 163)" fill="#254069" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Challenge 1</tspan></text>
+          <text id="Target_-_1_-_2mins" data-name="Target - 1 - 2mins" transform="translate(115 190)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Target - 1 - 2mins</tspan></text>
+          <text id="L1" transform="translate(64 193)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">L1</tspan></text>
+        </g>
+        <g id="Group_3301" data-name="Group 3301">
+          <text id="Unlocked" transform="translate(367 202.724)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="-20.845" y="0">Unlocked</tspan></text>
+          <path id="Icon_awesome-lock" data-name="Icon awesome-lock" d="M11.637,6.517h-.7V4.422a4.422,4.422,0,1,0-8.844,0V6.517H1.4A1.4,1.4,0,0,0,0,7.913V13.5a1.4,1.4,0,0,0,1.4,1.4h10.24a1.4,1.4,0,0,0,1.4-1.4V7.913A1.4,1.4,0,0,0,11.637,6.517Zm-3.026,0H4.422V4.422a2.095,2.095,0,1,1,4.189,0Z" transform="translate(360.233 175.276)" fill="#d2dff2"/>
+        </g>
+      </g>
+      <g id="Group_3300-2" data-name="Group 3300" transform="translate(-31 -73)">
+        <g id="Group_3306-2" data-name="Group 3306">
+          <rect id="Rectangle_1810-2" data-name="Rectangle 1810" width="379" height="72" rx="5" transform="translate(33 151)" fill="#f7fafe"/>
+          <rect id="Rectangle_1807-2" data-name="Rectangle 1807" width="51" height="51" rx="10" transform="translate(47 161)" fill="#1e64cc"/>
+          <text id="Challenge_2" data-name="Challenge 2" transform="translate(115 163)" fill="#254069" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Challenge 2</tspan></text>
+          <text id="Target_-_1_-_2mins-2" data-name="Target - 1 - 2mins" transform="translate(115 190)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Target - 1 - 2mins</tspan></text>
+          <text id="L2" transform="translate(64 193)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">L2</tspan></text>
+        </g>
+        <g id="Group_3301-2" data-name="Group 3301">
+          <text id="Locked" transform="translate(367 202.724)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="-16.123" y="0">Locked</tspan></text>
+          <path id="Icon_awesome-lock-2" data-name="Icon awesome-lock" d="M11.637,6.517h-.7V4.422a4.422,4.422,0,1,0-8.844,0V6.517H1.4A1.4,1.4,0,0,0,0,7.913V13.5a1.4,1.4,0,0,0,1.4,1.4h10.24a1.4,1.4,0,0,0,1.4-1.4V7.913A1.4,1.4,0,0,0,11.637,6.517Zm-3.026,0H4.422V4.422a2.095,2.095,0,1,1,4.189,0Z" transform="translate(360.233 175.276)" fill="#d2dff2"/>
+        </g>
+      </g>
+      <g id="Group_3300-3" data-name="Group 3300" transform="translate(-31 5)">
+        <g id="Group_3306-3" data-name="Group 3306">
+          <rect id="Rectangle_1810-3" data-name="Rectangle 1810" width="379" height="72" rx="5" transform="translate(33 151)" fill="#f7fafe"/>
+          <rect id="Rectangle_1807-3" data-name="Rectangle 1807" width="51" height="51" rx="10" transform="translate(47 161)" fill="#1e64cc"/>
+          <text id="Challenge_3" data-name="Challenge 3" transform="translate(115 163)" fill="#254069" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Challenge 3</tspan></text>
+          <text id="Target_-_1_-_2mins-3" data-name="Target - 1 - 2mins" transform="translate(115 190)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Target - 1 - 2mins</tspan></text>
+          <text id="L3" transform="translate(64 193)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">L3</tspan></text>
+        </g>
+        <g id="Group_3301-3" data-name="Group 3301">
+          <text id="Locked-2" data-name="Locked" transform="translate(367 202.724)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="-16.123" y="0">Locked</tspan></text>
+          <path id="Icon_awesome-lock-3" data-name="Icon awesome-lock" d="M11.637,6.517h-.7V4.422a4.422,4.422,0,1,0-8.844,0V6.517H1.4A1.4,1.4,0,0,0,0,7.913V13.5a1.4,1.4,0,0,0,1.4,1.4h10.24a1.4,1.4,0,0,0,1.4-1.4V7.913A1.4,1.4,0,0,0,11.637,6.517Zm-3.026,0H4.422V4.422a2.095,2.095,0,1,1,4.189,0Z" transform="translate(360.233 175.276)" fill="#d2dff2"/>
+        </g>
+      </g>
+      <g id="Group_3300-4" data-name="Group 3300" transform="translate(-31 83)">
+        <g id="Group_3306-4" data-name="Group 3306">
+          <rect id="Rectangle_1810-4" data-name="Rectangle 1810" width="379" height="72" rx="5" transform="translate(33 151)" fill="#f7fafe"/>
+          <rect id="Rectangle_1807-4" data-name="Rectangle 1807" width="51" height="51" rx="10" transform="translate(47 161)" fill="#1e64cc"/>
+          <text id="Challenge_4" data-name="Challenge 4" transform="translate(115 163)" fill="#254069" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Challenge 4</tspan></text>
+          <text id="Target_-_1_-_2mins-4" data-name="Target - 1 - 2mins" transform="translate(115 190)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Target - 1 - 2mins</tspan></text>
+          <text id="L4" transform="translate(64 193)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">L4</tspan></text>
+        </g>
+        <g id="Group_3301-4" data-name="Group 3301">
+          <text id="Locked-3" data-name="Locked" transform="translate(367 202.724)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="-16.123" y="0">Locked</tspan></text>
+          <path id="Icon_awesome-lock-4" data-name="Icon awesome-lock" d="M11.637,6.517h-.7V4.422a4.422,4.422,0,1,0-8.844,0V6.517H1.4A1.4,1.4,0,0,0,0,7.913V13.5a1.4,1.4,0,0,0,1.4,1.4h10.24a1.4,1.4,0,0,0,1.4-1.4V7.913A1.4,1.4,0,0,0,11.637,6.517Zm-3.026,0H4.422V4.422a2.095,2.095,0,1,1,4.189,0Z" transform="translate(360.233 175.276)" fill="#d2dff2"/>
+        </g>
+      </g>
+      <g id="Group_3300-5" data-name="Group 3300" transform="translate(-31 161)">
+        <g id="Group_3306-5" data-name="Group 3306">
+          <rect id="Rectangle_1810-5" data-name="Rectangle 1810" width="379" height="72" rx="5" transform="translate(33 151)" fill="#f7fafe"/>
+          <rect id="Rectangle_1807-5" data-name="Rectangle 1807" width="51" height="51" rx="10" transform="translate(47 161)" fill="#1e64cc"/>
+          <text id="Challenge_5" data-name="Challenge 5" transform="translate(115 163)" fill="#254069" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Challenge 5</tspan></text>
+          <text id="Target_-_1_-_2mins-5" data-name="Target - 1 - 2mins" transform="translate(115 190)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Target - 1 - 2mins</tspan></text>
+          <text id="L5" transform="translate(64 193)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">L5</tspan></text>
+        </g>
+        <g id="Group_3301-5" data-name="Group 3301">
+          <text id="Locked-4" data-name="Locked" transform="translate(367 202.724)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="-16.123" y="0">Locked</tspan></text>
+          <path id="Icon_awesome-lock-5" data-name="Icon awesome-lock" d="M11.637,6.517h-.7V4.422a4.422,4.422,0,1,0-8.844,0V6.517H1.4A1.4,1.4,0,0,0,0,7.913V13.5a1.4,1.4,0,0,0,1.4,1.4h10.24a1.4,1.4,0,0,0,1.4-1.4V7.913A1.4,1.4,0,0,0,11.637,6.517Zm-3.026,0H4.422V4.422a2.095,2.095,0,1,1,4.189,0Z" transform="translate(360.233 175.276)" fill="#d2dff2"/>
+        </g>
+      </g>
+      <g id="Group_3300-6" data-name="Group 3300" transform="translate(-31 239)">
+        <g id="Group_3306-6" data-name="Group 3306">
+          <rect id="Rectangle_1810-6" data-name="Rectangle 1810" width="379" height="72" rx="5" transform="translate(33 151)" fill="#f7fafe"/>
+          <rect id="Rectangle_1807-6" data-name="Rectangle 1807" width="51" height="51" rx="10" transform="translate(47 161)" fill="#1e64cc"/>
+          <text id="Challenge_5-2" data-name="Challenge 5" transform="translate(115 163)" fill="#254069" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Challenge 5</tspan></text>
+          <text id="Target_-_1_-_2mins-6" data-name="Target - 1 - 2mins" transform="translate(115 190)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Target - 1 - 2mins</tspan></text>
+          <text id="L5-2" data-name="L5" transform="translate(64 193)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">L5</tspan></text>
+        </g>
+        <g id="Group_3301-6" data-name="Group 3301">
+          <text id="Locked-5" data-name="Locked" transform="translate(367 202.724)" fill="#8eb1e5" font-size="10" font-family="ArialMT, Arial"><tspan x="-16.123" y="0">Locked</tspan></text>
+          <path id="Icon_awesome-lock-6" data-name="Icon awesome-lock" d="M11.637,6.517h-.7V4.422a4.422,4.422,0,1,0-8.844,0V6.517H1.4A1.4,1.4,0,0,0,0,7.913V13.5a1.4,1.4,0,0,0,1.4,1.4h10.24a1.4,1.4,0,0,0,1.4-1.4V7.913A1.4,1.4,0,0,0,11.637,6.517Zm-3.026,0H4.422V4.422a2.095,2.095,0,1,1,4.189,0Z" transform="translate(360.233 175.276)" fill="#d2dff2"/>
+        </g>
+      </g>
+    </g>
+    <path id="Path_6655" data-name="Path 6655" d="M10918,16061.152h-412.775" transform="translate(-10506 -15763)" fill="none" stroke="#8eb1e5" stroke-width="1"/>
+    <rect id="Rectangle_1811" data-name="Rectangle 1811" width="49" height="37" transform="translate(325 338)" fill="#f7fafe"/>
+    <path id="Icon_awesome-lock-open" data-name="Icon awesome-lock-open" d="M12.351,0A4.462,4.462,0,0,0,7.932,4.476V6.532H1.4A1.4,1.4,0,0,0,0,7.932v5.6a1.4,1.4,0,0,0,1.4,1.4H11.665a1.4,1.4,0,0,0,1.4-1.4v-5.6a1.4,1.4,0,0,0-1.4-1.4h-1.4V4.459a2.1,2.1,0,1,1,4.2-.026V6.766a.7.7,0,0,0,.7.7H16.1a.7.7,0,0,0,.7-.7V4.433A4.438,4.438,0,0,0,12.351,0Z" transform="translate(343.208 343.741)" fill="#254069"/>
+    <text id="Unlocked-2" data-name="Unlocked" transform="translate(350 371.724)" fill="#254069" font-size="10" font-family="ArialMT, Arial"><tspan x="-20.845" y="0">Unlocked</tspan></text>
+    <g id="Component_119_388" data-name="Component 119 – 388" transform="translate(0 787)">
+      <g transform="matrix(1, 0, 0, 1, 0, -787)" filter="url(#Rectangle_1534)">
+        <rect id="Rectangle_1534-2" data-name="Rectangle 1534" width="412" height="60" transform="translate(0 787)" fill="#102646"/>
+      </g>
+      <g id="Group_2755" data-name="Group 2755" transform="translate(0 -779)">
+        <g id="Rectangle_1564" data-name="Rectangle 1564" transform="translate(12 789)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+          <rect width="50" height="45" stroke="none"/>
+          <rect x="0.5" y="0.5" width="49" height="44" fill="none"/>
+        </g>
+        <path id="Path_4565" data-name="Path 4565" d="M35.606,24.011l-7.368-7.1,7.368-7.1a1.37,1.37,0,0,0,.424-.982,1.4,1.4,0,0,0-.4-1,1.369,1.369,0,0,0-.982-.424h-.022a1.385,1.385,0,0,0-.982.4l-8.417,8.1a1.42,1.42,0,0,0-.424,1,1.382,1.382,0,0,0,.424,1l8.439,8.1a1.443,1.443,0,0,0,.982.4,1.42,1.42,0,0,0,1-.424,1.4,1.4,0,0,0,.4-1A1.274,1.274,0,0,0,35.606,24.011Z" transform="translate(5.036 792.435)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

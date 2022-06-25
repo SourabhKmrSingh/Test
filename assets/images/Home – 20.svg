@@ -1,0 +1,423 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="1813" viewBox="0 0 412 1813">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4b8ceb"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <filter id="bg" x="32" y="480" width="385" height="167" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="bg-2" x="32" y="652" width="385" height="167" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-2"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="372" height="346" fill="none"/>
+    </clipPath>
+    <filter id="bg-3" x="32" y="828" width="385" height="167" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-3"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="bg-4" x="32" y="1000" width="385" height="167" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-4"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="bg-5" x="32" y="1172" width="385" height="167" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-5"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect width="372" height="197" fill="none"/>
+    </clipPath>
+    <filter id="bg-6" x="32" y="1505" width="385" height="197" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-6"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aadd"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <clipPath id="clip-path-3">
+      <rect width="372" height="172" fill="none"/>
+    </clipPath>
+    <filter id="bg-7" x="31" y="1171" width="385" height="167" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-7"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_7" x="-3" y="375.527" width="417.41" height="95.559" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-8"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="bg-8" x="32" y="1340" width="385" height="167" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-9"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Home_20">
+      <rect width="412" height="1813"/>
+    </clipPath>
+  </defs>
+  <g id="Home_20" data-name="Home – 20" clip-path="url(#clip-Home_20)">
+    <rect width="412" height="1813" fill="#e9eff4"/>
+    <path id="Path_4594" data-name="Path 4594" d="M-486.358,3821.613V4821.43" transform="translate(520 -3319)" fill="none" stroke="#0e58c7" stroke-width="1"/>
+    <g id="Group_1500" data-name="Group 1500">
+      <g id="Group_1500-2" data-name="Group 1500" transform="translate(23 24)">
+        <text id="Your_are_Not_Alone_in_this_:_" data-name="Your are
+Not Alone in this : )" transform="translate(0 0)" fill="#1e64cc" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="22">Your are</tspan><tspan x="0" y="50">Not Alone in </tspan></text>
+        <g id="Group_2650" data-name="Group 2650" transform="translate(299.479)">
+          <g id="Icon_ionic-ios-notifications" data-name="Icon ionic-ios-notifications" transform="translate(11 3)">
+            <circle id="Ellipse_746" data-name="Ellipse 746" cx="23" cy="23" r="23" transform="translate(-0.478 11)" fill="#fff"/>
+            <path id="Path_9493" data-name="Path 9493" d="M18.8,32.954c2.71,0,4.191-1.917,4.191-4.618H14.6C14.6,31.037,16.085,32.954,18.8,32.954Z" transform="translate(4.722 17.933)" fill="#ff9241"/>
+            <path id="Path_9494" data-name="Path 9494" d="M34.279,29.746C32.938,27.977,30.3,26.941,30.3,19.021c0-8.129-3.59-11.4-6.935-12.18-.314-.078-.54-.183-.54-.514V6.074a2.126,2.126,0,1,0-4.252,0v.253c0,.322-.227.436-.54.514-3.354.793-6.935,4.051-6.935,12.18,0,7.92-2.64,8.948-3.982,10.725A1.729,1.729,0,0,0,8.5,32.517H32.9A1.73,1.73,0,0,0,34.279,29.746Z" transform="translate(2.846 12.097)" fill="url(#linear-gradient)"/>
+            <circle id="Ellipse_747" data-name="Ellipse 747" cx="12" cy="12" r="12" transform="translate(30.522)" fill="#ff9241"/>
+            <text id="_1" data-name="1" transform="translate(38.521 18)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">1</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="content" transform="translate(5 248)">
+      <g id="trips" transform="translate(0 70)">
+        <rect id="Rectangle_1558" data-name="Rectangle 1558" width="154" height="20" transform="translate(12 157)" fill="#e6ecf1"/>
+        <g id="card">
+          <g transform="matrix(1, 0, 0, 1, -5, -318)" filter="url(#bg)">
+            <rect id="bg-9" data-name="bg" width="337" height="119" rx="12" transform="translate(56 500)" fill="#f0f6fa"/>
+          </g>
+          <g id="Languages" transform="translate(70 197)">
+            <text id="Pill_Reminder" data-name="Pill Reminder" fill="#2e5b9f" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Pill Reminder</tspan></text>
+          </g>
+          <g id="Group_2225" data-name="Group 2225" transform="translate(40 -12)">
+            <text id="Abatacept_100mg" data-name="Abatacept  100mg" transform="translate(46 258)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0" xml:space="preserve">Abatacept  100mg</tspan></text>
+            <text id="_08_10_pills" data-name="08/10 pills" transform="translate(46 288)" fill="#254069" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">08/10 pills</tspan></text>
+            <text id="_6_7_days" data-name=" 6/7 days" transform="translate(126 288)" fill="#254069" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0" xml:space="preserve"> 6/7 days</tspan></text>
+            <path id="Icon_awesome-pills" data-name="Icon awesome-pills" d="M2.369,2.25A2.368,2.368,0,0,0,0,4.619V9.356a2.369,2.369,0,1,0,4.738,0V4.619A2.368,2.368,0,0,0,2.369,2.25ZM3.384,6.988H1.354V4.619a1.015,1.015,0,1,1,2.03,0Z" transform="matrix(0.839, 0.545, -0.545, 0.839, 36.741, 243.907)" fill="#254069"/>
+          </g>
+          <path id="Path_8470" data-name="Path 8470" d="M280.907,192.759V294.284" transform="translate(-4 -2)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+          <path id="Path_8471" data-name="Path 8471" d="M280.907,241.5h96.662" transform="translate(1.414 -2)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+          <g id="Group_3561" data-name="Group 3561" transform="translate(-4 -2)">
+            <g id="Rectangle_1705" data-name="Rectangle 1705" transform="translate(296 197)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+              <rect width="74" height="37" stroke="none"/>
+              <rect x="0.5" y="0.5" width="73" height="36" fill="none"/>
+            </g>
+            <text id="Taken" transform="translate(331 221)" fill="#0e58c7" font-size="14" font-family="ArialMT, Arial"><tspan x="-18.679" y="0">Taken</tspan></text>
+          </g>
+          <text id="Missed" transform="translate(330 271)" fill="#d96400" font-size="14" font-family="ArialMT, Arial"><tspan x="-22.172" y="0">Missed</tspan></text>
+        </g>
+        <text id="JAN_10_-_12:30_PM" data-name="JAN 10 - 12:30 PM" transform="translate(16 161)" fill="#78849e" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="13">JAN 10 - 12:30 PM</tspan></text>
+        <g id="Group_3077" data-name="Group 3077" transform="translate(40 264.613)">
+          <circle id="Ellipse_551" data-name="Ellipse 551" cx="23" cy="23" r="23" transform="translate(0 0.388)" fill="#dbecff" opacity="0.354"/>
+          <circle id="Ellipse_550" data-name="Ellipse 550" cx="21" cy="21" r="21" transform="translate(2 2.388)" fill="#dbecff" opacity="0.354"/>
+          <circle id="Ellipse_430" data-name="Ellipse 430" cx="19" cy="19" r="19" transform="translate(4 4.387)" fill="#fff"/>
+          <path id="Icon_awesome-play" data-name="Icon awesome-play" d="M12.659,6.406,2.16.2A1.424,1.424,0,0,0,0,1.43V13.842a1.431,1.431,0,0,0,2.16,1.232l10.5-6.2A1.43,1.43,0,0,0,12.659,6.406Z" transform="translate(17.499 15.224)" fill="#1e64cc"/>
+        </g>
+      </g>
+      <g id="trips-2" data-name="trips" transform="translate(0 242)">
+        <rect id="Rectangle_1558-2" data-name="Rectangle 1558" width="154" height="20" transform="translate(12 157)" fill="#e6ecf1"/>
+        <g id="card-2" data-name="card">
+          <g transform="matrix(1, 0, 0, 1, -5, -490)" filter="url(#bg-2)">
+            <rect id="bg-10" data-name="bg" width="337" height="119" rx="12" transform="translate(56 672)" fill="#f0f6fa"/>
+          </g>
+          <g id="Languages-2" data-name="Languages" transform="translate(70 197)">
+            <text id="Pill_Reminder-2" data-name="Pill Reminder" fill="#2e5b9f" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Pill Reminder</tspan></text>
+          </g>
+          <g id="Group_2225-2" data-name="Group 2225" transform="translate(40 -12)">
+            <text id="Abatacept_100mg-2" data-name="Abatacept  100mg" transform="translate(46 258)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0" xml:space="preserve">Abatacept  100mg</tspan></text>
+            <text id="_08_10_pills-2" data-name="08/10 pills" transform="translate(46 288)" fill="#254069" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">08/10 pills</tspan></text>
+            <text id="_6_7_days-2" data-name=" 6/7 days" transform="translate(126 288)" fill="#254069" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0" xml:space="preserve"> 6/7 days</tspan></text>
+            <path id="Icon_awesome-pills-2" data-name="Icon awesome-pills" d="M2.369,2.25A2.368,2.368,0,0,0,0,4.619V9.356a2.369,2.369,0,1,0,4.738,0V4.619A2.368,2.368,0,0,0,2.369,2.25ZM3.384,6.988H1.354V4.619a1.015,1.015,0,1,1,2.03,0Z" transform="matrix(0.839, 0.545, -0.545, 0.839, 36.741, 243.907)" fill="#254069"/>
+          </g>
+          <path id="Path_8470-2" data-name="Path 8470" d="M280.907,192.759V294.284" transform="translate(-4 -2)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+          <path id="Path_8471-2" data-name="Path 8471" d="M280.907,241.5h96.662" transform="translate(1.414 -2)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+          <g id="Group_3561-2" data-name="Group 3561" transform="translate(-4 -2)">
+            <g id="Rectangle_1705-2" data-name="Rectangle 1705" transform="translate(296 197)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+              <rect width="74" height="37" stroke="none"/>
+              <rect x="0.5" y="0.5" width="73" height="36" fill="none"/>
+            </g>
+            <text id="I_Did" data-name="I Did" transform="translate(331 221)" fill="#0e58c7" font-size="14" font-family="ArialMT, Arial"><tspan x="-14.393" y="0">I Did</tspan></text>
+          </g>
+          <text id="I_Didn_t" data-name="I Didn’t" transform="translate(330 271)" fill="#d96400" font-size="14" font-family="ArialMT, Arial"><tspan x="-21.786" y="0">I Didn’t</tspan></text>
+        </g>
+        <text id="JAN_10_-_12:30_PM-2" data-name="JAN 10 - 12:30 PM" transform="translate(16 161)" fill="#78849e" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="13">JAN 10 - 12:30 PM</tspan></text>
+      </g>
+    </g>
+    <g id="content-2" data-name="content" transform="translate(5 596)">
+      <g id="trips-3" data-name="trips" transform="translate(16 224)" clip-path="url(#clip-path)">
+        <g id="trips-4" data-name="trips" transform="translate(-16 -154)">
+          <rect id="Rectangle_1558-3" data-name="Rectangle 1558" width="154" height="20" transform="translate(12 157)" fill="#e9eff4"/>
+          <g id="card-3" data-name="card">
+            <g transform="matrix(1, 0, 0, 1, -5, -666)" filter="url(#bg-3)">
+              <rect id="bg-11" data-name="bg" width="337" height="119" rx="12" transform="translate(56 848)" fill="#f0f6fa"/>
+            </g>
+            <g id="Languages-3" data-name="Languages" transform="translate(70 197)">
+              <text id="Phobia" fill="#2e5b9f" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Phobia</tspan></text>
+            </g>
+            <g id="Group_2225-3" data-name="Group 2225" transform="translate(24 -12)">
+              <text id="Meet_new_people_" data-name="Meet new people " transform="translate(46 258)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Meet new people </tspan></text>
+              <text id="Min_5_minutes" data-name="Min 5 minutes" transform="translate(46 288)" fill="#254069" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Min 5 minutes</tspan></text>
+            </g>
+            <path id="Path_4595" data-name="Path 4595" d="M280.907,192.759V294.284" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+            <path id="Path_4596" data-name="Path 4596" d="M280.907,241.5h96.662" transform="translate(5.414)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+            <g id="Group_3067" data-name="Group 3067">
+              <g id="Rectangle_1705-3" data-name="Rectangle 1705" transform="translate(296 197)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+                <rect width="74" height="37" stroke="none"/>
+                <rect x="0.5" y="0.5" width="73" height="36" fill="none"/>
+              </g>
+              <text id="I_Did-2" data-name="I Did" transform="translate(331 221)" fill="#0e58c7" font-size="14" font-family="ArialMT, Arial"><tspan x="-14.393" y="0">I Did</tspan></text>
+            </g>
+            <text id="I_Didn_t-2" data-name="I Didn’t" transform="translate(334 273)" fill="#d96400" font-size="14" font-family="ArialMT, Arial"><tspan x="-21.786" y="0">I Didn’t</tspan></text>
+          </g>
+          <text id="JAN_10_-_12:30_PM-3" data-name="JAN 10 - 12:30 PM" transform="translate(16 161)" fill="#78849e" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="13">JAN 10 - 12:30 PM</tspan></text>
+        </g>
+        <g id="trips-5" data-name="trips" transform="translate(-16 18)">
+          <rect id="Rectangle_1558-4" data-name="Rectangle 1558" width="154" height="20" transform="translate(12 157)" fill="#e9eff4"/>
+          <g id="card-4" data-name="card">
+            <g transform="matrix(1, 0, 0, 1, -5, -838)" filter="url(#bg-4)">
+              <rect id="bg-12" data-name="bg" width="337" height="119" rx="12" transform="translate(56 1020)" fill="#f0f6fa"/>
+            </g>
+            <g id="Languages-4" data-name="Languages" transform="translate(70 197)">
+              <text id="Habit" fill="#2e5b9f" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Habit</tspan></text>
+            </g>
+            <g id="Group_2225-4" data-name="Group 2225" transform="translate(24 -12)">
+              <text id="Cycling" transform="translate(46 258)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Cycling</tspan></text>
+              <text id="Min_5_km" data-name="Min 5 km" transform="translate(46 288)" fill="#254069" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Min 5 km</tspan></text>
+            </g>
+            <path id="Path_4595-2" data-name="Path 4595" d="M280.907,192.759V294.284" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+            <path id="Path_4596-2" data-name="Path 4596" d="M280.907,241.5h96.662" transform="translate(5.414)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+            <g id="Group_3067-2" data-name="Group 3067">
+              <g id="Rectangle_1705-4" data-name="Rectangle 1705" transform="translate(296 197)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+                <rect width="74" height="37" stroke="none"/>
+                <rect x="0.5" y="0.5" width="73" height="36" fill="none"/>
+              </g>
+              <text id="I_Did-3" data-name="I Did" transform="translate(331 221)" fill="#0e58c7" font-size="14" font-family="ArialMT, Arial"><tspan x="-14.393" y="0">I Did</tspan></text>
+            </g>
+            <text id="I_Didn_t-3" data-name="I Didn’t" transform="translate(334 273)" fill="#d96400" font-size="14" font-family="ArialMT, Arial"><tspan x="-21.786" y="0">I Didn’t</tspan></text>
+          </g>
+          <text id="JAN_10_-_12:30_PM-4" data-name="JAN 10 - 12:30 PM" transform="translate(16 161)" fill="#78849e" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="13">JAN 10 - 12:30 PM</tspan></text>
+        </g>
+        <g id="trips-6" data-name="trips" transform="translate(-16 190)">
+          <rect id="Rectangle_1558-5" data-name="Rectangle 1558" width="154" height="20" transform="translate(12 157)" fill="#e9eff4"/>
+          <g id="card-5" data-name="card">
+            <g transform="matrix(1, 0, 0, 1, -5, -1010)" filter="url(#bg-5)">
+              <rect id="bg-13" data-name="bg" width="337" height="119" rx="12" transform="translate(56 1192)" fill="#f0f6fa"/>
+            </g>
+            <g id="Languages-5" data-name="Languages" transform="translate(70 197)">
+              <text id="De-addiction_-_Alcohol" data-name="De-addiction - Alcohol" fill="#2e5b9f" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">De-addiction - Alcohol</tspan></text>
+            </g>
+            <g id="Group_2225-5" data-name="Group 2225" transform="translate(24 -12)">
+              <text id="Did_you_Stick_you_pledge_" data-name="Did you Stick you pledge ?" transform="translate(46 258)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Did you Stick you pledge ?</tspan></text>
+              <text id="Sober_:_Successfully_3_days" data-name="Sober : Successfully 3 days" transform="translate(46 288)" fill="#254069" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Sober : Successfully 3 days</tspan></text>
+            </g>
+            <path id="Path_4595-3" data-name="Path 4595" d="M280.907,192.759V294.284" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+            <path id="Path_4596-3" data-name="Path 4596" d="M280.907,241.5h96.662" transform="translate(5.414)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+            <g id="Group_3067-3" data-name="Group 3067">
+              <g id="Rectangle_1705-5" data-name="Rectangle 1705" transform="translate(296 197)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+                <rect width="74" height="37" stroke="none"/>
+                <rect x="0.5" y="0.5" width="73" height="36" fill="none"/>
+              </g>
+              <text id="Yes" transform="translate(331 221)" fill="#0e58c7" font-size="14" font-family="ArialMT, Arial"><tspan x="-11.419" y="0">Yes</tspan></text>
+            </g>
+            <text id="No" transform="translate(334 273)" fill="#d96400" font-size="14" font-family="ArialMT, Arial"><tspan x="-8.948" y="0">No</tspan></text>
+          </g>
+          <text id="JAN_10_-_12:30_PM-5" data-name="JAN 10 - 12:30 PM" transform="translate(16 161)" fill="#78849e" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="13">JAN 10 - 12:30 PM</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="content-3" data-name="content" transform="translate(5 1273)">
+      <g id="trips-7" data-name="trips" transform="translate(16 224)" clip-path="url(#clip-path-2)">
+        <g id="trips-8" data-name="trips" transform="translate(-16 -154)">
+          <rect id="Rectangle_1558-6" data-name="Rectangle 1558" width="154" height="20" transform="translate(12 157)" fill="#e9eff4"/>
+          <g id="card-6" data-name="card">
+            <g transform="matrix(1, 0, 0, 1, -5, -1343)" filter="url(#bg-6)">
+              <rect id="bg-14" data-name="bg" width="337" height="149" rx="12" transform="translate(56 1525)" fill="#f0f6fa"/>
+            </g>
+            <g id="Languages-6" data-name="Languages" transform="translate(60 226)">
+              <text id="Dr._Clara_Odding" data-name="Dr. Clara Odding" transform="translate(8)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Dr. Clara Odding</tspan></text>
+              <text id="Reschedule_" data-name="Reschedule " transform="translate(235)" fill="#0e58c7" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="1.414" y="13">Reschedule </tspan></text>
+              <g id="noun_Download_1569899" transform="translate(216.224 3)">
+                <g id="Group_61" data-name="Group 61" transform="translate(0 0)">
+                  <g id="noun_Pencil_2174975" transform="translate(0 0)">
+                    <g id="Layer_2" data-name="Layer 2">
+                      <g id="Layer_1" data-name="Layer 1">
+                        <rect id="Rectangle_78" data-name="Rectangle 78" width="13" height="13" transform="translate(0.776 0)" fill="none"/>
+                        <path id="Path_398" data-name="Path 398" d="M17.243,10.707,14.15,7.618,21.231.535a1.84,1.84,0,0,1,2.6,0l.49.49a1.843,1.843,0,0,1,0,2.6ZM15.5,7.618l1.749,1.749,6.4-6.413a.887.887,0,0,0,0-1.256l-.49-.491a.891.891,0,0,0-1.257,0Z" transform="translate(-12.396 0.597)" fill="#0e58c7"/>
+                        <path id="Path_399" data-name="Path 399" d="M.7,71.278a.588.588,0,0,1-.57-.74L.9,67.644a.625.625,0,0,1,1.047-.282l2.08,2.08a.625.625,0,0,1-.281,1.047l-2.9.77A.563.563,0,0,1,.7,71.278Zm.974-2.842-.464,1.742,1.749-.464Z" transform="translate(-0.112 -58.191)" fill="#0e58c7"/>
+                        <path id="Path_400" data-name="Path 400" d="M65.389,14.885a.471.471,0,0,1-.336-.14l-2.19-2.189a.476.476,0,1,1,.673-.673l2.189,2.19a.476.476,0,0,1-.336.812Z" transform="translate(-54.901 -9.683)" fill="#0e58c7"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="noun_Info_1174604" transform="translate(134.739 3.734)">
+                <g id="Group_76" data-name="Group 76" transform="translate(0 0)">
+                  <g id="Group_75" data-name="Group 75">
+                    <g id="Group_74" data-name="Group 74">
+                      <g id="Group_73" data-name="Group 73">
+                        <g id="Group_72" data-name="Group 72">
+                          <circle id="Ellipse_68" data-name="Ellipse 68" cx="6.104" cy="6.104" r="6.104" fill="none" stroke="#0e58c7" stroke-width="2"/>
+                          <path id="Path_413" data-name="Path 413" d="M17.013,15.667l-.131.363q-.589.157-.939.24a3.575,3.575,0,0,1-.814.083,2.173,2.173,0,0,1-1.109-.236.691.691,0,0,1-.4-.6,1.455,1.455,0,0,1,.03-.288,2.511,2.511,0,0,1,.1-.333l.487-1.178q.065-.169.11-.321a.984.984,0,0,0,.045-.276.346.346,0,0,0-.137-.315,1.055,1.055,0,0,0-.523-.089,1.959,1.959,0,0,0-.389.04q-.2.04-.342.077l.131-.363q.482-.133.921-.228a3.958,3.958,0,0,1,.832-.095,2.121,2.121,0,0,1,1.091.232.689.689,0,0,1,.383.6,2.326,2.326,0,0,1-.027.27,1.32,1.32,0,0,1-.1.355l-.487,1.174a2.406,2.406,0,0,0-.107.323,1.19,1.19,0,0,0-.048.274.33.33,0,0,0,.155.319,1.2,1.2,0,0,0,.535.085,2.219,2.219,0,0,0,.4-.042A3.03,3.03,0,0,0,17.013,15.667Zm.125-4.925a.618.618,0,0,1-.342.522,1.685,1.685,0,0,1-1.65,0,.57.57,0,0,1,0-1.047,1.671,1.671,0,0,1,1.65,0A.623.623,0,0,1,17.138,10.742Z" transform="translate(-9.121 -6.956)" fill="#0e58c7" fill-rule="evenodd"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <text id="_2_Rue_de_Ermesinde_Frisange_-_Luxembourg_3_km" data-name="2 Rue de Ermesinde
+Frisange - Luxembourg 3 km" transform="translate(97 285)" fill="#1c1c1c" font-size="14" font-family="ArialMT, Arial" opacity="0.4"><tspan x="0" y="13">2 Rue de Ermesinde</tspan><tspan x="0" y="29">Frisange - Luxembourg 3 km</tspan></text>
+            <g id="Group_1889" data-name="Group 1889" transform="translate(68.09 288.213)">
+              <g id="noun_Search_860389" transform="translate(0 0)">
+                <g id="Group_5" data-name="Group 5">
+                  <g id="Group_4" data-name="Group 4">
+                    <g id="noun_Map_2404959">
+                      <g id="Group_24" data-name="Group 24">
+                        <g id="Group_23" data-name="Group 23">
+                          <g id="Group_21" data-name="Group 21">
+                            <path id="Path_222" data-name="Path 222" d="M86.917,49h0a.4.4,0,0,1-.338-.188,35.544,35.544,0,0,0-2.667-3.527c-.635-.773-1.291-1.572-1.87-2.357-.986-1.337-2.118-3.1-2.118-4.847a7.021,7.021,0,0,1,14.042,0c0,1.877-1.2,3.745-3.007,5.973-.317.391-.648.789-.968,1.174a34.509,34.509,0,0,0-2.735,3.585A.4.4,0,0,1,86.917,49Zm.026-17.141a6.229,6.229,0,0,0-6.222,6.222c0,1.185.605,2.534,1.962,4.374.567.768,1.216,1.559,1.845,2.324.834,1.016,1.693,2.061,2.39,3.091.719-1.06,1.6-2.122,2.46-3.153.318-.383.648-.779.961-1.165,1.7-2.1,2.829-3.829,2.829-5.471A6.23,6.23,0,0,0,86.943,31.86Z" transform="translate(-79.923 -31.063)" fill="#0e58c7"/>
+                          </g>
+                          <g id="Group_22" data-name="Group 22" transform="translate(3.315 3.233)">
+                            <path id="Path_223" data-name="Path 223" d="M166.759,119.749a3.8,3.8,0,1,1,3.705-3.8A3.76,3.76,0,0,1,166.759,119.749Zm0-6.8a3,3,0,1,0,2.908,3A2.96,2.96,0,0,0,166.759,112.945Z" transform="translate(-163.052 -112.148)" fill="#0e58c7"/>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <text id="Thu_09_Apr" data-name="Thu, 09 Apr" transform="translate(67 270)" fill="#254069" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Thu, 09 Apr</tspan></text>
+            <text id="_08:00" data-name="08:00" transform="translate(158 271)" fill="#254069" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">08:00</tspan></text>
+            <text id="Confirmed" transform="translate(302 271)" fill="#2ac052" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="0">Confirmed</tspan></text>
+            <text id="Appointment" transform="translate(69 195)" fill="#2e5b9f" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Appointment</tspan></text>
+          </g>
+          <text id="JAN_10_-_12:30_PM-6" data-name="JAN 10 - 12:30 PM" transform="translate(16 161)" fill="#78849e" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="13">JAN 10 - 12:30 PM</tspan></text>
+        </g>
+      </g>
+    </g>
+    <text id="Task_Reminders" data-name="Task / Reminders" transform="translate(21 360)" fill="#1e64cc" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="16">Task / Reminders</tspan></text>
+    <path id="Path_4578" data-name="Path 4578" d="M-1789,6345.073h372" transform="translate(1810 -6234)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+    <g id="Group_2708" data-name="Group 2708" transform="translate(1307 -9696)">
+      <rect id="Rectangle_1547" data-name="Rectangle 1547" width="108" height="108" rx="10" transform="translate(-1286 9887)" fill="url(#linear-gradient-2)"/>
+      <text id="_03_Task" data-name="03
+Task" transform="translate(-1262 9929)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">03</tspan><tspan x="0" y="18">Task</tspan></text>
+      <text id="Meetings" transform="translate(-1262 9974)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Meetings</tspan></text>
+    </g>
+    <g id="Group_2712" data-name="Group 2712" transform="translate(1439 -9696)">
+      <rect id="Rectangle_1547-2" data-name="Rectangle 1547" width="108" height="108" rx="10" transform="translate(-1286 9887)" fill="url(#linear-gradient-2)"/>
+      <text id="_03_Task-2" data-name="03
+Task" transform="translate(-1262 9929)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">03</tspan><tspan x="0" y="18">Task</tspan></text>
+      <text id="General" transform="translate(-1262 9974)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">General</tspan></text>
+    </g>
+    <g id="Group_2713" data-name="Group 2713" transform="translate(1571 -9695)">
+      <rect id="Rectangle_1547-3" data-name="Rectangle 1547" width="108" height="108" rx="10" transform="translate(-1286 9887)" fill="url(#linear-gradient-2)"/>
+      <text id="_04_Habits" data-name="04
+Habits" transform="translate(-1262 9928)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">04</tspan><tspan x="0" y="18">Habits</tspan></text>
+      <text id="Habits" transform="translate(-1262 9973)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Habits</tspan></text>
+    </g>
+    <path id="Path_4580" data-name="Path 4580" d="M-1789,6345.073h372" transform="translate(1809 -6013)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+    <g id="content-4" data-name="content" transform="translate(4 939)">
+      <g id="trips-9" data-name="trips" transform="translate(16 224)" clip-path="url(#clip-path-3)">
+        <g id="trips-10" data-name="trips" transform="translate(-16 -154)">
+          <rect id="Rectangle_1558-7" data-name="Rectangle 1558" width="154" height="20" transform="translate(12 157)" fill="#e8eef3"/>
+          <g id="card-7" data-name="card">
+            <g transform="matrix(1, 0, 0, 1, -4, -1009)" filter="url(#bg-7)">
+              <rect id="bg-15" data-name="bg" width="337" height="119" rx="12" transform="translate(55 1191)" fill="#f0f6fa"/>
+            </g>
+            <g id="Languages-7" data-name="Languages" transform="translate(70 240)">
+              <text id="De-addiction_-_Alcohol-2" data-name="De-addiction - Alcohol" transform="translate(0 -3)" fill="#2e5b9f" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">De-addiction - Alcohol</tspan></text>
+            </g>
+            <g id="Group_2225-6" data-name="Group 2225" transform="translate(24 -12)">
+              <text id="Did_you_Stick_to_pledge_" data-name="Did you Stick to pledge ?" transform="translate(46 225)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Did you Stick to pledge ?</tspan></text>
+              <text id="Sober_:_Successfully_5_days" data-name="Sober : Successfully 5 days" transform="translate(46 288)" fill="#254069" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Sober : Successfully 5 days</tspan></text>
+            </g>
+            <path id="Path_4595-4" data-name="Path 4595" d="M280.907,192.759V294.284" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+            <path id="Path_4596-4" data-name="Path 4596" d="M280.907,241.5h96.662" transform="translate(5.414)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+            <text id="I_Did-4" data-name="I Did" transform="translate(331 221)" fill="#0e58c7" font-size="14" font-family="ArialMT, Arial"><tspan x="-14.393" y="0">I Did</tspan></text>
+            <text id="I_Didn_t-4" data-name="I Didn’t" transform="translate(334 273)" fill="#d96400" font-size="14" font-family="ArialMT, Arial"><tspan x="-21.786" y="0">I Didn’t</tspan></text>
+          </g>
+          <text id="JAN_10_-_12:30_PM-7" data-name="JAN 10 - 12:30 PM" transform="translate(16 161)" fill="#78849e" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="13">JAN 10 - 12:30 PM</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Group_2754" data-name="Group 2754">
+      <text id="Today_s" data-name="Today’s" transform="translate(19 139)" fill="#1e64cc" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="16">Today’s</tspan></text>
+      <path id="Icon_awesome-calendar-day" data-name="Icon awesome-calendar-day" d="M0,19.938A2.063,2.063,0,0,0,2.063,22H17.188a2.063,2.063,0,0,0,2.063-2.063V8.25H0Zm2.75-8.25A.69.69,0,0,1,3.438,11H7.563a.69.69,0,0,1,.688.688v4.125a.69.69,0,0,1-.688.688H3.438a.69.69,0,0,1-.688-.688ZM17.188,2.75H15.125V.688A.69.69,0,0,0,14.438,0H13.063a.69.69,0,0,0-.688.688V2.75h-5.5V.688A.69.69,0,0,0,6.188,0H4.813a.69.69,0,0,0-.688.688V2.75H2.063A2.063,2.063,0,0,0,0,4.813V6.875H19.25V4.813A2.063,2.063,0,0,0,17.188,2.75Z" transform="translate(369.125 139)" fill="#1e64cc"/>
+    </g>
+    <g id="Component_118_49" data-name="Component 118 – 49" transform="translate(0 780)">
+      <path id="Rectangle_1553" data-name="Rectangle 1553" d="M10,0H402a10,10,0,0,1,10,10V67a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" fill="url(#linear-gradient-2)"/>
+      <g id="Group_2707" data-name="Group 2707" transform="translate(1400.269 -4030)">
+        <g id="Group_2699" data-name="Group 2699" transform="translate(-1381 4044.488)">
+          <path id="Icon_awesome-clipboard-check" data-name="Icon awesome-clipboard-check" d="M10.892,2.075H8.3a2.075,2.075,0,0,0-4.149,0H1.556A1.556,1.556,0,0,0,0,3.631V15.042A1.556,1.556,0,0,0,1.556,16.6h9.336a1.556,1.556,0,0,0,1.556-1.556V3.631A1.556,1.556,0,0,0,10.892,2.075ZM6.224,1.3a.778.778,0,1,1-.778.778A.776.776,0,0,1,6.224,1.3Zm3.929,7.514-4.636,4.6a.389.389,0,0,1-.551,0L2.289,10.7a.389.389,0,0,1,0-.551l.921-.914a.389.389,0,0,1,.551,0l1.491,1.5,3.436-3.41a.389.389,0,0,1,.551,0l.914.921A.389.389,0,0,1,10.153,8.811Z" transform="translate(10.154)" fill="#fff"/>
+          <text id="To-do" transform="translate(15.731 35.512)" fill="#fff" font-size="12" font-family="ArialMT, Arial"><tspan x="-15.009" y="0">To-do</tspan></text>
+        </g>
+        <g id="Group_2698" data-name="Group 2698" transform="translate(-1308.318 4045.028)">
+          <text id="My_Health" data-name="My Health" transform="translate(27.049 34.972)" fill="#fff" font-size="12" font-family="ArialMT, Arial"><tspan x="-27.009" y="0">My Health</tspan></text>
+          <path id="Icon_awesome-heartbeat" data-name="Icon awesome-heartbeat" d="M11.09,9.584,9.369,13.027a.554.554,0,0,1-1-.021L6.4,8.632,5.358,11.115H2.1l6.321,6.46a.617.617,0,0,0,.89,0l6.325-6.46H11.856ZM16.407,3.7l-.083-.087a4.537,4.537,0,0,0-6.491,0L8.866,4.6,7.9,3.616a4.531,4.531,0,0,0-6.491,0L1.326,3.7a4.756,4.756,0,0,0-.253,6.307H4.62L5.863,7.021a.555.555,0,0,1,1.018-.014L8.9,11.486l1.7-3.391a.553.553,0,0,1,.991,0l.956,1.912H16.66A4.756,4.756,0,0,0,16.407,3.7Z" transform="translate(17.664 -2.247)" fill="#fff"/>
+        </g>
+        <g id="Group_2706" data-name="Group 2706" transform="translate(-1210.624 4045.028)">
+          <g id="Group_3581" data-name="Group 3581">
+            <text id="Self_Help" data-name="Self Help" transform="translate(24.355 34.972)" fill="#fff" font-size="12" font-family="ArialMT, Arial"><tspan x="-24.346" y="0">Self Help</tspan></text>
+            <path id="Icon_awesome-hand-holding-heart" data-name="Icon awesome-hand-holding-heart" d="M9.251,8.416a.585.585,0,0,0,.857,0l3.659-3.837A2.785,2.785,0,0,0,13.578.587a2.554,2.554,0,0,0-3.525.259l-.376.393L9.3.849A2.551,2.551,0,0,0,5.779.587a2.788,2.788,0,0,0-.188,3.992Zm9.744,2.607a1.112,1.112,0,0,0-1.431,0l-3.1,2.483a2.139,2.139,0,0,1-1.344.47H9.14a.538.538,0,1,1,0-1.075h2.631a1.119,1.119,0,0,0,1.119-.894,1.076,1.076,0,0,0-1.062-1.257H6.451a3.955,3.955,0,0,0-2.49.884L2.4,12.9H.538A.539.539,0,0,0,0,13.44v3.226a.539.539,0,0,0,.538.538H12.527a2.153,2.153,0,0,0,1.344-.47l5.081-4.066A1.075,1.075,0,0,0,18.995,11.024Z" transform="translate(13.795 -0.842)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_2696" data-name="Group 2696" transform="translate(-1040.538 4044.488)">
+          <path id="Icon_awesome-user" data-name="Icon awesome-user" d="M7.262,8.3A4.149,4.149,0,1,0,3.112,4.149,4.149,4.149,0,0,0,7.262,8.3Zm2.9,1.037H9.625a5.643,5.643,0,0,1-4.727,0H4.357A4.358,4.358,0,0,0,0,13.693v1.349A1.556,1.556,0,0,0,1.556,16.6H12.967a1.556,1.556,0,0,0,1.556-1.556V13.693A4.358,4.358,0,0,0,10.166,9.336Z" transform="translate(10.044)" fill="#fff"/>
+          <text id="Profile" transform="translate(17.269 35.512)" fill="#fff" font-size="12" font-family="ArialMT, Arial"><tspan x="-17.007" y="0">Profile</tspan></text>
+        </g>
+        <g id="Group_2697" data-name="Group 2697" transform="translate(-1121.107 4044.488)">
+          <text id="Explore" transform="translate(19.838 35.512)" fill="#fff" font-size="12" font-family="ArialMT, Arial"><tspan x="-20.344" y="0">Explore</tspan></text>
+          <path id="Icon_material-explore" data-name="Icon material-explore" d="M11.3,10.386a.913.913,0,1,0,.913.913A.91.91,0,0,0,11.3,10.386ZM11.3,3a8.3,8.3,0,1,0,8.3,8.3A8.3,8.3,0,0,0,11.3,3Zm1.817,10.116-6.8,3.162,3.162-6.8,6.8-3.162Z" transform="translate(8.962 -3)" fill="#fff"/>
+        </g>
+      </g>
+      <path id="Path_4581" data-name="Path 4581" d="M-1678.447,6469.154h39.775" transform="translate(1692.403 -6413)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <g id="Search" transform="translate(21 396.527)">
+      <g transform="matrix(1, 0, 0, 1, -21, -396.53)" filter="url(#Path_7)">
+        <path id="Path_7-2" data-name="Path 7" d="M8.848,5H360.562a8.848,8.848,0,0,1,8.848,8.848V43.71a8.848,8.848,0,0,1-8.848,8.848H8.848A8.848,8.848,0,0,1,0,43.71V13.848A8.848,8.848,0,0,1,8.848,5Z" transform="translate(21 391.53)" fill="#ff9241"/>
+      </g>
+      <text id="Create_New_Habit_task_Exercise" data-name="Create New Habit/task/Exercise" transform="translate(65 13)" fill="#fff" font-size="16" font-family="Lato-Regular, Lato"><tspan x="6.756" y="16">Create New Habit/task/Exercise</tspan></text>
+    </g>
+    <g id="card-8" data-name="card" transform="translate(5 1178)">
+      <g transform="matrix(1, 0, 0, 1, -5, -1178)" filter="url(#bg-8)">
+        <rect id="bg-16" data-name="bg" width="337" height="119" rx="12" transform="translate(56 1360)" fill="#f0f6fa"/>
+      </g>
+      <g id="Languages-8" data-name="Languages" transform="translate(70 197)">
+        <text id="OCD_Challenge_-_L_1" data-name="OCD Challenge - L 1" fill="#2e5b9f" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">OCD Challenge - L 1</tspan></text>
+      </g>
+      <g id="Group_2225-7" data-name="Group 2225" transform="translate(24 -12)">
+        <text id="Telling_someone_about_the_violent_thought_." data-name="Telling someone about the violent thought…." transform="translate(46 240)" fill="#254069" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Telling someone about the </tspan><tspan x="0" y="32">violent thought….</tspan></text>
+        <text id="SUDU_-_3" data-name="SUDU - 3" transform="translate(46 296)" fill="#254069" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">SUDU - 3</tspan></text>
+        <text id="Target_-_1-3_mins" data-name="Target - 1-3 mins" transform="translate(130 296)" fill="#254069" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Target - 1-3 mins</tspan></text>
+      </g>
+      <path id="Path_4595-5" data-name="Path 4595" d="M280.907,192.759V294.871" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+      <text id="End" transform="translate(331 249.314)" fill="#d9640f" font-size="14" font-family="ArialMT, Arial"><tspan x="-12.455" y="0">End</tspan></text>
+    </g>
+    <rect id="Rectangle_2138" data-name="Rectangle 2138" width="154" height="20" transform="translate(16 1335)" fill="#e8eef3"/>
+    <text id="JAN_10_-_12:30_PM-8" data-name="JAN 10 - 12:30 PM" transform="translate(21 1339)" fill="#78849e" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="13">JAN 10 - 12:30 PM</tspan></text>
+  </g>
+</svg>

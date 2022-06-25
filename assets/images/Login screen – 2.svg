@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aadd"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect width="335" height="293" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Login_screen_2">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="Login_screen_2" data-name="Login screen – 2" clip-path="url(#clip-Login_screen_2)">
+    <rect width="412" height="847" fill="url(#linear-gradient)"/>
+    <path id="Path_1555" data-name="Path 1555" d="M757.263,511.759h-477.1s-64.724-63.414-23.546-138.022,96.483-37.089,93.805-123.925,127.192-94.3,168.531-69.12,41.09,55.505,126.427,45.471S747.021,299.77,724.819,342.4a55.382,55.382,0,0,0-3.519,8.2c-.171.51-.326,1.014-.471,1.512C706.275,402.16,819.727,408.83,757.263,511.759Z" transform="translate(-330.529 343.024)" fill="#ebf3fa" opacity="0.06"/>
+    <text id="Sign_In_and_Lets_Peace_Begins" data-name="Sign In and
+Lets Peace Begins" transform="translate(47 95)" fill="#fff" font-size="36" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Sign In and</tspan><tspan x="0" y="49">Lets Peace Begins</tspan></text>
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(39 218)" clip-path="url(#clip-path)">
+      <g transform="translate(-39 -317)">
+        <g id="text_Field" data-name="text Field" transform="translate(39 319)">
+          <g id="Group_1192" data-name="Group 1192" transform="translate(0 -1)">
+            <text id="Email_ID" data-name="Email ID" transform="translate(0 17)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Email ID</tspan></text>
+          </g>
+          <g id="Hover_label" transform="translate(0 30)">
+            <rect id="Rectangle_175" data-name="Rectangle 175" width="335" height="50" rx="10" fill="#fff"/>
+            <text id="Enter_First_name" data-name="Enter First name" transform="translate(16 30)" fill="#cecfd0" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Enter First name</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-39 -215)">
+        <g id="text_Field-2" data-name="text Field" transform="translate(39 320)">
+          <g id="Group_1192-2" data-name="Group 1192" transform="translate(0 -2)">
+            <text id="Password" transform="translate(0 18)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Password</tspan></text>
+          </g>
+          <g id="Hover_label-2" data-name="Hover_label" transform="translate(0 29)">
+            <rect id="Rectangle_175-2" data-name="Rectangle 175" width="335" height="50" rx="10" fill="#fff"/>
+            <text id="Enter_password" data-name="Enter password" transform="translate(16 30)" fill="#cecfd0" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Enter password</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-39 -113)">
+        <g id="text_Field-3" data-name="text Field" transform="translate(39 320)">
+          <g id="Group_1192-3" data-name="Group 1192" transform="translate(0 -2)">
+            <text id="Password-2" data-name="Password" transform="translate(0 18)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Password</tspan></text>
+          </g>
+          <g id="Hover_label-3" data-name="Hover_label" transform="translate(0 29)">
+            <rect id="Rectangle_175-3" data-name="Rectangle 175" width="335" height="50" rx="10" fill="#fff"/>
+            <text id="Enter_password-2" data-name="Enter password" transform="translate(16 30)" fill="#cecfd0" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Enter password</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="btn_login" transform="translate(-962 -68)">
+      <rect id="Rectangle_166" data-name="Rectangle 166" width="335" height="45" rx="10" transform="translate(1001 606)" fill="#ff9241"/>
+      <text id="Register" transform="translate(1170 635)" fill="#fff" font-size="18" font-family="ArialMT, Arial"><tspan x="-33.513" y="0">Register</tspan></text>
+    </g>
+    <text id="Or_sign_up_with" data-name="Or sign up with" transform="translate(206 629)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="-53.355" y="0">Or sign up with</tspan></text>
+    <g id="Group_516" data-name="Group 516" transform="translate(137.627 660)">
+      <g id="Rectangle_162" data-name="Rectangle 162" transform="translate(-98.627 0)" fill="none" stroke="#fff" stroke-width="1">
+        <rect width="335" height="45" rx="10" stroke="none"/>
+        <rect x="0.5" y="0.5" width="334" height="44" rx="9.5" fill="none"/>
+      </g>
+      <path id="Icon_awesome-linkedin" data-name="Icon awesome-linkedin" d="M21.532,2.25H1.651A1.663,1.663,0,0,0,0,3.922V23.766a1.663,1.663,0,0,0,1.651,1.672H21.532a1.668,1.668,0,0,0,1.656-1.672V3.922A1.668,1.668,0,0,0,21.532,2.25ZM7.008,22.125H3.571V11.059H7.013V22.125ZM5.29,9.548A1.993,1.993,0,1,1,7.282,7.555,1.994,1.994,0,0,1,5.29,9.548Zm14.6,12.577H16.454V16.742c0-1.284-.026-2.935-1.786-2.935-1.791,0-2.065,1.4-2.065,2.842v5.476H9.166V11.059h3.3v1.511h.047a3.62,3.62,0,0,1,3.256-1.786c3.478,0,4.125,2.293,4.125,5.274Z" transform="translate(138.943 8.294)" fill="#fff"/>
+      <path id="Path_780" data-name="Path 780" d="M-6.627,4.156V31.161" transform="translate(75.5 4.844)" fill="none" stroke="#d2dff2" stroke-width="1"/>
+      <path id="Icon_awesome-google" data-name="Icon awesome-google" d="M22.814,12.428c0,6.615-4.53,11.323-11.22,11.323a11.594,11.594,0,1,1,0-23.188A11.149,11.149,0,0,1,19.368,3.6L16.213,6.631c-4.128-3.983-11.8-.991-11.8,5.526a7.262,7.262,0,0,0,7.185,7.321c4.591,0,6.311-3.291,6.582-5H11.594V10.492H22.632A10.164,10.164,0,0,1,22.814,12.428Z" transform="translate(-25.369 9.981)" fill="#fff"/>
+    </g>
+    <text id="Already_have_an_account_Sign_In" data-name="Already have an account ? Sign In" transform="translate(206 788)" fill="#fff" font-size="13" font-family="ArialMT, Arial"><tspan x="-103.681" y="0">Already have an account ? </tspan><tspan y="0" font-size="16" text-decoration="underline">Sign In</tspan></text>
+  </g>
+</svg>

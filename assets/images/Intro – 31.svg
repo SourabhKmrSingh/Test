@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="1598" viewBox="0 0 412 1598">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="360" height="341" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_1534" x="-9" y="775" width="430" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Intro_31">
+      <rect width="412" height="1598"/>
+    </clipPath>
+  </defs>
+  <g id="Intro_31" data-name="Intro – 31" clip-path="url(#clip-Intro_31)">
+    <rect width="412" height="1598" fill="#102646"/>
+    <g id="Group_3217" data-name="Group 3217" transform="translate(0 117)">
+      <rect id="Rectangle_1727" data-name="Rectangle 1727" width="390" height="419" rx="10" transform="translate(11 19)" fill="#153669"/>
+      <text id="Helpless_Core_Beliefs" data-name="Helpless Core Beliefs" transform="translate(26 38)" fill="#fff" font-size="15" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Helpless Core Beliefs</tspan></text>
+      <g id="Repeat_Grid_14" data-name="Repeat Grid 14" transform="translate(26 82)" clip-path="url(#clip-path)">
+        <g id="Group_3222" data-name="Group 3222" transform="translate(-26 -156)">
+          <g id="Group_3305" data-name="Group 3305">
+            <rect id="Rectangle_1758" data-name="Rectangle 1758" width="360" height="41" rx="5" transform="translate(26 156)" fill="#102646"/>
+            <text id="I_am_helpless" data-name="I am helpless" transform="translate(51 166)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">I am helpless</tspan></text>
+          </g>
+        </g>
+        <g id="Group_3222-2" data-name="Group 3222" transform="translate(-26 -107)">
+          <g id="Group_3305-2" data-name="Group 3305">
+            <rect id="Rectangle_1758-2" data-name="Rectangle 1758" width="360" height="41" rx="5" transform="translate(26 156)" fill="#102646"/>
+            <text id="I_am_ineffective_" data-name="I am ineffective " transform="translate(51 166)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">I am ineffective </tspan></text>
+          </g>
+        </g>
+        <g id="Group_3222-3" data-name="Group 3222" transform="translate(-26 -58)">
+          <g id="Group_3305-3" data-name="Group 3305">
+            <rect id="Rectangle_1758-3" data-name="Rectangle 1758" width="360" height="41" rx="5" transform="translate(26 156)" fill="#102646"/>
+            <text id="I_am_incompetent" data-name="I am incompetent" transform="translate(51 166)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">I am incompetent</tspan></text>
+          </g>
+        </g>
+        <g id="Group_3222-4" data-name="Group 3222" transform="translate(-26 -9)">
+          <g id="Group_3305-4" data-name="Group 3305">
+            <rect id="Rectangle_1758-4" data-name="Rectangle 1758" width="360" height="41" rx="5" transform="translate(26 156)" fill="#102646"/>
+            <text id="I_am_weak" data-name="I am weak" transform="translate(51 166)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">I am weak</tspan></text>
+          </g>
+        </g>
+        <g id="Group_3222-5" data-name="Group 3222" transform="translate(-26 40)">
+          <g id="Group_3305-5" data-name="Group 3305">
+            <rect id="Rectangle_1758-5" data-name="Rectangle 1758" width="360" height="41" rx="5" transform="translate(26 156)" fill="#102646"/>
+            <text id="I_am_a_victim" data-name="I am a victim" transform="translate(51 166)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">I am a victim</tspan></text>
+          </g>
+        </g>
+        <g id="Group_3222-6" data-name="Group 3222" transform="translate(-26 89)">
+          <g id="Group_3305-6" data-name="Group 3305">
+            <rect id="Rectangle_1758-6" data-name="Rectangle 1758" width="360" height="41" rx="5" transform="translate(26 156)" fill="#102646"/>
+            <text id="I_am_trapped._" data-name="I am trapped. " transform="translate(51 166)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">I am trapped. </tspan></text>
+          </g>
+        </g>
+        <g id="Group_3222-7" data-name="Group 3222" transform="translate(-26 138)">
+          <g id="Group_3305-7" data-name="Group 3305">
+            <rect id="Rectangle_1758-7" data-name="Rectangle 1758" width="360" height="41" rx="5" transform="translate(26 156)" fill="#102646"/>
+            <text id="I_am_needy" data-name="I am needy" transform="translate(51 166)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">I am needy</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_3622" data-name="Group 3622" transform="translate(0 560)">
+      <rect id="Rectangle_1727-2" data-name="Rectangle 1727" width="390" height="419" rx="10" transform="translate(11 19)" fill="#153669"/>
+      <text id="Unlovable_Core_Beliefs" data-name="Unlovable Core Beliefs" transform="translate(26 38)" fill="#fff" font-size="15" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Unlovable Core Beliefs</tspan></text>
+      <g id="Repeat_Grid_14-2" data-name="Repeat Grid 14" transform="translate(26 82)" clip-path="url(#clip-path)">
+        <g id="Group_3222-8" data-name="Group 3222" transform="translate(-26 -156)">
+          <g id="Group_3305-8" data-name="Group 3305">
+            <rect id="Rectangle_1758-8" data-name="Rectangle 1758" width="360" height="41" rx="5" transform="translate(26 156)" fill="#102646"/>
+            <text id="I_am_helpless-2" data-name="I am helpless" transform="translate(51 166)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">I am helpless</tspan></text>
+          </g>
+        </g>
+        <g id="Group_3222-9" data-name="Group 3222" transform="translate(-26 -107)">
+          <g id="Group_3305-9" data-name="Group 3305">
+            <rect id="Rectangle_1758-9" data-name="Rectangle 1758" width="360" height="41" rx="5" transform="translate(26 156)" fill="#102646"/>
+            <text id="I_am_ineffective_2" data-name="I am ineffective " transform="translate(51 166)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">I am ineffective </tspan></text>
+          </g>
+        </g>
+        <g id="Group_3222-10" data-name="Group 3222" transform="translate(-26 -58)">
+          <g id="Group_3305-10" data-name="Group 3305">
+            <rect id="Rectangle_1758-10" data-name="Rectangle 1758" width="360" height="41" rx="5" transform="translate(26 156)" fill="#102646"/>
+            <text id="I_am_incompetent-2" data-name="I am incompetent" transform="translate(51 166)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">I am incompetent</tspan></text>
+          </g>
+        </g>
+        <g id="Group_3222-11" data-name="Group 3222" transform="translate(-26 -9)">
+          <g id="Group_3305-11" data-name="Group 3305">
+            <rect id="Rectangle_1758-11" data-name="Rectangle 1758" width="360" height="41" rx="5" transform="translate(26 156)" fill="#102646"/>
+            <text id="I_am_weak-2" data-name="I am weak" transform="translate(51 166)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">I am weak</tspan></text>
+          </g>
+        </g>
+        <g id="Group_3222-12" data-name="Group 3222" transform="translate(-26 40)">
+          <g id="Group_3305-12" data-name="Group 3305">
+            <rect id="Rectangle_1758-12" data-name="Rectangle 1758" width="360" height="41" rx="5" transform="translate(26 156)" fill="#102646"/>
+            <text id="I_am_a_victim-2" data-name="I am a victim" transform="translate(51 166)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">I am a victim</tspan></text>
+          </g>
+        </g>
+        <g id="Group_3222-13" data-name="Group 3222" transform="translate(-26 89)">
+          <g id="Group_3305-13" data-name="Group 3305">
+            <rect id="Rectangle_1758-13" data-name="Rectangle 1758" width="360" height="41" rx="5" transform="translate(26 156)" fill="#102646"/>
+            <text id="I_am_trapped._2" data-name="I am trapped. " transform="translate(51 166)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">I am trapped. </tspan></text>
+          </g>
+        </g>
+        <g id="Group_3222-14" data-name="Group 3222" transform="translate(-26 138)">
+          <g id="Group_3305-14" data-name="Group 3305">
+            <rect id="Rectangle_1758-14" data-name="Rectangle 1758" width="360" height="41" rx="5" transform="translate(26 156)" fill="#102646"/>
+            <text id="I_am_needy-2" data-name="I am needy" transform="translate(51 166)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">I am needy</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_3623" data-name="Group 3623" transform="translate(0 1003)">
+      <rect id="Rectangle_1727-3" data-name="Rectangle 1727" width="390" height="419" rx="10" transform="translate(11 19)" fill="#153669"/>
+      <text id="Worthless_Core_Beliefs" data-name="Worthless Core Beliefs" transform="translate(26 38)" fill="#fff" font-size="15" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Worthless Core Beliefs</tspan></text>
+      <g id="Repeat_Grid_14-3" data-name="Repeat Grid 14" transform="translate(26 82)" clip-path="url(#clip-path)">
+        <g id="Group_3222-15" data-name="Group 3222" transform="translate(-26 -156)">
+          <g id="Group_3305-15" data-name="Group 3305">
+            <rect id="Rectangle_1758-15" data-name="Rectangle 1758" width="360" height="41" rx="5" transform="translate(26 156)" fill="#102646"/>
+            <text id="I_am_helpless-3" data-name="I am helpless" transform="translate(51 166)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">I am helpless</tspan></text>
+          </g>
+        </g>
+        <g id="Group_3222-16" data-name="Group 3222" transform="translate(-26 -107)">
+          <g id="Group_3305-16" data-name="Group 3305">
+            <rect id="Rectangle_1758-16" data-name="Rectangle 1758" width="360" height="41" rx="5" transform="translate(26 156)" fill="#102646"/>
+            <text id="I_am_ineffective_3" data-name="I am ineffective " transform="translate(51 166)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">I am ineffective </tspan></text>
+          </g>
+        </g>
+        <g id="Group_3222-17" data-name="Group 3222" transform="translate(-26 -58)">
+          <g id="Group_3305-17" data-name="Group 3305">
+            <rect id="Rectangle_1758-17" data-name="Rectangle 1758" width="360" height="41" rx="5" transform="translate(26 156)" fill="#102646"/>
+            <text id="I_am_incompetent-3" data-name="I am incompetent" transform="translate(51 166)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">I am incompetent</tspan></text>
+          </g>
+        </g>
+        <g id="Group_3222-18" data-name="Group 3222" transform="translate(-26 -9)">
+          <g id="Group_3305-18" data-name="Group 3305">
+            <rect id="Rectangle_1758-18" data-name="Rectangle 1758" width="360" height="41" rx="5" transform="translate(26 156)" fill="#102646"/>
+            <text id="I_am_weak-3" data-name="I am weak" transform="translate(51 166)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">I am weak</tspan></text>
+          </g>
+        </g>
+        <g id="Group_3222-19" data-name="Group 3222" transform="translate(-26 40)">
+          <g id="Group_3305-19" data-name="Group 3305">
+            <rect id="Rectangle_1758-19" data-name="Rectangle 1758" width="360" height="41" rx="5" transform="translate(26 156)" fill="#102646"/>
+            <text id="I_am_a_victim-3" data-name="I am a victim" transform="translate(51 166)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">I am a victim</tspan></text>
+          </g>
+        </g>
+        <g id="Group_3222-20" data-name="Group 3222" transform="translate(-26 89)">
+          <g id="Group_3305-20" data-name="Group 3305">
+            <rect id="Rectangle_1758-20" data-name="Rectangle 1758" width="360" height="41" rx="5" transform="translate(26 156)" fill="#102646"/>
+            <text id="I_am_trapped._3" data-name="I am trapped. " transform="translate(51 166)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">I am trapped. </tspan></text>
+          </g>
+        </g>
+        <g id="Group_3222-21" data-name="Group 3222" transform="translate(-26 138)">
+          <g id="Group_3305-21" data-name="Group 3305">
+            <rect id="Rectangle_1758-21" data-name="Rectangle 1758" width="360" height="41" rx="5" transform="translate(26 156)" fill="#102646"/>
+            <text id="I_am_needy-3" data-name="I am needy" transform="translate(51 166)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">I am needy</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="Session_5_List_of_core_beliefs" data-name="Session 5
+List of core beliefs" transform="translate(29 28)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Session 5</tspan><tspan font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="49">List of core beliefs</tspan></tspan></text>
+    <g id="Group_3234" data-name="Group 3234" transform="translate(4.012 -10.262)">
+      <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M15.217,17.7,23.926,9A1.645,1.645,0,1,0,21.6,6.674l-9.867,9.86a1.642,1.642,0,0,0-.048,2.268l9.908,9.929a1.645,1.645,0,0,0,2.33-2.323Z" transform="translate(362.579 30.069)" fill="#fff"/>
+      <path id="Icon_ionic-ios-arrow-back-2" data-name="Icon ionic-ios-arrow-back" d="M3.967,11.506l8.709-8.7A1.645,1.645,0,1,0,10.346.481L.479,10.341a1.642,1.642,0,0,0-.048,2.268l9.908,9.929a1.645,1.645,0,1,0,2.33-2.323Z" transform="translate(377.472 59.28) rotate(180)" fill="#fff"/>
+    </g>
+    <g id="Component_119_251" data-name="Component 119 – 251" transform="translate(0 787)">
+      <g transform="matrix(1, 0, 0, 1, 0, -787)" filter="url(#Rectangle_1534)">
+        <rect id="Rectangle_1534-2" data-name="Rectangle 1534" width="412" height="60" transform="translate(0 787)" fill="#102646"/>
+      </g>
+      <g id="Group_2755" data-name="Group 2755" transform="translate(0 -779)">
+        <g id="Rectangle_1564" data-name="Rectangle 1564" transform="translate(12 789)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+          <rect width="50" height="45" stroke="none"/>
+          <rect x="0.5" y="0.5" width="49" height="44" fill="none"/>
+        </g>
+        <path id="Path_4565" data-name="Path 4565" d="M35.606,24.011l-7.368-7.1,7.368-7.1a1.37,1.37,0,0,0,.424-.982,1.4,1.4,0,0,0-.4-1,1.369,1.369,0,0,0-.982-.424h-.022a1.385,1.385,0,0,0-.982.4l-8.417,8.1a1.42,1.42,0,0,0-.424,1,1.382,1.382,0,0,0,.424,1l8.439,8.1a1.443,1.443,0,0,0,.982.4,1.42,1.42,0,0,0,1-.424,1.4,1.4,0,0,0,.4-1A1.274,1.274,0,0,0,35.606,24.011Z" transform="translate(5.036 792.435)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

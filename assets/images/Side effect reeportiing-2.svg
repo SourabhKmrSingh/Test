@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="902" viewBox="0 0 412 902">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4b8ceb"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <filter id="Path_7" x="-3" y="732.036" width="417.41" height="95.559" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Side_effect_reeportiing-2">
+      <rect width="412" height="902"/>
+    </clipPath>
+  </defs>
+  <g id="Side_effect_reeportiing-2" data-name="Side effect reeportiing-2" clip-path="url(#clip-Side_effect_reeportiing-2)">
+    <rect width="412" height="902" fill="#e9eff4"/>
+    <rect id="Rectangle_2119" data-name="Rectangle 2119" width="372" height="59" rx="10" transform="translate(21 181)" fill="#f2f5f7"/>
+    <rect id="Rectangle_2122" data-name="Rectangle 2122" width="372" height="208" rx="10" transform="translate(21 295)" fill="#f2f5f7"/>
+    <text id="Select_Medicine" data-name="Select Medicine" transform="translate(21 150)" fill="#0e58c7" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="16">Select Medicine</tspan></text>
+    <text id="Write_side_effects" data-name="Write side effects" transform="translate(21 264)" fill="#0e58c7" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="16">Write side effects</tspan></text>
+    <text id="Want_to_consult_" data-name="Want to consult ?" transform="translate(21 527)" fill="#0e58c7" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="16">Want to consult ?</tspan></text>
+    <text id="None" transform="translate(36 199)" fill="#0e58c7" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="16">None</tspan></text>
+    <text id="Write._About_the_side_effects" data-name="Write. About the side effects" transform="translate(36 313)" fill="#0e58c7" font-size="18" font-family="ArialMT, Arial" opacity="0.5"><tspan x="0" y="16">Write. About the side effects</tspan></text>
+    <text id="Optional" transform="translate(172 150)" fill="#0e58c7" font-size="18" font-family="ArialMT, Arial" opacity="0.4"><tspan x="0" y="16">Optional</tspan></text>
+    <g id="Group_1500" data-name="Group 1500" transform="translate(0 -5)">
+      <text id="Side_Effects_Reporting" data-name="Side Effects Reporting" transform="translate(23 29)" fill="#0e58c7" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="22">Side Effects </tspan><tspan x="0" y="53">Reporting</tspan></text>
+      <g id="Group_2650" data-name="Group 2650" transform="translate(322.479 29)">
+        <g id="Icon_ionic-ios-notifications" data-name="Icon ionic-ios-notifications" transform="translate(11 3)">
+          <circle id="Ellipse_746" data-name="Ellipse 746" cx="23" cy="23" r="23" transform="translate(-0.478 11)" fill="#fff"/>
+          <path id="Path_9493" data-name="Path 9493" d="M18.8,32.954c2.71,0,4.191-1.917,4.191-4.618H14.6C14.6,31.037,16.085,32.954,18.8,32.954Z" transform="translate(4.722 17.933)" fill="#ff9241"/>
+          <path id="Path_9494" data-name="Path 9494" d="M34.279,29.746C32.938,27.977,30.3,26.941,30.3,19.021c0-8.129-3.59-11.4-6.935-12.18-.314-.078-.54-.183-.54-.514V6.074a2.126,2.126,0,1,0-4.252,0v.253c0,.322-.227.436-.54.514-3.354.793-6.935,4.051-6.935,12.18,0,7.92-2.64,8.948-3.982,10.725A1.729,1.729,0,0,0,8.5,32.517H32.9A1.73,1.73,0,0,0,34.279,29.746Z" transform="translate(2.846 12.097)" fill="url(#linear-gradient)"/>
+          <circle id="Ellipse_747" data-name="Ellipse 747" cx="12" cy="12" r="12" transform="translate(30.522)" fill="#ff9241"/>
+          <text id="_1" data-name="1" transform="translate(38.521 18)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">1</tspan></text>
+        </g>
+      </g>
+    </g>
+    <path id="Path_4578" data-name="Path 4578" d="M-1789,6345.073h372" transform="translate(1810 -6222)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+    <g id="Search" transform="translate(21 753.036)">
+      <g transform="matrix(1, 0, 0, 1, -21, -753.04)" filter="url(#Path_7)">
+        <path id="Path_7-2" data-name="Path 7" d="M8.848,5H360.562a8.848,8.848,0,0,1,8.848,8.848V43.71a8.848,8.848,0,0,1-8.848,8.848H8.848A8.848,8.848,0,0,1,0,43.71V13.848A8.848,8.848,0,0,1,8.848,5Z" transform="translate(21 748.04)" fill="#ff9241"/>
+      </g>
+      <text id="Send_Reports" data-name="Send Reports" transform="translate(100 11.964)" fill="#fff" font-size="16" font-family="Lato-Regular, Lato"><tspan x="38.228" y="16">Send Reports</tspan></text>
+    </g>
+    <g id="Rectangle_2123" data-name="Rectangle 2123" transform="translate(26 625)" fill="#f0f6fa" stroke="#1e64cc" stroke-width="1">
+      <rect width="20" height="20" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" rx="9.5" fill="none"/>
+    </g>
+    <g id="Rectangle_2125" data-name="Rectangle 2125" transform="translate(26 581)" fill="#f0f6fa" stroke="#1e64cc" stroke-width="1">
+      <rect width="20" height="20" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" rx="9.5" fill="none"/>
+    </g>
+    <g id="Rectangle_2124" data-name="Rectangle 2124" transform="translate(26 669)" fill="#f0f6fa" stroke="#1e64cc" stroke-width="1">
+      <rect width="20" height="20" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" rx="9.5" fill="none"/>
+    </g>
+    <text id="Book_Appointment_" data-name="Book Appointment " transform="translate(69 623)" fill="#0e58c7" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="16">Book Appointment </tspan></text>
+    <text id="No" transform="translate(69 579)" fill="#0e58c7" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="16">No</tspan></text>
+    <text id="Request_virtual_Consultation" data-name="Request virtual Consultation" transform="translate(69 667)" fill="#0e58c7" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="16">Request virtual Consultation</tspan></text>
+  </g>
+</svg>

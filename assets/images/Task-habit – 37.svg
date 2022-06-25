@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="864" viewBox="0 0 412 864">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aadd"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <filter id="Rectangle_1570" x="-24" y="197" width="460" height="689" filterUnits="userSpaceOnUse">
+      <feOffset dy="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Task_habit_37">
+      <rect width="412" height="864"/>
+    </clipPath>
+  </defs>
+  <g id="Task_habit_37" data-name="Task/habit – 37" clip-path="url(#clip-Task_habit_37)">
+    <rect width="412" height="864" fill="url(#linear-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1570)">
+      <path id="Rectangle_1570-2" data-name="Rectangle 1570" d="M30,0H382a30,30,0,0,1,30,30V641a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V30A30,30,0,0,1,30,0Z" transform="translate(0 224)" fill="#102646"/>
+    </g>
+    <path id="Path_4710" data-name="Path 4710" d="M1053,4508.186h333.151" transform="translate(-1014 -4180)" fill="none" stroke="#fff" stroke-width="1"/>
+    <text id="Write_about_the_the_day_or_any_incident_of_the_day" data-name="Write about the the day or any incident of the day" transform="translate(40 268)" fill="#fff" font-size="18" font-family="ArialMT, Arial" opacity="0.7"><tspan x="0" y="16">Write about the the day or any incident of </tspan><tspan x="0" y="37">the day</tspan></text>
+    <text id="Review_today" data-name="Review today" transform="translate(23 26)" fill="#fff" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="22">Review today</tspan></text>
+    <text id="Questions_2_11" data-name="Questions 2/11" transform="translate(23 87)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Questions 2/11</tspan></text>
+    <g id="Group_3076" data-name="Group 3076" transform="translate(-43.008 -317)">
+      <rect id="Rectangle_1708" data-name="Rectangle 1708" width="353" height="5" rx="2.5" transform="translate(66.008 391)" fill="#dce9f5"/>
+      <rect id="Rectangle_1709" data-name="Rectangle 1709" width="136" height="5" rx="2.5" transform="translate(66.008 391)" fill="#254069"/>
+    </g>
+    <text id="Describe_Event" data-name="Describe Event" transform="translate(23 137)" fill="#fff" font-size="26" font-family="ArialMT, Arial"><tspan x="0" y="24">Describe Event</tspan></text>
+    <g id="Group_3380" data-name="Group 3380">
+      <rect id="Rectangle_1926" data-name="Rectangle 1926" width="412" height="68" transform="translate(0 779)" fill="#102646"/>
+      <path id="Path_4714" data-name="Path 4714" d="M1053,4508.186h411.151" transform="translate(-1053 -3729)" fill="none" stroke="#fff" stroke-width="2" opacity="0.206"/>
+      <g id="Group_3096" data-name="Group 3096" transform="translate(-15 -218)">
+        <text id="Next" transform="translate(310 1038)" fill="#f2f5f7" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">Next</tspan></text>
+        <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M14.033,14.264l6.109-6.1a1.154,1.154,0,0,0-1.634-1.629l-6.921,6.916a1.152,1.152,0,0,0-.034,1.591L18.5,22a1.154,1.154,0,1,0,1.634-1.629Z" transform="translate(389.251 1046.266) rotate(180)" fill="#f2f5f7"/>
+      </g>
+      <g id="Group_3224" data-name="Group 3224" transform="translate(0 786.262)">
+        <g id="Group_3212" data-name="Group 3212" transform="translate(34.47 14.737)">
+          <text id="Back" transform="translate(19.06 18)" fill="#fff" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Back</tspan></text>
+          <path id="Icon_ionic-ios-arrow-back-2" data-name="Icon ionic-ios-arrow-back" d="M14.033,14.264l6.109-6.1a1.154,1.154,0,0,0-1.634-1.629l-6.921,6.916a1.152,1.152,0,0,0-.034,1.591L18.5,22a1.154,1.154,0,1,0,1.634-1.629Z" transform="translate(-11.251 -3.193)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_3234" data-name="Group 3234" transform="translate(-4.848 -10.262)">
+      <path id="Icon_ionic-ios-arrow-back-3" data-name="Icon ionic-ios-arrow-back" d="M15.217,17.7,23.926,9A1.645,1.645,0,1,0,21.6,6.674l-9.867,9.86a1.642,1.642,0,0,0-.048,2.268l9.908,9.929a1.645,1.645,0,0,0,2.33-2.323Z" transform="translate(362.579 30.069)" fill="#fff"/>
+      <path id="Icon_ionic-ios-arrow-back-4" data-name="Icon ionic-ios-arrow-back" d="M3.967,11.506l8.709-8.7A1.645,1.645,0,1,0,10.346.481L.479,10.341a1.642,1.642,0,0,0-.048,2.268l9.908,9.929a1.645,1.645,0,1,0,2.33-2.323Z" transform="translate(377.472 59.28) rotate(180)" fill="#fff"/>
+    </g>
+    <g id="CTA" transform="translate(51 585.438)">
+      <path id="Path_7" data-name="Path 7" d="M7.473,5H304.527C308.654,5,312,9,312,13.942v30.18c0,4.939-3.346,8.942-7.473,8.942H7.473c-4.127,0-7.473-4-7.473-8.942V13.942C0,9,3.346,5,7.473,5Z" transform="translate(0 -5)" fill="#fff"/>
+      <text id="Write_thought_journal" data-name="Write thought journal" transform="translate(76 12.563)" fill="#1e64cc" font-size="16" font-family="ArialMT, Arial"><tspan x="5.828" y="14">Write thought journal</tspan></text>
+    </g>
+    <text id="Describe_about_the_whole_event" data-name="Describe about the whole event" transform="translate(40 541)" fill="#fff" font-size="18" font-family="ArialMT, Arial" opacity="0.7"><tspan x="39.921" y="16">Describe about the whole event</tspan></text>
+  </g>
+</svg>

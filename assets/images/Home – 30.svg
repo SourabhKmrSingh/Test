@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="310" height="37" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="37" height="37" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Home_30">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="Home_30" data-name="Home – 30" clip-path="url(#clip-Home_30)">
+    <rect id="Rectangle_1978" data-name="Rectangle 1978" width="412" height="847" fill="#050505" opacity="0.6"/>
+    <g id="Group_3563" data-name="Group 3563" transform="translate(-1 -178)">
+      <g id="Big_Card" data-name="Big Card" transform="translate(51 302)">
+        <rect id="Cirlce_Background" data-name="Cirlce Background" width="369" height="518" rx="21" transform="translate(-29 32)" fill="#102646"/>
+        <text id="Repeat_target" data-name="Repeat target" transform="translate(-2 54)" fill="#fff" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="22">Repeat target</tspan></text>
+        <path id="Icon_ionic-md-close" data-name="Icon ionic-md-close" d="M28.377,9.609,26.292,7.523,17.95,15.865,9.609,7.523,7.523,9.609l8.342,8.342L7.523,26.292l2.085,2.085,8.342-8.342,8.342,8.342,2.085-2.085L20.035,17.95Z" transform="translate(288.184 48.309)" fill="#808495"/>
+        <g id="Group_3570" data-name="Group 3570" transform="translate(23 -328)">
+          <g id="Group_2770" data-name="Group 2770" transform="translate(-53 96)">
+            <path id="Path_4716" data-name="Path 4716" d="M1053,4508.186h84.634" transform="translate(-877.873 -3878)" fill="none" stroke="#2e5b9f" stroke-width="1"/>
+            <text id="_2" data-name="2" transform="translate(175 602)" fill="#d2dff2" font-size="18" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="16">2</tspan></text>
+          </g>
+          <g id="Group_2773" data-name="Group 2773" transform="translate(-53 30)">
+            <path id="Path_4716-2" data-name="Path 4716" d="M1053,4508.186h84.634" transform="translate(-877.873 -3878)" fill="none" stroke="#2e5b9f" stroke-width="1"/>
+            <text id="_2-2" data-name="2" transform="translate(175 602)" fill="#d2dff2" font-size="18" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="16">2</tspan></text>
+          </g>
+          <text id="day" transform="translate(223 702)" fill="#fff" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="16">day</tspan></text>
+          <g id="Group_2767" data-name="Group 2767" transform="translate(-50 -294)">
+            <text id="Week" transform="translate(65 814)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Week</tspan></text>
+            <g id="Ellipse_432" data-name="Ellipse 432" transform="translate(25 813)" fill="#fff" stroke="#1e64cc" stroke-width="6">
+              <circle cx="10" cy="10" r="10" stroke="none"/>
+              <circle cx="10" cy="10" r="7" fill="none"/>
+            </g>
+          </g>
+          <g id="Group_2772" data-name="Group 2772" transform="translate(-50 -348)">
+            <text id="Everyday" transform="translate(65 814)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Everyday</tspan></text>
+            <g id="Ellipse_432-2" data-name="Ellipse 432" transform="translate(25 813)" fill="none" stroke="#1e64cc" stroke-width="1">
+              <circle cx="10" cy="10" r="10" stroke="none"/>
+              <circle cx="10" cy="10" r="9.5" fill="none"/>
+            </g>
+          </g>
+          <g id="Group_2768" data-name="Group 2768" transform="translate(-50 -177)">
+            <text id="Specific" transform="translate(65 814)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Specific</tspan></text>
+            <g id="Ellipse_432-3" data-name="Ellipse 432" transform="translate(25 813)" fill="none" stroke="#1e64cc" stroke-width="1">
+              <circle cx="10" cy="10" r="10" stroke="none"/>
+              <circle cx="10" cy="10" r="9.5" fill="none"/>
+            </g>
+          </g>
+          <g id="Group_2769" data-name="Group 2769" transform="translate(-50 -114)">
+            <text id="Repeat_Every" data-name="Repeat Every" transform="translate(65 814)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Repeat Every</tspan></text>
+            <g id="Ellipse_432-4" data-name="Ellipse 432" transform="translate(25 813)" fill="none" stroke="#1e64cc" stroke-width="1">
+              <circle cx="10" cy="10" r="10" stroke="none"/>
+              <circle cx="10" cy="10" r="9.5" fill="none"/>
+            </g>
+          </g>
+          <g id="Repeat_Grid_7" data-name="Repeat Grid 7" transform="translate(-25 560)" clip-path="url(#clip-path)">
+            <g id="Group_2771" data-name="Group 2771" transform="translate(-68 -563)">
+              <g id="Rectangle_1599" data-name="Rectangle 1599" transform="translate(68 563)" fill="none" stroke="#1e64cc" stroke-width="1">
+                <rect width="35" height="35" rx="5" stroke="none"/>
+                <rect x="0.5" y="0.5" width="34" height="34" rx="4.5" fill="none"/>
+              </g>
+              <text id="S" transform="translate(86 585)" fill="#fff" font-size="13" font-family="ArialMT, Arial"><tspan x="-4.335" y="0">S</tspan></text>
+            </g>
+            <g id="Group_2771-2" data-name="Group 2771" transform="translate(-24 -563)">
+              <g id="Rectangle_1599-2" data-name="Rectangle 1599" transform="translate(68 563)" fill="none" stroke="#1e64cc" stroke-width="1">
+                <rect width="35" height="35" rx="5" stroke="none"/>
+                <rect x="0.5" y="0.5" width="34" height="34" rx="4.5" fill="none"/>
+              </g>
+              <text id="M" transform="translate(86 585)" fill="#fff" font-size="13" font-family="ArialMT, Arial"><tspan x="-5.415" y="0">M</tspan></text>
+            </g>
+            <g id="Group_2771-3" data-name="Group 2771" transform="translate(20 -563)">
+              <g id="Rectangle_1599-3" data-name="Rectangle 1599" transform="translate(68 563)" fill="none" stroke="#1e64cc" stroke-width="1">
+                <rect width="35" height="35" rx="5" stroke="none"/>
+                <rect x="0.5" y="0.5" width="34" height="34" rx="4.5" fill="none"/>
+              </g>
+              <text id="T" transform="translate(86 585)" fill="#fff" font-size="13" font-family="ArialMT, Arial"><tspan x="-3.97" y="0">T</tspan></text>
+            </g>
+            <g id="Group_2771-4" data-name="Group 2771" transform="translate(64 -563)">
+              <g id="Rectangle_1599-4" data-name="Rectangle 1599" transform="translate(68 563)" fill="none" stroke="#1e64cc" stroke-width="1">
+                <rect width="35" height="35" rx="5" stroke="none"/>
+                <rect x="0.5" y="0.5" width="34" height="34" rx="4.5" fill="none"/>
+              </g>
+              <text id="W" transform="translate(86 585)" fill="#fff" font-size="13" font-family="ArialMT, Arial"><tspan x="-6.135" y="0">W</tspan></text>
+            </g>
+            <g id="Group_2771-5" data-name="Group 2771" transform="translate(108 -563)">
+              <g id="Rectangle_1599-5" data-name="Rectangle 1599" transform="translate(68 563)" fill="none" stroke="#1e64cc" stroke-width="1">
+                <rect width="35" height="35" rx="5" stroke="none"/>
+                <rect x="0.5" y="0.5" width="34" height="34" rx="4.5" fill="none"/>
+              </g>
+              <text id="T-2" data-name="T" transform="translate(86 585)" fill="#fff" font-size="13" font-family="ArialMT, Arial"><tspan x="-3.97" y="0">T</tspan></text>
+            </g>
+            <g id="Group_2771-6" data-name="Group 2771" transform="translate(152 -563)">
+              <g id="Rectangle_1599-6" data-name="Rectangle 1599" transform="translate(68 563)" fill="none" stroke="#1e64cc" stroke-width="1">
+                <rect width="35" height="35" rx="5" stroke="none"/>
+                <rect x="0.5" y="0.5" width="34" height="34" rx="4.5" fill="none"/>
+              </g>
+              <text id="F" transform="translate(86 585)" fill="#fff" font-size="13" font-family="ArialMT, Arial"><tspan x="-3.97" y="0">F</tspan></text>
+            </g>
+            <g id="Group_2771-7" data-name="Group 2771" transform="translate(196 -563)">
+              <g id="Rectangle_1599-7" data-name="Rectangle 1599" transform="translate(68 563)" fill="none" stroke="#1e64cc" stroke-width="1">
+                <rect width="35" height="35" rx="5" stroke="none"/>
+                <rect x="0.5" y="0.5" width="34" height="34" rx="4.5" fill="none"/>
+              </g>
+              <text id="S-2" data-name="S" transform="translate(86 585)" fill="#fff" font-size="13" font-family="ArialMT, Arial"><tspan x="-4.335" y="0">S</tspan></text>
+            </g>
+          </g>
+          <g id="Repeat_Grid_8" data-name="Repeat Grid 8" transform="translate(-25 560)" clip-path="url(#clip-path-2)">
+            <g id="Group_2771-8" data-name="Group 2771" transform="translate(-68 -563)">
+              <rect id="Rectangle_1599-8" data-name="Rectangle 1599" width="35" height="35" rx="5" transform="translate(68 563)" fill="#1e64cc"/>
+              <text id="S-3" data-name="S" transform="translate(86 585)" fill="#fff" font-size="13" font-family="ArialMT, Arial"><tspan x="-4.335" y="0">S</tspan></text>
+            </g>
+          </g>
+          <text id="Week-2" data-name="Week" transform="translate(223 637)" fill="#fff" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="16">Week</tspan></text>
+          <path id="Icon_feather-chevron-down" data-name="Icon feather-chevron-down" d="M9,13.5l6.994,6.994L22.988,13.5" transform="translate(272.006 631.006)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Symbol_123_6" data-name="Symbol 123 – 6" transform="translate(169.006 465)">
+          <rect id="Rectangle_150" data-name="Rectangle 150" width="120" height="40" rx="5" transform="translate(-0.007)" fill="#ff9241"/>
+          <text id="SHARE" transform="translate(59.994 24)" fill="#fff" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-26.831" y="0">Confirm</tspan></text>
+        </g>
+        <g id="Symbol_124_2" data-name="Symbol 124 – 2" transform="translate(18.994 465)">
+          <g id="Rectangle_151" data-name="Rectangle 151" transform="translate(0.007)" fill="none" stroke="#fff" stroke-width="1">
+            <rect width="120" height="40" rx="5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="119" height="39" rx="4.5" fill="none"/>
+          </g>
+          <text id="SKIP" transform="translate(60.006 24)" fill="#fff" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-22.955" y="0">Cancel</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

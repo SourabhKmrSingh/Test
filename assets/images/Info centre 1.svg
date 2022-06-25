@@ -1,0 +1,238 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="1486" viewBox="0 0 412 1486">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aadd"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect width="426.943" height="705.165" fill="none"/>
+    </clipPath>
+    <filter id="form" x="-3" y="419.976" width="418" height="199.05" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="form-2" x="-3" y="593.976" width="418" height="199.05" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-2"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="form-3" x="-3" y="767.976" width="418" height="199.05" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-3"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="form-4" x="-3" y="941.976" width="418" height="199.05" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-4"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="form-5" x="-3" y="1115.976" width="418" height="199.05" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-5"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_7" x="4.5" y="353.717" width="403" height="79.759" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5.5" result="blur-6"/>
+      <feFlood flood-opacity="0.031"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1556" x="-4" y="156" width="172" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-7"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1556-2" x="128" y="156" width="142" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-8"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1556-3" x="230" y="156" width="162" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-9"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1556-4" x="-3" y="212" width="132" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-10"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1556-5" x="91" y="212" width="132" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-11"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Info_centre_1">
+      <rect width="412" height="1486"/>
+    </clipPath>
+  </defs>
+  <g id="Info_centre_1" data-name="Info centre 1" clip-path="url(#clip-Info_centre_1)">
+    <rect width="412" height="1486" fill="#e9eff4"/>
+    <g id="Group_1500" data-name="Group 1500">
+      <path id="Rectangle_293" data-name="Rectangle 293" d="M0,0H412a0,0,0,0,1,0,0V131a20,20,0,0,1-20,20H20A20,20,0,0,1,0,131V0A0,0,0,0,1,0,0Z" fill="url(#linear-gradient)"/>
+      <text id="Information_Center" data-name="Information Center" transform="translate(21 99)" fill="#fff" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="22">Information Center</tspan></text>
+    </g>
+    <g id="content" transform="translate(-8 419.976)" clip-path="url(#clip-path)">
+      <g id="content-2" data-name="content" transform="translate(24 20)">
+        <g id="post" transform="translate(5 0)">
+          <g transform="matrix(1, 0, 0, 1, -21, -439.98)" filter="url(#form)">
+            <path id="form-6" data-name="form" d="M12.945,0H357.055C364.2,0,370,3.656,370,8.165v134.72c0,4.509-5.8,8.165-12.945,8.165H12.945C5.8,151.05,0,147.394,0,142.885V8.165C0,3.656,5.8,0,12.945,0Z" transform="translate(21 439.98)" fill="#fff"/>
+          </g>
+          <g id="content-3" data-name="content" transform="translate(27 23.712)">
+            <text id="When_one_door_of_happiness_closes_another_opens_but_often_we_look_so_long_at_the_closed_door_that_we_do_not_see_the_one_that_has_been_opened_for_us._" data-name="When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us. " transform="translate(0 33)" fill="#5f789d" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">When one door of happiness closes, </tspan><tspan x="0" y="42">another opens, but often we look so long at </tspan><tspan x="0" y="70">the closed door that we do not see the one </tspan></text>
+            <g id="author" transform="translate(0 0)">
+              <text id="Depression" transform="translate(0 13)" fill="#1e64cc" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Depression</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="content-4" data-name="content" transform="translate(24 194)">
+        <g id="post-2" data-name="post" transform="translate(5 0)">
+          <g transform="matrix(1, 0, 0, 1, -21, -613.98)" filter="url(#form-2)">
+            <path id="form-7" data-name="form" d="M12.945,0H357.055C364.2,0,370,3.656,370,8.165v134.72c0,4.509-5.8,8.165-12.945,8.165H12.945C5.8,151.05,0,147.394,0,142.885V8.165C0,3.656,5.8,0,12.945,0Z" transform="translate(21 613.98)" fill="#fff"/>
+          </g>
+          <g id="content-5" data-name="content" transform="translate(27 23.712)">
+            <text id="When_one_door_of_happiness_closes_another_opens_but_often_we_look_so_long_at_the_closed_door_that_we_do_not_see_the_one_that_has_been_opened_for_us._2" data-name="When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us. " transform="translate(0 33)" fill="#5f789d" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">When one door of happiness closes, </tspan><tspan x="0" y="42">another opens, but often we look so long at </tspan><tspan x="0" y="70">the closed door that we do not see the one </tspan></text>
+            <g id="author-2" data-name="author" transform="translate(0 0)">
+              <text id="Bi_polar" data-name="Bi polar" transform="translate(0 13)" fill="#1e64cc" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Bi polar</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="content-6" data-name="content" transform="translate(24 368)">
+        <g id="post-3" data-name="post" transform="translate(5 0)">
+          <g transform="matrix(1, 0, 0, 1, -21, -787.98)" filter="url(#form-3)">
+            <path id="form-8" data-name="form" d="M12.945,0H357.055C364.2,0,370,3.656,370,8.165v134.72c0,4.509-5.8,8.165-12.945,8.165H12.945C5.8,151.05,0,147.394,0,142.885V8.165C0,3.656,5.8,0,12.945,0Z" transform="translate(21 787.98)" fill="#fff"/>
+          </g>
+          <g id="content-7" data-name="content" transform="translate(27 23.712)">
+            <text id="When_one_door_of_happiness_closes_another_opens_but_often_we_look_so_long_at_the_closed_door_that_we_do_not_see_the_one_that_has_been_opened_for_us._3" data-name="When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us. " transform="translate(0 33)" fill="#5f789d" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">When one door of happiness closes, </tspan><tspan x="0" y="42">another opens, but often we look so long at </tspan><tspan x="0" y="70">the closed door that we do not see the one </tspan></text>
+            <g id="author-3" data-name="author" transform="translate(0 0)">
+              <text id="Illness_1" data-name="Illness 1" transform="translate(0 13)" fill="#1e64cc" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Illness 1</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="content-8" data-name="content" transform="translate(24 542)">
+        <g id="post-4" data-name="post" transform="translate(5 0)">
+          <g transform="matrix(1, 0, 0, 1, -21, -961.98)" filter="url(#form-4)">
+            <path id="form-9" data-name="form" d="M12.945,0H357.055C364.2,0,370,3.656,370,8.165v134.72c0,4.509-5.8,8.165-12.945,8.165H12.945C5.8,151.05,0,147.394,0,142.885V8.165C0,3.656,5.8,0,12.945,0Z" transform="translate(21 961.98)" fill="#fff"/>
+          </g>
+          <g id="content-9" data-name="content" transform="translate(27 23.712)">
+            <text id="When_one_door_of_happiness_closes_another_opens_but_often_we_look_so_long_at_the_closed_door_that_we_do_not_see_the_one_that_has_been_opened_for_us._4" data-name="When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us. " transform="translate(0 33)" fill="#5f789d" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">When one door of happiness closes, </tspan><tspan x="0" y="42">another opens, but often we look so long at </tspan><tspan x="0" y="70">the closed door that we do not see the one </tspan></text>
+            <g id="author-4" data-name="author" transform="translate(0 0)">
+              <text id="Illness_2" data-name="Illness 2" transform="translate(0 13)" fill="#1e64cc" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Illness 2</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="content-10" data-name="content" transform="translate(24 716)">
+        <g id="post-5" data-name="post" transform="translate(5 0)">
+          <g transform="matrix(1, 0, 0, 1, -21, -1135.98)" filter="url(#form-5)">
+            <path id="form-10" data-name="form" d="M12.945,0H357.055C364.2,0,370,3.656,370,8.165v134.72c0,4.509-5.8,8.165-12.945,8.165H12.945C5.8,151.05,0,147.394,0,142.885V8.165C0,3.656,5.8,0,12.945,0Z" transform="translate(21 1135.98)" fill="#fff"/>
+          </g>
+          <g id="content-11" data-name="content" transform="translate(27 23.712)">
+            <text id="When_one_door_of_happiness_closes_another_opens_but_often_we_look_so_long_at_the_closed_door_that_we_do_not_see_the_one_that_has_been_opened_for_us._5" data-name="When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us. " transform="translate(0 33)" fill="#5f789d" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">When one door of happiness closes, </tspan><tspan x="0" y="42">another opens, but often we look so long at </tspan><tspan x="0" y="70">the closed door that we do not see the one </tspan></text>
+            <g id="author-5" data-name="author" transform="translate(0 0)">
+              <text id="Depression-2" data-name="Depression" transform="translate(0 13)" fill="#1e64cc" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Depression</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Search" transform="translate(21.001 368.217)">
+      <g transform="matrix(1, 0, 0, 1, -21, -368.22)" filter="url(#Path_7)">
+        <path id="Path_7-2" data-name="Path 7" d="M8.862,5H361.138A8.782,8.782,0,0,1,370,13.7v29.36a8.782,8.782,0,0,1-8.862,8.7H8.862A8.782,8.782,0,0,1,0,43.059V13.7A8.782,8.782,0,0,1,8.862,5Z" transform="translate(21 363.22)" fill="#fff"/>
+      </g>
+      <text id="Search-2" data-name="Search" transform="translate(17.281 11.854)" fill="#1c1c1c" font-size="16" font-family="Lato-Regular, Lato" opacity="0.2"><tspan x="0" y="16">Search</tspan></text>
+      <g id="noun_Search_860389" transform="translate(333.275 14.136)">
+        <g id="Group_5" data-name="Group 5" transform="translate(0 0)">
+          <g id="Group_4" data-name="Group 4">
+            <path id="Path_8" data-name="Path 8" d="M13.92,12.661l4.448,4.448a.89.89,0,0,1-1.259,1.259L12.661,13.92a7.122,7.122,0,1,1,1.259-1.259ZM12.07,12.07a5.341,5.341,0,1,0-7.554,0A5.341,5.341,0,0,0,12.07,12.07Z" transform="translate(-1.172 -1.172)" fill="#1c1c1c" fill-rule="evenodd" opacity="0.2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_3554" data-name="Group 3554" transform="translate(-131.162 -472)">
+      <g transform="matrix(1, 0, 0, 1, 131.16, 472)" filter="url(#Rectangle_1556)">
+        <rect id="Rectangle_1556-6" data-name="Rectangle 1556" width="124" height="40" rx="20" transform="translate(20 179)" fill="#2e5b9f"/>
+      </g>
+      <text id="General_Topics" data-name="General Topics" transform="translate(213.162 677)" fill="#edf4fd" font-size="14" font-family="ArialMT, Arial"><tspan x="-46.563" y="0">General Topics</tspan></text>
+    </g>
+    <g id="Group_3555" data-name="Group 3555" transform="translate(-9.162 -472)">
+      <g transform="matrix(1, 0, 0, 1, 9.16, 472)" filter="url(#Rectangle_1556-2)">
+        <rect id="Rectangle_1556-7" data-name="Rectangle 1556" width="94" height="40" rx="20" transform="translate(152 179)" fill="#f4f9fa"/>
+      </g>
+      <text id="Stories" transform="translate(208.162 677)" fill="#0e58c7" font-size="14" font-family="ArialMT, Arial"><tspan x="-21.786" y="0">Stories</tspan></text>
+    </g>
+    <g id="Group_3556" data-name="Group 3556" transform="translate(102.838 -472)">
+      <g transform="matrix(1, 0, 0, 1, -102.84, 472)" filter="url(#Rectangle_1556-3)">
+        <rect id="Rectangle_1556-8" data-name="Rectangle 1556" width="114" height="40" rx="20" transform="translate(254 179)" fill="#f4f9fa"/>
+      </g>
+      <text id="Latest_New" data-name="Latest New" transform="translate(208.162 677)" fill="#0e58c7" font-size="14" font-family="ArialMT, Arial"><tspan x="-35.017" y="0">Latest New</tspan></text>
+    </g>
+    <g id="Group_3557" data-name="Group 3557" transform="translate(-130.162 -416)">
+      <g transform="matrix(1, 0, 0, 1, 130.16, 416)" filter="url(#Rectangle_1556-4)">
+        <rect id="Rectangle_1556-9" data-name="Rectangle 1556" width="84" height="40" rx="20" transform="translate(21 235)" fill="#f4f9fa"/>
+      </g>
+      <text id="FAQ" transform="translate(193.162 677)" fill="#0e58c7" font-size="14" font-family="ArialMT, Arial"><tspan x="-14.003" y="0">FAQ</tspan></text>
+    </g>
+    <g id="Group_3697" data-name="Group 3697" transform="translate(-36.162 -416)">
+      <g transform="matrix(1, 0, 0, 1, 36.16, 416)" filter="url(#Rectangle_1556-5)">
+        <rect id="Rectangle_1556-10" data-name="Rectangle 1556" width="84" height="40" rx="20" transform="translate(115 235)" fill="#f4f9fa"/>
+      </g>
+      <text id="Q_A" data-name="Q/A" transform="translate(193.162 677)" fill="#0e58c7" font-size="14" font-family="ArialMT, Arial"><tspan x="-12.059" y="0">Q/A</tspan></text>
+    </g>
+    <path id="Path_4578" data-name="Path 4578" d="M-1789,6345.073h372" transform="translate(1809.5 -6047)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+    <text id="All_topics" data-name="All topics" transform="translate(21 341.145)" fill="#0e58c7" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">All topics</tspan></text>
+    <g id="Component_118_90" data-name="Component 118 – 90" transform="translate(0 780)">
+      <path id="Rectangle_1553" data-name="Rectangle 1553" d="M10,0H402a10,10,0,0,1,10,10V67a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" fill="url(#linear-gradient)"/>
+      <g id="Group_2707" data-name="Group 2707" transform="translate(1400.269 -4030)">
+        <g id="Group_2699" data-name="Group 2699" transform="translate(-1381 4044.488)">
+          <path id="Icon_awesome-clipboard-check" data-name="Icon awesome-clipboard-check" d="M10.892,2.075H8.3a2.075,2.075,0,0,0-4.149,0H1.556A1.556,1.556,0,0,0,0,3.631V15.042A1.556,1.556,0,0,0,1.556,16.6h9.336a1.556,1.556,0,0,0,1.556-1.556V3.631A1.556,1.556,0,0,0,10.892,2.075ZM6.224,1.3a.778.778,0,1,1-.778.778A.776.776,0,0,1,6.224,1.3Zm3.929,7.514-4.636,4.6a.389.389,0,0,1-.551,0L2.289,10.7a.389.389,0,0,1,0-.551l.921-.914a.389.389,0,0,1,.551,0l1.491,1.5,3.436-3.41a.389.389,0,0,1,.551,0l.914.921A.389.389,0,0,1,10.153,8.811Z" transform="translate(10.154)" fill="#fff"/>
+          <text id="To-do" transform="translate(15.731 35.512)" fill="#fff" font-size="12" font-family="ArialMT, Arial"><tspan x="-15.009" y="0">To-do</tspan></text>
+        </g>
+        <g id="Group_2698" data-name="Group 2698" transform="translate(-1308.318 4045.028)">
+          <text id="My_Health" data-name="My Health" transform="translate(27.049 34.972)" fill="#fff" font-size="12" font-family="ArialMT, Arial"><tspan x="-27.009" y="0">My Health</tspan></text>
+          <path id="Icon_awesome-heartbeat" data-name="Icon awesome-heartbeat" d="M11.09,9.584,9.369,13.027a.554.554,0,0,1-1-.021L6.4,8.632,5.358,11.115H2.1l6.321,6.46a.617.617,0,0,0,.89,0l6.325-6.46H11.856ZM16.407,3.7l-.083-.087a4.537,4.537,0,0,0-6.491,0L8.866,4.6,7.9,3.616a4.531,4.531,0,0,0-6.491,0L1.326,3.7a4.756,4.756,0,0,0-.253,6.307H4.62L5.863,7.021a.555.555,0,0,1,1.018-.014L8.9,11.486l1.7-3.391a.553.553,0,0,1,.991,0l.956,1.912H16.66A4.756,4.756,0,0,0,16.407,3.7Z" transform="translate(17.664 -2.247)" fill="#fff"/>
+        </g>
+        <g id="Group_2706" data-name="Group 2706" transform="translate(-1210.624 4045.028)">
+          <g id="Group_3581" data-name="Group 3581">
+            <text id="Self_Help" data-name="Self Help" transform="translate(24.355 34.972)" fill="#fff" font-size="12" font-family="ArialMT, Arial"><tspan x="-24.346" y="0">Self Help</tspan></text>
+            <path id="Icon_awesome-hand-holding-heart" data-name="Icon awesome-hand-holding-heart" d="M9.251,8.416a.585.585,0,0,0,.857,0l3.659-3.837A2.785,2.785,0,0,0,13.578.587a2.554,2.554,0,0,0-3.525.259l-.376.393L9.3.849A2.551,2.551,0,0,0,5.779.587a2.788,2.788,0,0,0-.188,3.992Zm9.744,2.607a1.112,1.112,0,0,0-1.431,0l-3.1,2.483a2.139,2.139,0,0,1-1.344.47H9.14a.538.538,0,1,1,0-1.075h2.631a1.119,1.119,0,0,0,1.119-.894,1.076,1.076,0,0,0-1.062-1.257H6.451a3.955,3.955,0,0,0-2.49.884L2.4,12.9H.538A.539.539,0,0,0,0,13.44v3.226a.539.539,0,0,0,.538.538H12.527a2.153,2.153,0,0,0,1.344-.47l5.081-4.066A1.075,1.075,0,0,0,18.995,11.024Z" transform="translate(13.795 -0.842)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_2696" data-name="Group 2696" transform="translate(-1040.538 4044.488)">
+          <path id="Icon_awesome-user" data-name="Icon awesome-user" d="M7.262,8.3A4.149,4.149,0,1,0,3.112,4.149,4.149,4.149,0,0,0,7.262,8.3Zm2.9,1.037H9.625a5.643,5.643,0,0,1-4.727,0H4.357A4.358,4.358,0,0,0,0,13.693v1.349A1.556,1.556,0,0,0,1.556,16.6H12.967a1.556,1.556,0,0,0,1.556-1.556V13.693A4.358,4.358,0,0,0,10.166,9.336Z" transform="translate(10.044)" fill="#fff"/>
+          <text id="Profile" transform="translate(17.269 35.512)" fill="#fff" font-size="12" font-family="ArialMT, Arial"><tspan x="-17.007" y="0">Profile</tspan></text>
+        </g>
+        <g id="Group_2697" data-name="Group 2697" transform="translate(-1121.107 4044.488)">
+          <text id="Explore" transform="translate(19.838 35.512)" fill="#fff" font-size="12" font-family="ArialMT, Arial"><tspan x="-20.344" y="0">Explore</tspan></text>
+          <path id="Icon_material-explore" data-name="Icon material-explore" d="M11.3,10.386a.913.913,0,1,0,.913.913A.91.91,0,0,0,11.3,10.386ZM11.3,3a8.3,8.3,0,1,0,8.3,8.3A8.3,8.3,0,0,0,11.3,3Zm1.817,10.116-6.8,3.162,3.162-6.8,6.8-3.162Z" transform="translate(8.962 -3)" fill="#fff"/>
+        </g>
+      </g>
+      <path id="Path_4581" data-name="Path 4581" d="M-1678.447,6469.154h65.814" transform="translate(1943.383 -6413)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <clipPath id="clip-Home_29">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="Home_29" data-name="Home – 29" clip-path="url(#clip-Home_29)">
+    <rect id="Rectangle_1978" data-name="Rectangle 1978" width="412" height="847" fill="#151515" opacity="0.803"/>
+    <g id="Group_3563" data-name="Group 3563" transform="translate(0 -129)">
+      <g id="Big_Card" data-name="Big Card" transform="translate(51 302)">
+        <rect id="Cirlce_Background" data-name="Cirlce Background" width="369" height="437" rx="21" transform="translate(-29 32)" fill="#102646"/>
+        <path id="Path_4712" data-name="Path 4712" d="M1053,4508.186h174.151" transform="translate(-895 -4263)" fill="none" stroke="#2e5b9f" stroke-width="1"/>
+        <path id="Path_4713" data-name="Path 4713" d="M1053,4508.186h103.457" transform="translate(-1012.873 -4205)" fill="none" stroke="#2e5b9f" stroke-width="1"/>
+        <text id="eg.1" transform="translate(158 217)" fill="#d2dff2" font-size="18" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="16">eg.1</tspan></text>
+        <text id="At_least" data-name="At least" transform="translate(40 217)" fill="#fff" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="16">At least</tspan></text>
+        <text id="eg.times" transform="translate(40 275)" fill="#d2dff2" font-size="18" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="16">eg.times</tspan></text>
+        <text id="a_day." data-name="a day." transform="translate(158 275)" fill="#fff" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="16">a day.</tspan></text>
+        <g id="Group_2764" data-name="Group 2764" transform="translate(-23 -694)">
+          <text id="Yes" transform="translate(92 814)" fill="#8eb1e5" font-size="16" font-family="ArialMT, Arial" opacity="0.46"><tspan x="0" y="14">Yes</tspan></text>
+          <text id="No" transform="translate(165 814)" fill="#8eb1e5" font-size="16" font-family="ArialMT, Arial" opacity="0.46"><tspan x="0" y="14">No</tspan></text>
+          <g id="Ellipse_432" data-name="Ellipse 432" transform="translate(21 815)" fill="none" stroke="#1e64cc" stroke-width="2">
+            <circle cx="10" cy="10" r="10" stroke="none"/>
+            <circle cx="10" cy="10" r="9" fill="none"/>
+          </g>
+          <g id="Group_2874" data-name="Group 2874" transform="translate(-2.939 4.061)">
+            <circle id="Ellipse_462" data-name="Ellipse 462" cx="9" cy="9" r="9" transform="translate(67.939 809.939)" fill="#8eb1e5" opacity="0.46"/>
+            <path id="Icon_material-done" data-name="Icon material-done" d="M8.812,15.426,6.028,12.642,5.1,13.57l3.712,3.712,7.954-7.954L15.837,8.4Z" transform="translate(66.331 806.409)" fill="#8eb1e5"/>
+          </g>
+          <g id="Group_2875" data-name="Group 2875" transform="translate(-3.333 602.667)">
+            <circle id="Ellipse_461" data-name="Ellipse 461" cx="9" cy="9" r="9" transform="translate(142.333 211.333)" fill="#8eb1e5" opacity="0.46"/>
+            <path id="Path_4743" data-name="Path 4743" d="M3.894-13.983,0-9.137H1.665l3.109-3.895L7.789-9.137H9.61L5.669-13.983l3.706-4.581H7.71L4.789-14.88l-2.8-3.684H.2Z" transform="translate(146.822 234.242)" fill="#8eb1e5"/>
+          </g>
+        </g>
+        <g id="Group_2765" data-name="Group 2765" transform="translate(-23 -635)">
+          <text id="By_Value" data-name="By Value" transform="translate(65 814)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">By Value</tspan></text>
+          <g id="Ellipse_432-2" data-name="Ellipse 432" transform="translate(21 815)" fill="#fff" stroke="#1e64cc" stroke-width="7">
+            <circle cx="10" cy="10" r="10" stroke="none"/>
+            <circle cx="10" cy="10" r="6.5" fill="none"/>
+          </g>
+        </g>
+        <path id="Icon_feather-chevron-down" data-name="Icon feather-chevron-down" d="M9,13.5l6.994,6.994L22.988,13.5" transform="translate(110.006 212.504)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text id="Target" transform="translate(-2 54)" fill="#fff" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="22">Target</tspan></text>
+        <path id="Icon_ionic-md-close" data-name="Icon ionic-md-close" d="M28.377,9.609,26.292,7.523,17.95,15.865,9.609,7.523,7.523,9.609l8.342,8.342L7.523,26.292l2.085,2.085,8.342-8.342,8.342,8.342,2.085-2.085L20.035,17.95Z" transform="translate(288.184 48.309)" fill="#808495"/>
+        <g id="Symbol_123_6" data-name="Symbol 123 – 6" transform="translate(168.006 384)">
+          <rect id="Rectangle_150" data-name="Rectangle 150" width="120" height="40" rx="5" transform="translate(-0.007)" fill="#ff9241"/>
+          <text id="SHARE" transform="translate(59.994 24)" fill="#fff" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-26.831" y="0">Confirm</tspan></text>
+        </g>
+        <g id="Symbol_124_2" data-name="Symbol 124 – 2" transform="translate(17.994 384)">
+          <g id="Rectangle_151" data-name="Rectangle 151" transform="translate(0.007)" fill="none" stroke="#fff" stroke-width="1">
+            <rect width="120" height="40" rx="5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="119" height="39" rx="4.5" fill="none"/>
+          </g>
+          <text id="SKIP" transform="translate(60.006 24)" fill="#fff" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-22.955" y="0">Cancel</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

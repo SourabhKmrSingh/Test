@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="902" viewBox="0 0 412 902">
+  <defs>
+    <clipPath id="clip-Side_effect_reeportiing-3_1">
+      <rect width="412" height="902"/>
+    </clipPath>
+  </defs>
+  <g id="Side_effect_reeportiing-3_1" data-name="Side effect reeportiing-3 – 1" clip-path="url(#clip-Side_effect_reeportiing-3_1)">
+    <rect width="412" height="902" fill="#e9eff4"/>
+    <rect id="Rectangle_2120" data-name="Rectangle 2120" width="412" height="65" transform="translate(0 781)" fill="#fff"/>
+    <rect id="Rectangle_2119" data-name="Rectangle 2119" width="372" height="704" rx="10" transform="translate(21 77)" fill="#f2f5f7"/>
+    <text id="Select_Medicine" data-name="Select Medicine" transform="translate(21 26)" fill="#0e58c7" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="16">Select Medicine</tspan></text>
+    <text id="Select_all" data-name="Select all" transform="translate(100 105)" fill="#0e58c7" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="16">Select all</tspan></text>
+    <g id="card" transform="translate(9 -4)">
+      <g id="bg" transform="translate(28 164)" fill="#1e64cc" stroke="#e4e9f4" stroke-width="1">
+        <rect width="338" height="60" rx="12" stroke="none"/>
+        <rect x="0.5" y="0.5" width="337" height="59" rx="11.5" fill="none"/>
+      </g>
+      <g id="Group_3695" data-name="Group 3695" transform="translate(100.356 186.765)">
+        <text id="Abatacept_100mg" data-name="Abatacept 100mg" transform="translate(19.645 12.206)" fill="#f2f5f7" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Abatacept 100mg</tspan></text>
+        <path id="Icon_awesome-pills" data-name="Icon awesome-pills" d="M2.929,0A2.927,2.927,0,0,0,0,2.929V8.786a2.929,2.929,0,1,0,5.858,0V2.929A2.927,2.927,0,0,0,2.929,0ZM4.184,5.858H1.674V2.929a1.255,1.255,0,1,1,2.51,0Z" transform="matrix(0.839, 0.545, -0.545, 0.839, 6.16, -0.737)" fill="#f2f5f7"/>
+      </g>
+      <g id="Rectangle_2118" data-name="Rectangle 2118" transform="translate(47 181)" fill="#f0f6fa" stroke="#1e64cc" stroke-width="1">
+        <rect width="27" height="27" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="26" height="26" rx="4.5" fill="none"/>
+      </g>
+      <path id="Icon_material-done" data-name="Icon material-done" d="M9.344,16.434,6.161,13.25,5.1,14.312l4.244,4.244,9.095-9.095L17.378,8.4Z" transform="translate(49.232 180.522)" fill="#1e64cc"/>
+    </g>
+    <g id="card-2" data-name="card" transform="translate(9 64)">
+      <g id="bg-2" data-name="bg" transform="translate(28 164)" fill="#d2dff2" stroke="#e4e9f4" stroke-width="1">
+        <rect width="338" height="60" rx="12" stroke="none"/>
+        <rect x="0.5" y="0.5" width="337" height="59" rx="11.5" fill="none"/>
+      </g>
+      <g id="Group_3695-2" data-name="Group 3695" transform="translate(100.356 186.765)">
+        <text id="Abatacept_100mg-2" data-name="Abatacept 100mg" transform="translate(19.645 12.206)" fill="#2e5b9f" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Abatacept 100mg</tspan></text>
+        <path id="Icon_awesome-pills-2" data-name="Icon awesome-pills" d="M2.929,0A2.927,2.927,0,0,0,0,2.929V8.786a2.929,2.929,0,1,0,5.858,0V2.929A2.927,2.927,0,0,0,2.929,0ZM4.184,5.858H1.674V2.929a1.255,1.255,0,1,1,2.51,0Z" transform="matrix(0.839, 0.545, -0.545, 0.839, 6.16, -0.737)" fill="#2e5b9f"/>
+      </g>
+      <g id="Rectangle_2118-2" data-name="Rectangle 2118" transform="translate(47 181)" fill="#f0f6fa" stroke="#1e64cc" stroke-width="1">
+        <rect width="27" height="27" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="26" height="26" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g id="card-3" data-name="card" transform="translate(9 132)">
+      <g id="bg-3" data-name="bg" transform="translate(28 164)" fill="#d2dff2" stroke="#e4e9f4" stroke-width="1">
+        <rect width="338" height="60" rx="12" stroke="none"/>
+        <rect x="0.5" y="0.5" width="337" height="59" rx="11.5" fill="none"/>
+      </g>
+      <g id="Group_3695-3" data-name="Group 3695" transform="translate(100.356 186.765)">
+        <text id="Abatacept_100mg-3" data-name="Abatacept 100mg" transform="translate(19.645 12.206)" fill="#2e5b9f" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Abatacept 100mg</tspan></text>
+        <path id="Icon_awesome-pills-3" data-name="Icon awesome-pills" d="M2.929,0A2.927,2.927,0,0,0,0,2.929V8.786a2.929,2.929,0,1,0,5.858,0V2.929A2.927,2.927,0,0,0,2.929,0ZM4.184,5.858H1.674V2.929a1.255,1.255,0,1,1,2.51,0Z" transform="matrix(0.839, 0.545, -0.545, 0.839, 6.16, -0.737)" fill="#2e5b9f"/>
+      </g>
+      <g id="Rectangle_2118-3" data-name="Rectangle 2118" transform="translate(47 181)" fill="#f0f6fa" stroke="#1e64cc" stroke-width="1">
+        <rect width="27" height="27" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="26" height="26" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g id="card-4" data-name="card" transform="translate(9 200)">
+      <g id="bg-4" data-name="bg" transform="translate(28 164)" fill="#d2dff2" stroke="#e4e9f4" stroke-width="1">
+        <rect width="338" height="60" rx="12" stroke="none"/>
+        <rect x="0.5" y="0.5" width="337" height="59" rx="11.5" fill="none"/>
+      </g>
+      <g id="Group_3695-4" data-name="Group 3695" transform="translate(100.356 186.765)">
+        <text id="Abatacept_100mg-4" data-name="Abatacept 100mg" transform="translate(19.645 12.206)" fill="#2e5b9f" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Abatacept 100mg</tspan></text>
+        <path id="Icon_awesome-pills-4" data-name="Icon awesome-pills" d="M2.929,0A2.927,2.927,0,0,0,0,2.929V8.786a2.929,2.929,0,1,0,5.858,0V2.929A2.927,2.927,0,0,0,2.929,0ZM4.184,5.858H1.674V2.929a1.255,1.255,0,1,1,2.51,0Z" transform="matrix(0.839, 0.545, -0.545, 0.839, 6.16, -0.737)" fill="#2e5b9f"/>
+      </g>
+      <g id="Rectangle_2118-4" data-name="Rectangle 2118" transform="translate(47 181)" fill="#f0f6fa" stroke="#1e64cc" stroke-width="1">
+        <rect width="27" height="27" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="26" height="26" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g id="card-5" data-name="card" transform="translate(9 268)">
+      <g id="bg-5" data-name="bg" transform="translate(28 164)" fill="#d2dff2" stroke="#e4e9f4" stroke-width="1">
+        <rect width="338" height="60" rx="12" stroke="none"/>
+        <rect x="0.5" y="0.5" width="337" height="59" rx="11.5" fill="none"/>
+      </g>
+      <g id="Group_3695-5" data-name="Group 3695" transform="translate(100.356 186.765)">
+        <text id="Abatacept_100mg-5" data-name="Abatacept 100mg" transform="translate(19.645 12.206)" fill="#2e5b9f" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Abatacept 100mg</tspan></text>
+        <path id="Icon_awesome-pills-5" data-name="Icon awesome-pills" d="M2.929,0A2.927,2.927,0,0,0,0,2.929V8.786a2.929,2.929,0,1,0,5.858,0V2.929A2.927,2.927,0,0,0,2.929,0ZM4.184,5.858H1.674V2.929a1.255,1.255,0,1,1,2.51,0Z" transform="matrix(0.839, 0.545, -0.545, 0.839, 6.16, -0.737)" fill="#2e5b9f"/>
+      </g>
+      <g id="Rectangle_2118-5" data-name="Rectangle 2118" transform="translate(47 181)" fill="#f0f6fa" stroke="#1e64cc" stroke-width="1">
+        <rect width="27" height="27" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="26" height="26" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Symbol_123_6" data-name="Symbol 123 – 6" transform="translate(271.006 794)">
+      <rect id="Rectangle_150" data-name="Rectangle 150" width="120" height="40" rx="5" transform="translate(-0.007)" fill="#ff9241"/>
+      <text id="SHARE" transform="translate(59.994 24)" fill="#fff" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-26.831" y="0">Confirm</tspan></text>
+    </g>
+    <g id="Symbol_124_2" data-name="Symbol 124 – 2" transform="translate(120.994 794)">
+      <g id="Rectangle_151" data-name="Rectangle 151" transform="translate(0.007)" fill="none" stroke="#1e64cc" stroke-width="1">
+        <rect width="120" height="40" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="119" height="39" rx="4.5" fill="none"/>
+      </g>
+      <text id="SKIP" transform="translate(60.006 24)" fill="#1e64cc" font-size="14" font-family="ArialMT, Arial"><tspan x="-21.79" y="0">Cancel</tspan></text>
+    </g>
+    <g id="Rectangle_2121" data-name="Rectangle 2121" transform="translate(53 105)" fill="#f0f6fa" stroke="#1e64cc" stroke-width="1">
+      <rect width="27" height="27" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="26" height="26" rx="4.5" fill="none"/>
+    </g>
+  </g>
+</svg>

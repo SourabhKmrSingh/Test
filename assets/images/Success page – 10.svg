@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <filter id="Rectangle_661" x="-24" y="175" width="460" height="557" filterUnits="userSpaceOnUse">
+      <feOffset dy="30" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-color="#2699fb" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_7" x="26" y="487.5" width="360" height="96.064" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-2"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Success_page_10">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="Success_page_10" data-name="Success page – 10" clip-path="url(#clip-Success_page_10)">
+    <rect width="412" height="847" fill="rgba(8,8,8,0.64)"/>
+    <g id="Group_3834" data-name="Group 3834" transform="translate(-5308 3098)">
+      <g transform="matrix(1, 0, 0, 1, 5308, -3098)" filter="url(#Rectangle_661)">
+        <rect id="Rectangle_661-2" data-name="Rectangle 661" width="370" height="467" rx="10" transform="translate(21 190)" fill="#edf4fd"/>
+      </g>
+      <text id="Name_of_Product" data-name="Name of Product" transform="translate(5514 -2859)" fill="#254069" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-48.159" y="0">Set Target</tspan></text>
+      <text id="Name_of_Product-2" data-name="Name of Product" transform="translate(5514 -2585)" fill="#fff" font-size="12" font-family="ArialMT, Arial"><tspan x="-9.668" y="0">Min</tspan></text>
+      <text id="Name_of_Product-3" data-name="Name of Product" transform="translate(5592 -2585)" fill="#fff" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.339" y="0">Sec</tspan></text>
+      <text id="Name_of_Product-4" data-name="Name of Product" transform="translate(5429 -2585)" fill="#fff" font-size="12" font-family="ArialMT, Arial"><tspan x="-6.331" y="0">Hr</tspan></text>
+      <g id="hero" transform="translate(5410 -2806)">
+        <text id="_15.00" data-name="$15.00" transform="translate(104 94)" fill="#254069" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-102.285" y="0">00 : 02 : 00</tspan></text>
+        <text id="_15.00-2" data-name="$15.00" transform="translate(104 36)" fill="#254069" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700" opacity="0.25"><tspan x="-102.285" y="0">12 : 01 : 59</tspan></text>
+        <text id="_15.00-3" data-name="$15.00" transform="translate(104 152)" fill="#254069" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700" opacity="0.25"><tspan x="-102.285" y="0">01 : 03 : 01</tspan></text>
+      </g>
+      <g id="CTA" transform="translate(5358 -2589.5)">
+        <g transform="matrix(1, 0, 0, 1, -50, -508.5)" filter="url(#Path_7)">
+          <path id="Path_7-2" data-name="Path 7" d="M7.473,5H304.527C308.654,5,312,9,312,13.942v30.18c0,4.939-3.346,8.942-7.473,8.942H7.473c-4.127,0-7.473-4-7.473-8.942V13.942C0,9,3.346,5,7.473,5Z" transform="translate(50 503.5)" fill="#ff9241"/>
+        </g>
+        <text id="Save" transform="translate(76 12.563)" fill="#fff" font-size="16" font-family="Lato-Regular, Lato"><tspan x="63.084" y="16">Save</tspan></text>
+      </g>
+      <g id="CTA-2" data-name="CTA" transform="translate(5358 -2527.436)">
+        <g id="Path_7-3" data-name="Path 7" transform="translate(0 -5)" fill="none">
+          <path d="M7.473,5H304.527C308.654,5,312,9,312,13.942v30.18c0,4.939-3.346,8.942-7.473,8.942H7.473c-4.127,0-7.473-4-7.473-8.942V13.942C0,9,3.346,5,7.473,5Z" stroke="none"/>
+          <path d="M 7.473052978515625 6.000007629394531 C 3.903778076171875 6.000007629394531 1 9.562839508056641 1 13.94217300415039 L 1 44.12208938598633 C 1 48.50142288208008 3.903778076171875 52.06425476074219 7.473052978515625 52.06425476074219 L 304.5269470214844 52.06425476074219 C 308.0962219238281 52.06425476074219 311 48.50142288208008 311 44.12208938598633 L 311 13.94217300415039 C 311 9.562839508056641 308.0962219238281 6.000007629394531 304.5269470214844 6.000007629394531 L 7.473052978515625 6.000007629394531 M 7.473052978515625 5.000007629394531 L 304.5269470214844 5.000007629394531 C 308.6542358398438 5.000007629394531 312 9.003547668457031 312 13.94217300415039 L 312 44.12208938598633 C 312 49.06071472167969 308.6542358398438 53.06425476074219 304.5269470214844 53.06425476074219 L 7.473052978515625 53.06425476074219 C 3.345794677734375 53.06425476074219 0 49.06071472167969 0 44.12208938598633 L 0 13.94217300415039 C 0 9.003547668457031 3.345794677734375 5.000007629394531 7.473052978515625 5.000007629394531 Z" stroke="none" fill="#254069"/>
+        </g>
+        <text id="Close" transform="translate(76 12.563)" fill="#254069" font-size="16" font-family="Lato-Regular, Lato"><tspan x="60.044" y="16">Close</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

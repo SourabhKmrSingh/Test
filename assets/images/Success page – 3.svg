@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="1028" viewBox="0 0 412 1028">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aadd"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <filter id="Path_7" x="-24" y="766.938" width="460" height="108.061" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Success_page_3">
+      <rect width="412" height="1028"/>
+    </clipPath>
+  </defs>
+  <g id="Success_page_3" data-name="Success page – 3" clip-path="url(#clip-Success_page_3)">
+    <rect width="412" height="1028" fill="url(#linear-gradient)"/>
+    <path id="Cirlce_Background" data-name="Cirlce Background" d="M21,0H393a21,21,0,0,1,21,21V913a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V21A21,21,0,0,1,21,0Z" transform="translate(0 117)" fill="#102646"/>
+    <g id="Atoms_Divider_Default" data-name="Atoms/ Divider/ Default" transform="translate(21 329)">
+      <rect id="Components_Divider" data-name="Components/Divider" width="372" height="1" fill="#e0ecde" stroke="#8eb1e5" stroke-width="1"/>
+    </g>
+    <g id="Languages" transform="translate(21 145)">
+      <text id="Drink_water" data-name="Drink water" transform="translate(64)" fill="#edf4fd" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="22">Drink water</tspan></text>
+      <g id="Group_3913" data-name="Group 3913">
+        <circle id="Ellipse_689" data-name="Ellipse 689" cx="24.5" cy="24.5" r="24.5" transform="translate(0 2)" fill="#d2dff2"/>
+        <path id="Icon_awesome-pills" data-name="Icon awesome-pills" d="M3.609,0A3.607,3.607,0,0,0,0,3.609v7.217a3.609,3.609,0,1,0,7.217,0V3.609A3.607,3.607,0,0,0,3.609,0ZM5.155,7.217H2.062V3.609a1.547,1.547,0,1,1,3.093,0Z" transform="matrix(0.839, 0.545, -0.545, 0.839, 20.6, 11.184)" fill="#1e64cc"/>
+        <g id="Group_3552" data-name="Group 3552" transform="translate(21.672 24.057)">
+          <g id="Ellipse_690" data-name="Ellipse 690" fill="#1e64cc" stroke="#fff" stroke-width="1">
+            <ellipse cx="7.085" cy="7.085" rx="7.085" ry="7.085" stroke="none"/>
+            <ellipse cx="7.085" cy="7.085" rx="6.585" ry="6.585" fill="none"/>
+          </g>
+          <path id="Path_8467" data-name="Path 8467" d="M-23.5,32.114V44.606" transform="translate(30.585 -31.185)" fill="none" stroke="#fff" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+    <text id="Alexis_Balencesco" data-name="Alexis Balencesco" transform="translate(86 181)" fill="#d2dff2" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="12">Healthy</tspan></text>
+    <g id="Group_3564" data-name="Group 3564" transform="translate(21 362)">
+      <text id="Target" fill="#edf4fd" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Target</tspan></text>
+      <text id="Alexis_Balencesco-2" data-name="Alexis Balencesco" transform="translate(0 36)" fill="#8eb1e5" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Atleast 1 times a day</tspan></text>
+    </g>
+    <text id="Alexis_Balencesco-3" data-name="Alexis Balencesco" transform="translate(21 254)" fill="#edf4fd" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Have you continued your drug use despite knowledge of </tspan><tspan x="0" y="31">developing a persistent or recurring physical or </tspan><tspan x="0" y="49">psychological problem</tspan></text>
+    <g id="Group_3565" data-name="Group 3565" transform="translate(21 453.563)">
+      <text id="How_Long" data-name="How Long" transform="translate(0 0.438)" fill="#edf4fd" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">How Long</tspan></text>
+      <text id="Alexis_Balencesco-4" data-name="Alexis Balencesco" transform="translate(0 36.438)" fill="#8eb1e5" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Everyday</tspan></text>
+    </g>
+    <g id="Group_3566" data-name="Group 3566" transform="translate(21 546.126)">
+      <text id="Reminder" transform="translate(0 -0.125)" fill="#edf4fd" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Reminder</tspan></text>
+      <text id="Alexis_Balencesco-5" data-name="Alexis Balencesco" transform="translate(0 35.875)" fill="#8eb1e5" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">6:00 pm</tspan></text>
+      <path id="Icon_awesome-toggle-on" data-name="Icon awesome-toggle-on" d="M27,4.5H13.5a13.5,13.5,0,0,0,0,27H27a13.5,13.5,0,0,0,0-27ZM27,27a9,9,0,1,1,9-9A8.995,8.995,0,0,1,27,27Z" transform="translate(302 9.875)" fill="#fff"/>
+    </g>
+    <g id="Group_3567" data-name="Group 3567" transform="translate(21 637.687)">
+      <text id="Goals" transform="translate(0 0.313)" fill="#edf4fd" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Goals</tspan></text>
+      <text id="Alexis_Balencesco-6" data-name="Alexis Balencesco" transform="translate(0 36.313)" fill="#8eb1e5" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">60 days</tspan></text>
+    </g>
+    <g id="Group_3568" data-name="Group 3568" transform="translate(21 730.25)">
+      <text id="Pending_task" data-name="Pending task" transform="translate(0 -0.25)" fill="#edf4fd" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Pending task</tspan></text>
+      <text id="Alexis_Balencesco-7" data-name="Alexis Balencesco" transform="translate(0 35.75)" fill="#8eb1e5" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Show until the task completed</tspan></text>
+      <path id="Icon_awesome-toggle-on-2" data-name="Icon awesome-toggle-on" d="M27,4.5H13.5a13.5,13.5,0,0,0,0,27H27a13.5,13.5,0,0,0,0-27ZM27,27a9,9,0,1,1,9-9A8.995,8.995,0,0,1,27,27Z" transform="translate(302 9.25)" fill="#fff"/>
+    </g>
+    <g id="Group_3569" data-name="Group 3569" transform="translate(21 821.813)">
+      <text id="Priority" transform="translate(0 0.188)" fill="#edf4fd" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Priority</tspan></text>
+      <text id="Alexis_Balencesco-8" data-name="Alexis Balencesco" transform="translate(0 36.188)" fill="#8eb1e5" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">None</tspan></text>
+    </g>
+    <text id="Description" transform="translate(21 229)" fill="#8eb1e5" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Description</tspan></text>
+    <g id="CTA" transform="translate(0 787.938)">
+      <g transform="matrix(1, 0, 0, 1, 0, -787.94)" filter="url(#Path_7)">
+        <path id="Path_7-2" data-name="Path 7" d="M9.868,5H402.132C407.582,5,412,10,412,16.174V53.886c0,6.171-4.418,11.174-9.868,11.174H9.868c-5.45,0-9.868-5-9.868-11.174V16.174C0,10,4.418,5,9.868,5Z" transform="translate(0 782.94)" fill="#102646"/>
+      </g>
+      <text id="Save" transform="translate(206 19.392)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="84.766" y="14">Save</tspan></text>
+      <text id="Cancel" transform="translate(0 19.392)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="78.098" y="14">Cancel</tspan></text>
+      <path id="Path_8472" data-name="Path 8472" d="M1053,4508.186h411.151" transform="translate(-1052.499 -4508.188)" fill="none" stroke="#8eb1e5" stroke-width="1"/>
+      <path id="Path_8473" data-name="Path 8473" d="M-23340-17923.682v36.885" transform="translate(23546 17934.063)" fill="none" stroke="#8eb1e5" stroke-width="1"/>
+    </g>
+    <text id="Habit_Details" data-name="Habit Details" transform="translate(23 39)" fill="#fff" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="22">Habit Details</tspan></text>
+  </g>
+</svg>

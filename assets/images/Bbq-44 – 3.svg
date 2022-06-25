@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="242.408" height="336.559" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="14.523" height="115.202" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="14.523" height="113.202" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Bbq-44_3">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="Bbq-44_3" data-name="Bbq-44 – 3" clip-path="url(#clip-Bbq-44_3)">
+    <rect width="412" height="847" fill="#f5f8fb"/>
+    <g id="Group_3103" data-name="Group 3103" transform="translate(-4 -35)">
+      <g id="Group_1500" data-name="Group 1500" transform="translate(71 65)">
+        <text id="OBQ-44_Questionnaire" data-name="OBQ-44 Questionnaire" fill="#1e64cc" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="22">OBQ-44 Questionnaire</tspan></text>
+      </g>
+      <g id="Group_3103-2" data-name="Group 3103" transform="translate(4)">
+        <rect id="Rectangle_1722" data-name="Rectangle 1722" width="371" height="685" rx="16" transform="translate(21 59)" fill="#e9eef3"/>
+        <g id="Search" transform="translate(85 168.441)" clip-path="url(#clip-path)">
+          <g id="Search-2" data-name="Search" transform="translate(0.296)">
+            <path id="Path_7" data-name="Path 7" d="M5.65,5h224.6c3.121,0,5.65,3.25,5.65,7.259v24.5c0,4.009-2.53,7.259-5.65,7.259H5.65C2.53,44.017,0,40.767,0,36.758v-24.5C0,8.25,2.53,5,5.65,5Z" transform="translate(2.566 -5)" fill="#f7fafd"/>
+            <text id="disagree_very_much" data-name="disagree very much" transform="translate(46.153 9.816)" fill="#808495" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">disagree very much</tspan></text>
+          </g>
+          <g id="Search-3" data-name="Search" transform="translate(0.296 49)">
+            <path id="Path_7-2" data-name="Path 7" d="M5.65,5h224.6c3.121,0,5.65,3.25,5.65,7.259v24.5c0,4.009-2.53,7.259-5.65,7.259H5.65C2.53,44.017,0,40.767,0,36.758v-24.5C0,8.25,2.53,5,5.65,5Z" transform="translate(2.566 -5)" fill="#f7fafd"/>
+            <text id="disagree_moderately" data-name="disagree moderately" transform="translate(46.153 9.816)" fill="#808495" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">disagree moderately</tspan></text>
+          </g>
+          <g id="Search-4" data-name="Search" transform="translate(0.296 98)">
+            <path id="Path_7-3" data-name="Path 7" d="M5.65,5h224.6c3.121,0,5.65,3.25,5.65,7.259v24.5c0,4.009-2.53,7.259-5.65,7.259H5.65C2.53,44.017,0,40.767,0,36.758v-24.5C0,8.25,2.53,5,5.65,5Z" transform="translate(2.566 -5)" fill="#f7fafd"/>
+            <text id="disagree_a_little" data-name="disagree a little" transform="translate(46.153 9.816)" fill="#808495" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">disagree a little</tspan></text>
+          </g>
+          <g id="Search-5" data-name="Search" transform="translate(0.296 147)">
+            <path id="Path_7-4" data-name="Path 7" d="M5.65,5h224.6c3.121,0,5.65,3.25,5.65,7.259v24.5c0,4.009-2.53,7.259-5.65,7.259H5.65C2.53,44.017,0,40.767,0,36.758v-24.5C0,8.25,2.53,5,5.65,5Z" transform="translate(2.566 -5)" fill="#f7fafd"/>
+            <text id="neither_agrees_nor_disagrees" data-name="neither agrees nor disagrees" transform="translate(46.153 9.816)" fill="#808495" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">neither agrees nor disagrees</tspan></text>
+          </g>
+          <g id="Search-6" data-name="Search" transform="translate(0.296 196)">
+            <path id="Path_7-5" data-name="Path 7" d="M5.65,5h224.6c3.121,0,5.65,3.25,5.65,7.259v24.5c0,4.009-2.53,7.259-5.65,7.259H5.65C2.53,44.017,0,40.767,0,36.758v-24.5C0,8.25,2.53,5,5.65,5Z" transform="translate(2.566 -5)" fill="#f7fafd"/>
+            <text id="agree_a_little" data-name="agree a little" transform="translate(46.153 9.816)" fill="#808495" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">agree a little</tspan></text>
+          </g>
+          <g id="Search-7" data-name="Search" transform="translate(0.296 245)">
+            <path id="Path_7-6" data-name="Path 7" d="M5.65,5h224.6c3.121,0,5.65,3.25,5.65,7.259v24.5c0,4.009-2.53,7.259-5.65,7.259H5.65C2.53,44.017,0,40.767,0,36.758v-24.5C0,8.25,2.53,5,5.65,5Z" transform="translate(2.566 -5)" fill="#f7fafd"/>
+            <text id="agree_moderately" data-name="agree moderately" transform="translate(46.153 9.816)" fill="#808495" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">agree moderately</tspan></text>
+          </g>
+          <g id="Search-8" data-name="Search" transform="translate(0.296 294)">
+            <path id="Path_7-7" data-name="Path 7" d="M5.65,5h224.6c3.121,0,5.65,3.25,5.65,7.259v24.5c0,4.009-2.53,7.259-5.65,7.259H5.65C2.53,44.017,0,40.767,0,36.758v-24.5C0,8.25,2.53,5,5.65,5Z" transform="translate(2.566 -5)" fill="#f7fafd"/>
+            <text id="agree_very_much" data-name="agree very much" transform="translate(46.153 9.816)" fill="#808495" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">agree very much</tspan></text>
+          </g>
+        </g>
+        <text id="Use_the_following_scale" data-name="Use the following scale" transform="translate(148 93)" fill="#1e64cc" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Use the following scale</tspan></text>
+        <g id="Repeat_Grid_11" data-name="Repeat Grid 11" transform="translate(105.841 181.91)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-105.841 -243.91)">
+            <path id="Icon_material-thumb-down" data-name="Icon material-thumb-down" d="M10.742,4.5H4.8a1.311,1.311,0,0,0-1.215.805L1.592,9.959a1.3,1.3,0,0,0-.092.482V11.7l.007.007-.007.053a1.324,1.324,0,0,0,1.32,1.32H6.986L6.358,16.1l-.02.211a.994.994,0,0,0,.29.7l.7.693,4.35-4.35a1.312,1.312,0,0,0,.383-.931V5.82A1.324,1.324,0,0,0,10.742,4.5Zm2.64,0v7.921h2.64V4.5Z" transform="translate(104.341 239.41)" fill="#808495"/>
+          </g>
+          <g transform="translate(-105.841 -193.91)">
+            <path id="Icon_material-thumb-down-2" data-name="Icon material-thumb-down" d="M10.742,4.5H4.8a1.311,1.311,0,0,0-1.215.805L1.592,9.959a1.3,1.3,0,0,0-.092.482V11.7l.007.007-.007.053a1.324,1.324,0,0,0,1.32,1.32H6.986L6.358,16.1l-.02.211a.994.994,0,0,0,.29.7l.7.693,4.35-4.35a1.312,1.312,0,0,0,.383-.931V5.82A1.324,1.324,0,0,0,10.742,4.5Zm2.64,0v7.921h2.64V4.5Z" transform="translate(104.341 239.41)" fill="#808495"/>
+          </g>
+          <g transform="translate(-105.841 -143.91)">
+            <path id="Icon_material-thumb-down-3" data-name="Icon material-thumb-down" d="M10.742,4.5H4.8a1.311,1.311,0,0,0-1.215.805L1.592,9.959a1.3,1.3,0,0,0-.092.482V11.7l.007.007-.007.053a1.324,1.324,0,0,0,1.32,1.32H6.986L6.358,16.1l-.02.211a.994.994,0,0,0,.29.7l.7.693,4.35-4.35a1.312,1.312,0,0,0,.383-.931V5.82A1.324,1.324,0,0,0,10.742,4.5Zm2.64,0v7.921h2.64V4.5Z" transform="translate(104.341 239.41)" fill="#808495"/>
+          </g>
+        </g>
+        <g id="Repeat_Grid_12" data-name="Repeat Grid 12" transform="translate(105.841 376.91)" clip-path="url(#clip-path-3)">
+          <g transform="translate(-105.841 -243.91)">
+            <path id="Icon_material-thumb-down-4" data-name="Icon material-thumb-down" d="M10.742,4.5H4.8a1.311,1.311,0,0,0-1.215.805L1.592,9.959a1.3,1.3,0,0,0-.092.482V11.7l.007.007-.007.053a1.324,1.324,0,0,0,1.32,1.32H6.986L6.358,16.1l-.02.211a.994.994,0,0,0,.29.7l.7.693,4.35-4.35a1.312,1.312,0,0,0,.383-.931V5.82A1.324,1.324,0,0,0,10.742,4.5Zm2.64,0v7.921h2.64V4.5Z" transform="translate(121.863 261.612) rotate(180)" fill="#808495"/>
+          </g>
+          <g transform="translate(-105.841 -194.91)">
+            <path id="Icon_material-thumb-down-5" data-name="Icon material-thumb-down" d="M10.742,4.5H4.8a1.311,1.311,0,0,0-1.215.805L1.592,9.959a1.3,1.3,0,0,0-.092.482V11.7l.007.007-.007.053a1.324,1.324,0,0,0,1.32,1.32H6.986L6.358,16.1l-.02.211a.994.994,0,0,0,.29.7l.7.693,4.35-4.35a1.312,1.312,0,0,0,.383-.931V5.82A1.324,1.324,0,0,0,10.742,4.5Zm2.64,0v7.921h2.64V4.5Z" transform="translate(121.863 261.612) rotate(180)" fill="#808495"/>
+          </g>
+          <g transform="translate(-105.841 -145.91)">
+            <path id="Icon_material-thumb-down-6" data-name="Icon material-thumb-down" d="M10.742,4.5H4.8a1.311,1.311,0,0,0-1.215.805L1.592,9.959a1.3,1.3,0,0,0-.092.482V11.7l.007.007-.007.053a1.324,1.324,0,0,0,1.32,1.32H6.986L6.358,16.1l-.02.211a.994.994,0,0,0,.29.7l.7.693,4.35-4.35a1.312,1.312,0,0,0,.383-.931V5.82A1.324,1.324,0,0,0,10.742,4.5Zm2.64,0v7.921h2.64V4.5Z" transform="translate(121.863 261.612) rotate(180)" fill="#808495"/>
+          </g>
+        </g>
+        <text id="Now_after_reading_these_instructions_just_take_questionnaire_and_your_score_will_be_reflected_in_terms_of_different_beliefs_which_has_been_described_below._Cut_off_for_different_beliefs_for_serious_cases_will_be_available_after_the_test." data-name="Now after reading these instructions, just take questionnaire and your score will be reflected in terms of different beliefs which has been described below. Cut off for different beliefs for serious cases will be available after the test." transform="translate(30 527)" fill="#808495" font-size="16" font-family="ArialMT, Arial"><tspan x="13.641" y="14">Now after reading these instructions, just take </tspan><tspan x="6.516" y="49">questionnaire and your score will be reflected in </tspan><tspan x="32.457" y="84">terms of different beliefs which has been </tspan><tspan x="10.813" y="119">described below. Cut off for different beliefs for </tspan><tspan x="19.422" y="154">serious cases will be available after the test.</tspan></text>
+        <g id="Group_3138" data-name="Group 3138" transform="translate(-90.521 -14)">
+          <circle id="Ellipse_585" data-name="Ellipse 585" cx="22.5" cy="22.5" r="22.5" transform="translate(176 97)" fill="#d2dff2"/>
+          <g id="Group_3138-2" data-name="Group 3138" transform="translate(-165.797 -311.771)">
+            <g id="Group_1765" data-name="Group 1765" transform="translate(93 230)">
+              <path id="Path_2393" data-name="Path 2393" d="M308.621,222.712l-24.782-10.871a.267.267,0,0,0-.336.335l10.871,24.782a.267.267,0,0,0,.478.066l3.791-7.3,9.131,9.131a.268.268,0,0,0,.378,0l2.365-2.365a.267.267,0,0,0,0-.377l-9.132-9.131,7.3-3.791A.267.267,0,0,0,308.621,222.712Z" transform="translate(-7.303 -6.71)" fill="#ff7600"/>
+              <g id="Group_1764" data-name="Group 1764" transform="translate(264.302 194.197)">
+                <g id="Group_1755" data-name="Group 1755" transform="translate(3.43 2.783)">
+                  <g id="Group_1754" data-name="Group 1754">
+                    <path id="Path_2394" data-name="Path 2394" d="M275.757,205.163a1.239,1.239,0,0,1-1.749-.1l-3.852-4.31A1.239,1.239,0,0,1,272,199.1l3.853,4.311A1.239,1.239,0,0,1,275.757,205.163Z" transform="translate(-269.84 -198.69)" fill="#86c1fd"/>
+                  </g>
+                </g>
+                <g id="Group_1757" data-name="Group 1757" transform="translate(9.365)">
+                  <g id="Group_1756" data-name="Group 1756">
+                    <path id="Path_2395" data-name="Path 2395" d="M282.336,202.079a1.239,1.239,0,0,1-2.05-.743l-.85-5.718a1.239,1.239,0,1,1,2.45-.365l.85,5.718A1.236,1.236,0,0,1,282.336,202.079Z" transform="translate(-279.422 -194.197)" fill="#86c1fd"/>
+                  </g>
+                </g>
+                <g id="Group_1759" data-name="Group 1759" transform="translate(0 8.369)">
+                  <g id="Group_1758" data-name="Group 1758">
+                    <path id="Path_2396" data-name="Path 2396" d="M271.954,211.356a1.238,1.238,0,0,1-1.145.274l-5.587-1.485a1.239,1.239,0,0,1,.637-2.394l5.587,1.485a1.238,1.238,0,0,1,.508,2.12Z" transform="translate(-264.302 -207.709)" fill="#86c1fd"/>
+                  </g>
+                </g>
+                <g id="Group_1761" data-name="Group 1761" transform="translate(0.129 12.98)">
+                  <g id="Group_1760" data-name="Group 1760">
+                    <path id="Path_2397" data-name="Path 2397" d="M272.1,217.317a1.244,1.244,0,0,1-.458.258l-5.521,1.713a1.239,1.239,0,1,1-.735-2.366l5.521-1.713a1.239,1.239,0,0,1,1.192,2.108Z" transform="translate(-264.511 -215.153)" fill="#86c1fd"/>
+                  </g>
+                </g>
+                <g id="Group_1763" data-name="Group 1763" transform="translate(13.245 0.777)">
+                  <g id="Group_1762" data-name="Group 1762">
+                    <path id="Path_2398" data-name="Path 2398" d="M287.752,202.938a1.239,1.239,0,0,1-1.968-1.405l2.25-5.325a1.239,1.239,0,1,1,2.282.964l-2.25,5.325A1.235,1.235,0,0,1,287.752,202.938Z" transform="translate(-285.686 -195.451)" fill="#86c1fd"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="Icon_awesome-hand-rock" data-name="Icon awesome-hand-rock" d="M10.982,3.384A1.134,1.134,0,0,0,9.829,4.518H9.64V3.781A1.149,1.149,0,0,0,8.524,2.628,1.134,1.134,0,0,0,7.371,3.762v.756H7.182V3.4A1.149,1.149,0,0,0,6.067,2.25,1.134,1.134,0,0,0,4.914,3.384V4.518H4.725V3.781A1.149,1.149,0,0,0,3.61,2.628,1.134,1.134,0,0,0,2.457,3.762V6.975l-.189-.168V5.671A1.149,1.149,0,0,0,1.153,4.518,1.134,1.134,0,0,0,0,5.652V7.221a2.274,2.274,0,0,0,.761,1.7L3.4,11.263a1.139,1.139,0,0,1,.38.848v.158a.566.566,0,0,0,.567.567h5.67a.566.566,0,0,0,.567-.567V12.2a2.3,2.3,0,0,1,.177-.881l1.158-2.748a2.258,2.258,0,0,0,.177-.881V4.537a1.147,1.147,0,0,0-1.115-1.153Z" transform="translate(107.973 291.622)" fill="#808495"/>
+    <g id="Group_1193" data-name="Group 1193" transform="translate(17.371 -44.643)">
+      <g id="Ellipse_12" data-name="Ellipse 12" transform="translate(177.629 798.642)" fill="#1e64cc" stroke="#0e58c7" stroke-width="1">
+        <circle cx="4" cy="4" r="4" stroke="none"/>
+        <circle cx="4" cy="4" r="3.5" fill="none"/>
+      </g>
+      <g id="Ellipse_13" data-name="Ellipse 13" transform="translate(191.629 798.642)" fill="none" stroke="#0e58c7" stroke-width="1">
+        <circle cx="4" cy="4" r="4" stroke="none"/>
+        <circle cx="4" cy="4" r="3.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Component_120_43" data-name="Component 120 – 43" transform="translate(0 780)">
+      <rect id="Rectangle_1927" data-name="Rectangle 1927" width="412" height="67" fill="#edf4fd"/>
+      <g id="Group_3224" data-name="Group 3224" transform="translate(-13.471 6.262)">
+        <g id="Group_3212" data-name="Group 3212" transform="translate(34.47 14.737)">
+          <text id="Back" transform="translate(19.06 18)" fill="#102646" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Back</tspan></text>
+          <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M14.033,14.264l6.109-6.1a1.154,1.154,0,0,0-1.634-1.629l-6.921,6.916a1.152,1.152,0,0,0-.034,1.591L18.5,22a1.154,1.154,0,1,0,1.634-1.629Z" transform="translate(-11.251 -3.193)" fill="#102646"/>
+        </g>
+      </g>
+      <g id="Group_3096" data-name="Group 3096" transform="translate(-14 -999)">
+        <text id="Submit" transform="translate(405 1038)" fill="#102646" font-size="20" font-family="ArialMT, Arial"><tspan x="-62.246" y="0">Submit</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

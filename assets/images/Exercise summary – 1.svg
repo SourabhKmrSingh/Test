@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1960" data-name="Rectangle 1960" width="56" height="139" transform="translate(0 0.329)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <filter id="Cirlce_Background" x="-31.5" y="283.5" width="477" height="457" filterUnits="userSpaceOnUse">
+      <feOffset dy="34" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="27.5" result="blur"/>
+      <feFlood flood-color="#282828" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Exercise_summary_1">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="Exercise_summary_1" data-name="Exercise summary – 1" clip-path="url(#clip-Exercise_summary_1)">
+    <rect width="412" height="847" fill="#edf4fd"/>
+    <g id="Background" transform="translate(-0.372)" style="isolation: isolate">
+      <path id="Mask" d="M0,0H414a0,0,0,0,1,0,0V390a34,34,0,0,1-34,34H34A34,34,0,0,1,0,390V0A0,0,0,0,1,0,0Z" transform="translate(0.372)" fill="#102646"/>
+      <g id="Group_3546" data-name="Group 3546" transform="translate(151.247 144.671)">
+        <g id="Group_2746" data-name="Group 2746" transform="translate(0 13.052)">
+          <g id="Ellipse_396" data-name="Ellipse 396" transform="translate(0.125 0.277)" fill="none" stroke="#78d944" stroke-width="6">
+            <circle cx="56" cy="56" r="56" stroke="none"/>
+            <circle cx="56" cy="56" r="53" fill="none"/>
+          </g>
+          <text id="_50_" data-name="50%" transform="translate(58.124 64.277)" fill="#fff" font-size="26" font-family="ArialMT, Arial"><tspan x="-26.019" y="0">50%</tspan></text>
+        </g>
+        <g id="Group_3531" data-name="Group 3531" transform="translate(56.124)">
+          <g id="Mask_Group_6" data-name="Mask Group 6" transform="translate(0)" clip-path="url(#clip-path)">
+            <g id="Ellipse_396-2" data-name="Ellipse 396" transform="translate(20.592 145.835) rotate(-150)" fill="none" stroke="#e9eff4" stroke-width="6">
+              <circle cx="56.258" cy="56.258" r="56.258" stroke="none"/>
+              <circle cx="56.258" cy="56.258" r="53.258" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Big_Card" data-name="Big Card" transform="translate(51 332)">
+      <g transform="matrix(1, 0, 0, 1, -51, -332)" filter="url(#Cirlce_Background)">
+        <rect id="Cirlce_Background-2" data-name="Cirlce Background" width="312" height="292" rx="16" transform="translate(51 332)" fill="#fff"/>
+      </g>
+      <g id="Group_3897" data-name="Group 3897" transform="translate(0 -151)">
+        <g id="Group_3898" data-name="Group 3898" transform="translate(0 108)">
+          <text id="Alexis_Balencesco" data-name="Alexis Balencesco" transform="translate(176 275)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">None</tspan></text>
+          <text id="Alexis_Balencesco-2" data-name="Alexis Balencesco" transform="translate(21 275)" fill="#2e5b9f" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Priority</tspan></text>
+        </g>
+        <g id="Group_3893" data-name="Group 3893" transform="translate(0 68)">
+          <text id="Alexis_Balencesco-3" data-name="Alexis Balencesco" transform="translate(176 275)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Everyday</tspan></text>
+          <text id="Alexis_Balencesco-4" data-name="Alexis Balencesco" transform="translate(21 275)" fill="#2e5b9f" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Pending task</tspan></text>
+        </g>
+        <g id="Group_3894" data-name="Group 3894" transform="translate(0 59)">
+          <text id="Alexis_Balencesco-5" data-name="Alexis Balencesco" transform="translate(175 244)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">60 days</tspan></text>
+          <text id="Alexis_Balencesco-6" data-name="Alexis Balencesco" transform="translate(21 244)" fill="#2e5b9f" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Goals -</tspan></text>
+        </g>
+        <g id="Group_3895" data-name="Group 3895" transform="translate(0 49)">
+          <text id="Alexis_Balencesco-7" data-name="Alexis Balencesco" transform="translate(175 214)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">12:00 pm</tspan></text>
+          <text id="Alexis_Balencesco-8" data-name="Alexis Balencesco" transform="translate(21 214)" fill="#2e5b9f" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Reminder - </tspan></text>
+        </g>
+        <g id="Group_3896" data-name="Group 3896" transform="translate(0 40)">
+          <text id="Alexis_Balencesco-9" data-name="Alexis Balencesco" transform="translate(175 183)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Everyday</tspan></text>
+          <text id="Alexis_Balencesco-10" data-name="Alexis Balencesco" transform="translate(21 183)" fill="#2e5b9f" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">How Long</tspan></text>
+        </g>
+        <g id="Group_3892" data-name="Group 3892" transform="translate(0 -122)">
+          <text id="Alexis_Balencesco-11" data-name="Alexis Balencesco" transform="translate(175 305)" fill="#2e5b9f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Value - 2 km / day</tspan></text>
+          <text id="Alexis_Balencesco-12" data-name="Alexis Balencesco" transform="translate(21 305)" fill="#2e5b9f" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Target -</tspan></text>
+        </g>
+      </g>
+    </g>
+    <text id="Alexis_Balencesco-13" data-name="Alexis Balencesco" transform="translate(206 95)" fill="#edf4fd" font-size="14" font-family="ArialMT, Arial"><tspan x="-36.688" y="0">Drink Water</tspan></text>
+    <text id="Alexis_Balencesco-14" data-name="Alexis Balencesco" transform="translate(206 128)" fill="#edf4fd" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-41.128" y="0">3ltr / day</tspan></text>
+    <text id="Alexis_Balencesco-15" data-name="Alexis Balencesco" transform="translate(206 42)" fill="#edf4fd" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-63.364" y="0">Habit Tracker</tspan></text>
+    <text id="Alexis_Balencesco-16" data-name="Alexis Balencesco" transform="translate(206 295)" fill="#edf4fd" font-size="14" font-family="ArialMT, Arial"><tspan x="-42.027" y="0">Task Pending</tspan></text>
+    <g id="CTA" transform="translate(51 770.936)">
+      <g id="Path_7" data-name="Path 7" transform="translate(0 -5)" fill="none">
+        <path d="M7.473,5H304.527C308.654,5,312,9,312,13.942v30.18c0,4.939-3.346,8.942-7.473,8.942H7.473c-4.127,0-7.473-4-7.473-8.942V13.942C0,9,3.346,5,7.473,5Z" stroke="none"/>
+        <path d="M 7.473052978515625 6.000007629394531 C 3.903778076171875 6.000007629394531 1 9.562839508056641 1 13.94217300415039 L 1 44.12208938598633 C 1 48.50142288208008 3.903778076171875 52.06425476074219 7.473052978515625 52.06425476074219 L 304.5269470214844 52.06425476074219 C 308.0962219238281 52.06425476074219 311 48.50142288208008 311 44.12208938598633 L 311 13.94217300415039 C 311 9.562839508056641 308.0962219238281 6.000007629394531 304.5269470214844 6.000007629394531 L 7.473052978515625 6.000007629394531 M 7.473052978515625 5.000007629394531 L 304.5269470214844 5.000007629394531 C 308.6542358398438 5.000007629394531 312 9.003547668457031 312 13.94217300415039 L 312 44.12208938598633 C 312 49.06071472167969 308.6542358398438 53.06425476074219 304.5269470214844 53.06425476074219 L 7.473052978515625 53.06425476074219 C 3.345794677734375 53.06425476074219 0 49.06071472167969 0 44.12208938598633 L 0 13.94217300415039 C 0 9.003547668457031 3.345794677734375 5.000007629394531 7.473052978515625 5.000007629394531 Z" stroke="none" fill="#2e5b9f"/>
+      </g>
+      <text id="Close" transform="translate(76 12.563)" fill="#2e5b9f" font-size="16" font-family="Lato-Regular, Lato"><tspan x="60.044" y="16">Close</tspan></text>
+    </g>
+  </g>
+</svg>

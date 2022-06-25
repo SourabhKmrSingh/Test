@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <clipPath id="clip-Home_32">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="Home_32" data-name="Home – 32" clip-path="url(#clip-Home_32)">
+    <rect id="Rectangle_1978" data-name="Rectangle 1978" width="412" height="847" fill="#151515" opacity="0.803"/>
+    <g id="Group_3563" data-name="Group 3563" transform="translate(0 -129)">
+      <g id="Big_Card" data-name="Big Card" transform="translate(51 302)">
+        <rect id="Cirlce_Background" data-name="Cirlce Background" width="369" height="437" rx="21" transform="translate(-29 32)" fill="#102646"/>
+        <g id="Group_2765" data-name="Group 2765" transform="translate(-23 -635)">
+          <text id="Low" transform="translate(65 814)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Low</tspan></text>
+          <g id="Path_8474" data-name="Path 8474" transform="translate(21 815)" fill="none">
+            <path d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" stroke="none"/>
+            <path d="M 10 2 C 5.588789939880371 2 2 5.588789939880371 2 10 C 2 14.41121006011963 5.588789939880371 18 10 18 C 14.41121006011963 18 18 14.41121006011963 18 10 C 18 5.588789939880371 14.41121006011963 2 10 2 M 10 0 C 15.52285003662109 0 20 4.477149963378906 20 10 C 20 15.52285003662109 15.52285003662109 20 10 20 C 4.477149963378906 20 0 15.52285003662109 0 10 C 0 4.477149963378906 4.477149963378906 0 10 0 Z" stroke="none" fill="#1e64cc"/>
+          </g>
+        </g>
+        <g id="Group_3573" data-name="Group 3573" transform="translate(-23 -584)">
+          <text id="Normal" transform="translate(65 814)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Normal</tspan></text>
+          <g id="Path_8474-2" data-name="Path 8474" transform="translate(21 815)" fill="none">
+            <path d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" stroke="none"/>
+            <path d="M 10 2 C 5.588789939880371 2 2 5.588789939880371 2 10 C 2 14.41121006011963 5.588789939880371 18 10 18 C 14.41121006011963 18 18 14.41121006011963 18 10 C 18 5.588789939880371 14.41121006011963 2 10 2 M 10 0 C 15.52285003662109 0 20 4.477149963378906 20 10 C 20 15.52285003662109 15.52285003662109 20 10 20 C 4.477149963378906 20 0 15.52285003662109 0 10 C 0 4.477149963378906 4.477149963378906 0 10 0 Z" stroke="none" fill="#1e64cc"/>
+          </g>
+        </g>
+        <g id="Group_3574" data-name="Group 3574" transform="translate(-23 -533)">
+          <text id="High" transform="translate(65 814)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">High</tspan></text>
+          <g id="Path_8474-3" data-name="Path 8474" transform="translate(21 815)" fill="none">
+            <path d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" stroke="none"/>
+            <path d="M 10 2 C 5.588789939880371 2 2 5.588789939880371 2 10 C 2 14.41121006011963 5.588789939880371 18 10 18 C 14.41121006011963 18 18 14.41121006011963 18 10 C 18 5.588789939880371 14.41121006011963 2 10 2 M 10 0 C 15.52285003662109 0 20 4.477149963378906 20 10 C 20 15.52285003662109 15.52285003662109 20 10 20 C 4.477149963378906 20 0 15.52285003662109 0 10 C 0 4.477149963378906 4.477149963378906 0 10 0 Z" stroke="none" fill="#1e64cc"/>
+          </g>
+        </g>
+        <g id="Group_3572" data-name="Group 3572" transform="translate(-23 -686)">
+          <text id="None" transform="translate(65 814)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">None</tspan></text>
+          <g id="Ellipse_432" data-name="Ellipse 432" transform="translate(21 815)" fill="#fff" stroke="#1e64cc" stroke-width="7">
+            <circle cx="10" cy="10" r="10" stroke="none"/>
+            <circle cx="10" cy="10" r="6.5" fill="none"/>
+          </g>
+        </g>
+        <text id="Priority" transform="translate(-2 54)" fill="#fff" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="22">Priority</tspan></text>
+        <path id="Icon_ionic-md-close" data-name="Icon ionic-md-close" d="M28.377,9.609,26.292,7.523,17.95,15.865,9.609,7.523,7.523,9.609l8.342,8.342L7.523,26.292l2.085,2.085,8.342-8.342,8.342,8.342,2.085-2.085L20.035,17.95Z" transform="translate(288.184 48.309)" fill="#808495"/>
+        <g id="Symbol_123_6" data-name="Symbol 123 – 6" transform="translate(168.006 387)">
+          <rect id="Rectangle_150" data-name="Rectangle 150" width="120" height="40" rx="5" transform="translate(-0.007)" fill="#ff9241"/>
+          <text id="SHARE" transform="translate(59.994 24)" fill="#fff" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-26.831" y="0">Confirm</tspan></text>
+        </g>
+        <g id="Symbol_124_2" data-name="Symbol 124 – 2" transform="translate(17.994 387)">
+          <g id="Rectangle_151" data-name="Rectangle 151" transform="translate(0.007)" fill="none" stroke="#fff" stroke-width="1">
+            <rect width="120" height="40" rx="5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="119" height="39" rx="4.5" fill="none"/>
+          </g>
+          <text id="SKIP" transform="translate(60.006 24)" fill="#fff" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-22.955" y="0">Cancel</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="1005" viewBox="0 0 412 1005">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aadd"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <filter id="Rectangle_1570" x="-24" y="135" width="460" height="786" filterUnits="userSpaceOnUse">
+      <feOffset dy="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect y="-6" width="331.5" height="380" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="331.5" height="990" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-De-addiction_Session_4">
+      <rect width="412" height="1005"/>
+    </clipPath>
+  </defs>
+  <g id="De-addiction_Session_4" data-name="De-addiction Session 4" clip-path="url(#clip-De-addiction_Session_4)">
+    <rect width="412" height="1005" fill="url(#linear-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1570)">
+      <path id="Rectangle_1570-2" data-name="Rectangle 1570" d="M30,0H382a30,30,0,0,1,30,30V738a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V30A30,30,0,0,1,30,0Z" transform="translate(0 162)" fill="#102646"/>
+    </g>
+    <text id="So_the_first_step_in_this_exercise_is_to_identify_certain_trigger_points_which_makes_crave_for_the_substance_or_situations_which_may_tip_the_balance_towards_the_substance_that_you_were_taking." data-name="So, the first step in this exercise is to identify certain trigger points which makes crave for the substance or situations which may tip the balance towards the substance that you were taking." transform="translate(21 193)" fill="#fff" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="16">So, the first step in this exercise is to identify </tspan><tspan x="0" y="46">certain trigger points which makes crave for </tspan><tspan x="0" y="76">the substance or situations which may tip the </tspan><tspan x="0" y="106">balance towards the substance that you were </tspan><tspan x="0" y="136">taking.</tspan></text>
+    <g id="Scroll_Group_12" data-name="Scroll Group 12" transform="translate(21 454)" clip-path="url(#clip-path)" style="isolation: isolate">
+      <g id="Repeat_Grid_17" data-name="Repeat Grid 17" clip-path="url(#clip-path-2)">
+        <g id="Group_3381" data-name="Group 3381" transform="translate(-38 -269)">
+          <g id="Group_3473" data-name="Group 3473">
+            <text id="Mood_States" data-name="Mood States" transform="translate(80 270)" fill="#edf4fd" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Mood States</tspan></text>
+            <g id="Group_2762" data-name="Group 2762" transform="translate(27 -503)">
+              <text id="Select_Mood" data-name="Select Mood" transform="translate(55 806)" fill="#8eb1e5" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Select Mood</tspan></text>
+            </g>
+            <g id="Rectangle_1846" data-name="Rectangle 1846" transform="translate(40 272)" fill="none" stroke="#fff" stroke-width="2">
+              <rect width="24" height="24" rx="5" stroke="none"/>
+              <rect x="1" y="1" width="22" height="22" rx="4" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_3381-2" data-name="Group 3381" transform="translate(-38 -184)">
+          <g id="Group_3473-2" data-name="Group 3473">
+            <text id="Pain" transform="translate(80 270)" fill="#edf4fd" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Pain</tspan></text>
+            <g id="Group_2762-2" data-name="Group 2762" transform="translate(27 -503)">
+              <text id="Write_short_note" data-name="Write short note" transform="translate(55 806)" fill="#8eb1e5" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Write short note</tspan></text>
+            </g>
+            <g id="Rectangle_1846-2" data-name="Rectangle 1846" transform="translate(40 272)" fill="none" stroke="#fff" stroke-width="2">
+              <rect width="24" height="24" rx="5" stroke="none"/>
+              <rect x="1" y="1" width="22" height="22" rx="4" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_3381-3" data-name="Group 3381" transform="translate(-38 -99)">
+          <g id="Group_3473-3" data-name="Group 3473">
+            <text id="Grief" transform="translate(80 270)" fill="#edf4fd" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Grief</tspan></text>
+            <g id="Group_2762-3" data-name="Group 2762" transform="translate(27 -503)">
+              <text id="Write_short_note-2" data-name="Write short note" transform="translate(55 806)" fill="#8eb1e5" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Write short note</tspan></text>
+            </g>
+            <g id="Rectangle_1846-3" data-name="Rectangle 1846" transform="translate(40 272)" fill="none" stroke="#fff" stroke-width="2">
+              <rect width="24" height="24" rx="5" stroke="none"/>
+              <rect x="1" y="1" width="22" height="22" rx="4" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_3381-4" data-name="Group 3381" transform="translate(-38 -14)">
+          <g id="Group_3473-4" data-name="Group 3473">
+            <text id="Chat_rooms" data-name="Chat rooms" transform="translate(80 270)" fill="#edf4fd" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Chat rooms</tspan></text>
+            <g id="Group_2762-4" data-name="Group 2762" transform="translate(27 -503)">
+              <text id="Write_short_note-3" data-name="Write short note" transform="translate(55 806)" fill="#8eb1e5" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Write short note</tspan></text>
+            </g>
+            <g id="Rectangle_1846-4" data-name="Rectangle 1846" transform="translate(40 272)" fill="none" stroke="#fff" stroke-width="2">
+              <rect width="24" height="24" rx="5" stroke="none"/>
+              <rect x="1" y="1" width="22" height="22" rx="4" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_3381-5" data-name="Group 3381" transform="translate(-38 71)">
+          <g id="Group_3473-5" data-name="Group 3473">
+            <text id="Discussion_Lists" data-name="Discussion Lists" transform="translate(80 270)" fill="#edf4fd" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Discussion Lists</tspan></text>
+            <g id="Group_2762-5" data-name="Group 2762" transform="translate(27 -503)">
+              <text id="Write_short_note-4" data-name="Write short note" transform="translate(55 806)" fill="#8eb1e5" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Write short note</tspan></text>
+            </g>
+            <g id="Rectangle_1846-5" data-name="Rectangle 1846" transform="translate(40 272)" fill="none" stroke="#fff" stroke-width="2">
+              <rect width="24" height="24" rx="5" stroke="none"/>
+              <rect x="1" y="1" width="22" height="22" rx="4" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_3381-6" data-name="Group 3381" transform="translate(-38 156)">
+          <g id="Group_3473-6" data-name="Group 3473">
+            <text id="Instant_Messaging" data-name="Instant Messaging" transform="translate(80 270)" fill="#edf4fd" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Instant Messaging</tspan></text>
+            <g id="Group_2762-6" data-name="Group 2762" transform="translate(27 -503)">
+              <text id="Write_short_note-5" data-name="Write short note" transform="translate(55 806)" fill="#8eb1e5" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Write short note</tspan></text>
+            </g>
+            <g id="Rectangle_1846-6" data-name="Rectangle 1846" transform="translate(40 272)" fill="none" stroke="#fff" stroke-width="2">
+              <rect width="24" height="24" rx="5" stroke="none"/>
+              <rect x="1" y="1" width="22" height="22" rx="4" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_3381-7" data-name="Group 3381" transform="translate(-38 241)">
+          <g id="Group_3473-7" data-name="Group 3473">
+            <text id="News_Sites" data-name="News Sites" transform="translate(80 270)" fill="#edf4fd" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">News Sites</tspan></text>
+            <g id="Group_2762-7" data-name="Group 2762" transform="translate(27 -503)">
+              <text id="Write_short_note-6" data-name="Write short note" transform="translate(55 806)" fill="#8eb1e5" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Write short note</tspan></text>
+            </g>
+            <g id="Rectangle_1846-7" data-name="Rectangle 1846" transform="translate(40 272)" fill="none" stroke="#fff" stroke-width="2">
+              <rect width="24" height="24" rx="5" stroke="none"/>
+              <rect x="1" y="1" width="22" height="22" rx="4" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_3381-8" data-name="Group 3381" transform="translate(-38 326)">
+          <g id="Group_3473-8" data-name="Group 3473">
+            <text id="News_Sites-2" data-name="News Sites" transform="translate(80 270)" fill="#edf4fd" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">News Sites</tspan></text>
+            <g id="Group_2762-8" data-name="Group 2762" transform="translate(27 -503)">
+              <text id="Write_short_note-7" data-name="Write short note" transform="translate(55 806)" fill="#8eb1e5" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Write short note</tspan></text>
+            </g>
+            <g id="Rectangle_1846-8" data-name="Rectangle 1846" transform="translate(40 272)" fill="none" stroke="#fff" stroke-width="2">
+              <rect width="24" height="24" rx="5" stroke="none"/>
+              <rect x="1" y="1" width="22" height="22" rx="4" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_3381-9" data-name="Group 3381" transform="translate(-38 411)">
+          <g id="Group_3473-9" data-name="Group 3473">
+            <text id="News_Sites-3" data-name="News Sites" transform="translate(80 270)" fill="#edf4fd" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">News Sites</tspan></text>
+            <g id="Group_2762-9" data-name="Group 2762" transform="translate(27 -503)">
+              <text id="Write_short_note-8" data-name="Write short note" transform="translate(55 806)" fill="#8eb1e5" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Write short note</tspan></text>
+            </g>
+            <g id="Rectangle_1846-9" data-name="Rectangle 1846" transform="translate(40 272)" fill="none" stroke="#fff" stroke-width="2">
+              <rect width="24" height="24" rx="5" stroke="none"/>
+              <rect x="1" y="1" width="22" height="22" rx="4" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_3381-10" data-name="Group 3381" transform="translate(-38 496)">
+          <g id="Group_3473-10" data-name="Group 3473">
+            <text id="News_Sites-4" data-name="News Sites" transform="translate(80 270)" fill="#edf4fd" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">News Sites</tspan></text>
+            <g id="Group_2762-10" data-name="Group 2762" transform="translate(27 -503)">
+              <text id="Write_short_note-9" data-name="Write short note" transform="translate(55 806)" fill="#8eb1e5" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Write short note</tspan></text>
+            </g>
+            <g id="Rectangle_1846-10" data-name="Rectangle 1846" transform="translate(40 272)" fill="none" stroke="#fff" stroke-width="2">
+              <rect width="24" height="24" rx="5" stroke="none"/>
+              <rect x="1" y="1" width="22" height="22" rx="4" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_3381-11" data-name="Group 3381" transform="translate(-38 581)">
+          <g id="Group_3473-11" data-name="Group 3473">
+            <text id="News_Sites-5" data-name="News Sites" transform="translate(80 270)" fill="#edf4fd" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">News Sites</tspan></text>
+            <g id="Group_2762-11" data-name="Group 2762" transform="translate(27 -503)">
+              <text id="Write_short_note-10" data-name="Write short note" transform="translate(55 806)" fill="#8eb1e5" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Write short note</tspan></text>
+            </g>
+            <g id="Rectangle_1846-11" data-name="Rectangle 1846" transform="translate(40 272)" fill="none" stroke="#fff" stroke-width="2">
+              <rect width="24" height="24" rx="5" stroke="none"/>
+              <rect x="1" y="1" width="22" height="22" rx="4" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_3381-12" data-name="Group 3381" transform="translate(-38 666)">
+          <g id="Group_3473-12" data-name="Group 3473">
+            <text id="News_Sites-6" data-name="News Sites" transform="translate(80 270)" fill="#edf4fd" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">News Sites</tspan></text>
+            <g id="Group_2762-12" data-name="Group 2762" transform="translate(27 -503)">
+              <text id="Write_short_note-11" data-name="Write short note" transform="translate(55 806)" fill="#8eb1e5" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Write short note</tspan></text>
+            </g>
+            <g id="Rectangle_1846-12" data-name="Rectangle 1846" transform="translate(40 272)" fill="none" stroke="#fff" stroke-width="2">
+              <rect width="24" height="24" rx="5" stroke="none"/>
+              <rect x="1" y="1" width="22" height="22" rx="4" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="Session_4_Identification_of_Risk_situations" data-name="Session 4
+Identification of Risk situations" transform="translate(21 26)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Session 4</tspan><tspan font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="49">Identification of Risk </tspan><tspan x="0" y="84">situations</tspan></tspan></text>
+    <text id="Possible_examples" data-name="Possible examples" transform="translate(21 410)" fill="#8eb1e5" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Possible examples</tspan></text>
+    <g id="Group_3234" data-name="Group 3234" transform="translate(4.012 -10.262)">
+      <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M15.217,17.7,23.926,9A1.645,1.645,0,1,0,21.6,6.674l-9.867,9.86a1.642,1.642,0,0,0-.048,2.268l9.908,9.929a1.645,1.645,0,0,0,2.33-2.323Z" transform="translate(362.579 30.069)" fill="#fff"/>
+      <path id="Icon_ionic-ios-arrow-back-2" data-name="Icon ionic-ios-arrow-back" d="M3.967,11.506l8.709-8.7A1.645,1.645,0,1,0,10.346.481L.479,10.341a1.642,1.642,0,0,0-.048,2.268l9.908,9.929a1.645,1.645,0,1,0,2.33-2.323Z" transform="translate(377.472 59.28) rotate(180)" fill="#fff"/>
+    </g>
+    <g id="Component_119_329" data-name="Component 119 – 329" transform="translate(0 779.278)">
+      <rect id="Rectangle_1927" data-name="Rectangle 1927" width="412" height="67" transform="translate(0 0.722)" fill="#102646"/>
+      <path id="Path_4714" data-name="Path 4714" d="M1053,4508.186h411.151" transform="translate(-1053 -4508.186)" fill="none" stroke="#fff" stroke-width="2" opacity="0.206"/>
+      <g id="Group_3096" data-name="Group 3096" transform="translate(-3 -997.186)">
+        <text id="Next" transform="translate(318 1038)" fill="#f2f5f7" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Next</tspan></text>
+        <path id="Icon_ionic-ios-arrow-back-3" data-name="Icon ionic-ios-arrow-back" d="M14.033,14.264l6.109-6.1a1.154,1.154,0,0,0-1.634-1.629l-6.921,6.916a1.152,1.152,0,0,0-.034,1.591L18.5,22a1.154,1.154,0,1,0,1.634-1.629Z" transform="translate(389.251 1046.266) rotate(180)" fill="#f2f5f7"/>
+      </g>
+      <g id="Group_3224" data-name="Group 3224" transform="translate(2.529 7.076)">
+        <g id="Group_3212" data-name="Group 3212" transform="translate(34.47 14.737)">
+          <text id="Back" transform="translate(19.06 18)" fill="#fff" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Back</tspan></text>
+          <path id="Icon_ionic-ios-arrow-back-4" data-name="Icon ionic-ios-arrow-back" d="M14.033,14.264l6.109-6.1a1.154,1.154,0,0,0-1.634-1.629l-6.921,6.916a1.152,1.152,0,0,0-.034,1.591L18.5,22a1.154,1.154,0,1,0,1.634-1.629Z" transform="translate(-11.251 -3.193)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

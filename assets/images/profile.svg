@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="38.512" viewBox="0 0 34 38.512">
+  <g id="Group_2696" data-name="Group 2696" transform="translate(-0.269)">
+    <path id="Icon_awesome-user" data-name="Icon awesome-user" d="M7.262,8.3A4.149,4.149,0,1,0,3.112,4.149,4.149,4.149,0,0,0,7.262,8.3Zm2.9,1.037H9.625a5.643,5.643,0,0,1-4.727,0H4.357A4.358,4.358,0,0,0,0,13.693v1.349A1.556,1.556,0,0,0,1.556,16.6H12.967a1.556,1.556,0,0,0,1.556-1.556V13.693A4.358,4.358,0,0,0,10.166,9.336Z" transform="translate(10.044)" fill="#fff"/>
+    <text id="Profile" transform="translate(17.269 35.512)" fill="#fff" font-size="12" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-16" y="0">Profile</tspan></text>
+  </g>
+</svg>

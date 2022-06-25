@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="1101" viewBox="0 0 412 1101">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aadd"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <filter id="Rectangle_1534" x="-9" y="775" width="430" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-CBT_S8_E2_2">
+      <rect width="412" height="1101"/>
+    </clipPath>
+  </defs>
+  <g id="CBT_S8_E2_2" data-name="CBT /  S8 / E2– 2" clip-path="url(#clip-CBT_S8_E2_2)">
+    <rect width="412" height="1101" fill="#102646"/>
+    <rect id="Rectangle_1845" data-name="Rectangle 1845" width="371" height="338" rx="6" transform="translate(20 518)" fill="#153669"/>
+    <circle id="Ellipse_701" data-name="Ellipse 701" cx="114" cy="114" r="114" transform="translate(-49 -100)" fill="url(#linear-gradient)"/>
+    <text id="How_it_works_and_how_to_find_it" data-name="How it works and how to find it" transform="translate(21 31)" fill="#fff" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="22">How it works and how to find it</tspan></text>
+    <text id="Example" transform="translate(75 560)" fill="#8eb1e5" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Example</tspan></text>
+    <text id="When_we_are_in_sad_state_of_mind_we_start_to_make_undue_comparison_with_other_people_and_everywhere_we_look_we_find_happiness_except_in_our_mind._Read_more_So_what_we_are_going_to_do_is_a_thought_experiment._We_will_compare_yourself_to_your_past_and_to_t" data-name="When we are in sad state of mind, we start to make undue comparison with other people and everywhere we look, we find happiness except in our mind. Read more So what we are going to do is a thought experiment. We will compare yourself to your past and to t" transform="translate(23 236)" fill="#fff" font-size="18" font-family="ArialMT, Arial" letter-spacing="0.02em"><tspan x="0" y="16">When we are in sad state of mind, we start </tspan><tspan x="0" y="51">to make undue comparison with other </tspan><tspan x="0" y="86">people and everywhere we look, we find </tspan><tspan x="0" y="121">happiness except in our mind. </tspan><tspan y="121" font-family="Arial-BoldMT, Arial" font-weight="700">Read more</tspan><tspan y="121"> </tspan></text>
+    <text id="Try_and_be_at_least_1_better_than_yourself_from_yesterday._Make_targets_according_to_your_own_capability." data-name="Try and be at least 1% better than yourself from yesterday. Make targets according to your own capability." transform="translate(23 400)" fill="#fff" font-size="18" font-family="ArialMT, Arial" letter-spacing="0.02em"><tspan x="0" y="16">Try and be at least 1% better than yourself </tspan><tspan x="0" y="51">from yesterday. Make targets according to </tspan><tspan x="0" y="86">your own capability.</tspan></text>
+    <text id="Why_we_are_doing_it_" data-name="Why we are doing it?" transform="translate(23 182)" fill="#fff" font-size="26" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="24">Why we are doing it?</tspan></text>
+    <g id="Group_3637" data-name="Group 3637" transform="translate(20.403 106)">
+      <text id="Your_current_position_your_current_life" data-name="Your current position/your current life" transform="translate(20.597 489)" fill="#fff" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Your current position/your current life</tspan></text>
+      <text id="Comparison_of_your_own_self_from_past_" data-name="Comparison of your own self from past " transform="translate(20.597 569)" fill="#fff" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Comparison of your own self from past </tspan></text>
+      <text id="Comparison_from_your_imaginary_ideal_self_" data-name="Comparison from your imaginary ideal self " transform="translate(20.597 649)" fill="#fff" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="14">Comparison from your imaginary ideal self </tspan></text>
+      <text id="I_am_unhappy_" data-name="I am unhappy " transform="translate(20.597 521)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">I am unhappy </tspan></text>
+      <text id="I_am_unhappy_2" data-name="I am unhappy " transform="translate(20.597 601)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">I am unhappy </tspan></text>
+      <text id="I_am_unhappy_3" data-name="I am unhappy " transform="translate(20.597 681)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">I am unhappy </tspan></text>
+    </g>
+    <g id="Group_3639" data-name="Group 3639" transform="translate(7.309 5.309)">
+      <circle id="Ellipse_705" data-name="Ellipse 705" cx="12" cy="12" r="12" transform="translate(33.691 536.691)" fill="#edf4fd"/>
+      <g id="Group_3638" data-name="Group 3638" transform="translate(39.284 541.152)">
+        <path id="Icon_material-highlight" data-name="Icon material-highlight" d="M7.135,8.277ZM10.9,3h1.508V5.262H10.9ZM5.25,5.921,6.316,4.855l1.6,1.6L6.848,7.521ZM15.4,6.456l1.6-1.6,1.066,1.066-1.6,1.6Z" transform="translate(-5.25 -3)" fill="#1e64cc"/>
+        <path id="Icon_material-lightbulb-outline" data-name="Icon material-lightbulb-outline" d="M9.582,12.889a.522.522,0,0,0,.52.52h2.082a.522.522,0,0,0,.52-.52v-.52H9.582ZM11.143,3A3.642,3.642,0,0,0,9.061,9.631v1.176a.522.522,0,0,0,.52.52H12.7a.522.522,0,0,0,.52-.52V9.631A3.642,3.642,0,0,0,11.143,3Zm1.483,5.777-.442.312v1.2H10.1V9.09L9.66,8.777a2.6,2.6,0,1,1,2.967,0Z" transform="translate(-4.737 1.667)" fill="#1e64cc"/>
+      </g>
+    </g>
+    <g id="Component_119_282" data-name="Component 119 – 282" transform="translate(0 787)">
+      <g transform="matrix(1, 0, 0, 1, 0, -787)" filter="url(#Rectangle_1534)">
+        <rect id="Rectangle_1534-2" data-name="Rectangle 1534" width="412" height="60" transform="translate(0 787)" fill="#102646"/>
+      </g>
+      <g id="Group_2755" data-name="Group 2755" transform="translate(0 -779)">
+        <g id="Rectangle_1564" data-name="Rectangle 1564" transform="translate(12 789)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+          <rect width="50" height="45" stroke="none"/>
+          <rect x="0.5" y="0.5" width="49" height="44" fill="none"/>
+        </g>
+        <path id="Path_4565" data-name="Path 4565" d="M35.606,24.011l-7.368-7.1,7.368-7.1a1.37,1.37,0,0,0,.424-.982,1.4,1.4,0,0,0-.4-1,1.369,1.369,0,0,0-.982-.424h-.022a1.385,1.385,0,0,0-.982.4l-8.417,8.1a1.42,1.42,0,0,0-.424,1,1.382,1.382,0,0,0,.424,1l8.439,8.1a1.443,1.443,0,0,0,.982.4,1.42,1.42,0,0,0,1-.424,1.4,1.4,0,0,0,.4-1A1.274,1.274,0,0,0,35.606,24.011Z" transform="translate(5.036 792.435)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

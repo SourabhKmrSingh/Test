@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aadd"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <filter id="Rectangle_1570" x="-24" y="84" width="460" height="786" filterUnits="userSpaceOnUse">
+      <feOffset dy="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Edit_Addiction_6">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="Edit_Addiction_6" data-name="Edit Addiction 6" clip-path="url(#clip-Edit_Addiction_6)">
+    <rect width="412" height="847" fill="url(#linear-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1570)">
+      <path id="Rectangle_1570-2" data-name="Rectangle 1570" d="M30,0H382a30,30,0,0,1,30,30V738a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V30A30,30,0,0,1,30,0Z" transform="translate(0 111)" fill="#102646"/>
+    </g>
+    <g id="Group_3380" data-name="Group 3380">
+      <path id="Path_4714" data-name="Path 4714" d="M1053,4508.186h411.151" transform="translate(-1053 -3729)" fill="none" stroke="#fff" stroke-width="2" opacity="0.206"/>
+      <g id="Group_3096" data-name="Group 3096" transform="translate(-15 -218)">
+        <text id="Next" transform="translate(310 1038)" fill="#f2f5f7" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">Next</tspan></text>
+        <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M14.033,14.264l6.109-6.1a1.154,1.154,0,0,0-1.634-1.629l-6.921,6.916a1.152,1.152,0,0,0-.034,1.591L18.5,22a1.154,1.154,0,1,0,1.634-1.629Z" transform="translate(389.251 1046.266) rotate(180)" fill="#f2f5f7"/>
+      </g>
+      <g id="Group_3224" data-name="Group 3224" transform="translate(0 786.262)">
+        <g id="Group_3212" data-name="Group 3212" transform="translate(34.47 14.737)">
+          <text id="Back" transform="translate(19.06 18)" fill="#fff" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Back</tspan></text>
+          <path id="Icon_ionic-ios-arrow-back-2" data-name="Icon ionic-ios-arrow-back" d="M14.033,14.264l6.109-6.1a1.154,1.154,0,0,0-1.634-1.629l-6.921,6.916a1.152,1.152,0,0,0-.034,1.591L18.5,22a1.154,1.154,0,1,0,1.634-1.629Z" transform="translate(-11.251 -3.193)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <text id="De-addiction_Reduce_liquor" data-name="De-addiction
+Reduce liquor" transform="translate(58 26)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">De-addiction</tspan><tspan font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="49">Reduce liquor</tspan></tspan></text>
+    <text id="Save" transform="translate(382 76)" fill="#fff" font-size="24" font-family="ArialMT, Arial"><tspan x="-54.703" y="0">Save</tspan></text>
+    <g id="Group_2755" data-name="Group 2755" transform="translate(-1 -767)">
+      <g id="Rectangle_1564" data-name="Rectangle 1564" transform="translate(12 789)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+        <rect width="50" height="45" stroke="none"/>
+        <rect x="0.5" y="0.5" width="49" height="44" fill="none"/>
+      </g>
+      <path id="Path_4565" data-name="Path 4565" d="M35.606,24.011l-7.368-7.1,7.368-7.1a1.37,1.37,0,0,0,.424-.982,1.4,1.4,0,0,0-.4-1,1.369,1.369,0,0,0-.982-.424h-.022a1.385,1.385,0,0,0-.982.4l-8.417,8.1a1.42,1.42,0,0,0-.424,1,1.382,1.382,0,0,0,.424,1l8.439,8.1a1.443,1.443,0,0,0,.982.4,1.42,1.42,0,0,0,1-.424,1.4,1.4,0,0,0,.4-1A1.274,1.274,0,0,0,35.606,24.011Z" transform="translate(5.036 792.435)" fill="#fff"/>
+    </g>
+    <text id="Potential_roadblocks_to_this_plan._Example_a_friend_who_always_pushes_you_towards_substance_or_there_are_some_situations_in_your_family_or_it_may_be_emotions" data-name="Potential roadblocks to this plan.
+
+Example
+a friend who always pushes you towards substance or there are some situations in your family, or it may be emotions" transform="translate(21.197 261)" fill="#fff" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="16">Potential roadblocks to this plan.</tspan><tspan x="0" y="41"></tspan><tspan fill="#8eb1e5" font-size="14"><tspan x="0" y="66">Example</tspan></tspan><tspan font-size="14"><tspan x="0" y="91">a friend who always pushes you towards substance or </tspan><tspan x="0" y="116">there are some situations in your family, or it may be </tspan><tspan x="0" y="141">emotions</tspan></tspan></text>
+    <g id="Component_120_14" data-name="Component 120 – 14" transform="translate(21 436)">
+      <rect id="Rectangle_1845" data-name="Rectangle 1845" width="370" height="143" rx="7" fill="#edf4fd"/>
+      <g id="Group_3869" data-name="Group 3869" transform="translate(-7373 -10297.999)">
+        <rect id="Rectangle_1708" data-name="Rectangle 1708" width="223" height="5" rx="2.5" transform="translate(7459 10411)" fill="#dce9f5"/>
+        <rect id="Rectangle_1709" data-name="Rectangle 1709" width="223" height="5" rx="2.5" transform="translate(7405 10411)" fill="#1e64cc"/>
+        <g id="Group_3077" data-name="Group 3077" transform="translate(7083.266 9734.266)">
+          <circle id="Ellipse_550" data-name="Ellipse 550" cx="17.5" cy="17.5" r="17.5" transform="translate(304.734 660.733)" fill="#dbecff" opacity="0.354"/>
+          <circle id="Ellipse_430" data-name="Ellipse 430" cx="15.5" cy="15.5" r="15.5" transform="translate(306.734 662.734)" fill="#fff"/>
+          <path id="Icon_awesome-play" data-name="Icon awesome-play" d="M10.549,5.338,1.8.166A1.187,1.187,0,0,0,0,1.192V11.535a1.192,1.192,0,0,0,1.8,1.027l8.75-5.17A1.192,1.192,0,0,0,10.549,5.338Z" transform="translate(317.65 671.753)" fill="#0e58c7"/>
+        </g>
+        <g id="Group_3858" data-name="Group 3858" transform="translate(7348.595 10369.736)">
+          <path id="Icon_ionic-ios-arrow-back-3" data-name="Icon ionic-ios-arrow-back" d="M13.313,12.176l4.528-4.525A.855.855,0,1,0,16.63,6.444L11.5,11.571a.854.854,0,0,0-.025,1.179l5.152,5.163A.855.855,0,1,0,17.838,16.7Z" transform="translate(358.011 30.069)" fill="#8eb1e5"/>
+          <path id="Icon_ionic-ios-arrow-back-4" data-name="Icon ionic-ios-arrow-back" d="M2.063,5.983,6.591,1.458A.855.855,0,1,0,5.38.25L.249,5.377A.854.854,0,0,0,.224,6.556l5.152,5.163a.855.855,0,0,0,1.211-1.208Z" transform="translate(371.156 48.231) rotate(180)" fill="#8eb1e5"/>
+        </g>
+      </g>
+      <path id="Path_9503" data-name="Path 9503" d="M1053,4508.186h348" transform="translate(-1042 -4421.186)" fill="none" stroke="#8eb1e5" stroke-width="1" opacity="0"/>
+      <text id="It_means_that_you_probably_have_craving_and_when_you_start_to_use_the_drug_you_either_take_larger_amount_than_you_intended_before_starting" data-name="It means that you probably have craving and when you start to use the drug you either take larger amount than you intended before starting" transform="translate(15 11)" fill="#254069" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">It means that you probably have craving and when </tspan><tspan x="0" y="33">you start to use the drug you either take larger </tspan><tspan x="0" y="53">amount than you intended before starting</tspan></text>
+    </g>
+    <g id="Group_3386" data-name="Group 3386" transform="translate(17 31)">
+      <g id="Ellipse_640" data-name="Ellipse 640" transform="translate(164 572)" fill="#102646" stroke="#edf4fd" stroke-width="1">
+        <circle cx="25" cy="25" r="25" stroke="none"/>
+        <circle cx="25" cy="25" r="24.5" fill="none"/>
+      </g>
+      <path id="Path_6724" data-name="Path 6724" d="M14.131-5.462V-15.18H11.114v9.718H1.44v3.017h9.674V7.273h3.017V-2.445H23.8V-5.462Z" transform="translate(176.379 600.953)" fill="#edf4fd"/>
+    </g>
+  </g>
+</svg>

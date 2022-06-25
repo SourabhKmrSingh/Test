@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "160758509744",
+    "project_id": "zenquip2-345e7",
+    "storage_bucket": "zenquip2-345e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160758509744:android:a2cc5625d94e0caee74b75",
+        "android_client_info": {
+          "package_name": "com.zenquip.NewReactNative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160758509744-prff1vd4q6c8neueh0j7numlk0mkc03a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zenquip.NewReactNative",
+            "certificate_hash": "9f978f824fc579e3b474280e6b4fd36df0cf461c"
+          }
+        },
+        {
+          "client_id": "160758509744-b4oatk50n4gr151jjfrp7hfgfkqmgrgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk4ZGX6Y1MWE1iQtr69kvaNKD2mKK_dCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160758509744-b4oatk50n4gr151jjfrp7hfgfkqmgrgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="847" viewBox="0 0 412 847">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aadd"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <filter id="Rectangle_1570" x="-24" y="84" width="460" height="786" filterUnits="userSpaceOnUse">
+      <feOffset dy="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Pros_and_cons_11">
+      <rect width="412" height="847"/>
+    </clipPath>
+  </defs>
+  <g id="Pros_and_cons_11" data-name="Pros and cons – 11" clip-path="url(#clip-Pros_and_cons_11)">
+    <rect width="412" height="847" fill="url(#linear-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1570)">
+      <path id="Rectangle_1570-2" data-name="Rectangle 1570" d="M30,0H382a30,30,0,0,1,30,30V738a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V30A30,30,0,0,1,30,0Z" transform="translate(0 111)" fill="#102646"/>
+    </g>
+    <text id="Copy_invite_link" data-name="Copy invite link" transform="translate(21 142)" fill="#fff" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="16">Copy invite link</tspan></text>
+    <text id="Share_invite_link" data-name="Share invite link" transform="translate(21 287)" fill="#fff" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="16">Share invite link</tspan></text>
+    <g id="Group_3380" data-name="Group 3380">
+      <path id="Path_4714" data-name="Path 4714" d="M1053,4508.186h411.151" transform="translate(-1052.5 -3729)" fill="none" stroke="#fff" stroke-width="2" opacity="0.206"/>
+      <g id="Group_3224" data-name="Group 3224" transform="translate(128.47 786.262)">
+        <g id="Group_3212" data-name="Group 3212" transform="translate(34.47 14.737)">
+          <text id="Close" transform="translate(19.06 18)" fill="#fff" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Close</tspan></text>
+        </g>
+      </g>
+    </g>
+    <text id="Session_3_Invite_Guardian" data-name="Session 3
+Invite Guardian" transform="translate(21 26)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="14">Session 3</tspan><tspan font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="49">Invite Guardian</tspan></tspan></text>
+    <g id="CTA" transform="translate(51 692.438)">
+      <path id="Path_7" data-name="Path 7" d="M7.473,5H304.527C308.654,5,312,9,312,13.942v30.18c0,4.939-3.346,8.942-7.473,8.942H7.473c-4.127,0-7.473-4-7.473-8.942V13.942C0,9,3.346,5,7.473,5Z" transform="translate(0 -5)" fill="#ff9241"/>
+      <text id="Send_Invite" data-name="Send Invite" transform="translate(76 12.563)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="39.473" y="14">Send Invite</tspan></text>
+    </g>
+    <g id="Group_3234" data-name="Group 3234" transform="translate(4.012 -10.262)">
+      <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M15.217,17.7,23.926,9A1.645,1.645,0,1,0,21.6,6.674l-9.867,9.86a1.642,1.642,0,0,0-.048,2.268l9.908,9.929a1.645,1.645,0,0,0,2.33-2.323Z" transform="translate(362.579 30.069)" fill="#fff"/>
+      <path id="Icon_ionic-ios-arrow-back-2" data-name="Icon ionic-ios-arrow-back" d="M3.967,11.506l8.709-8.7A1.645,1.645,0,1,0,10.346.481L.479,10.341a1.642,1.642,0,0,0-.048,2.268l9.908,9.929a1.645,1.645,0,1,0,2.33-2.323Z" transform="translate(377.472 59.28) rotate(180)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_1949" data-name="Rectangle 1949" width="370" height="47" rx="10" transform="translate(21 188)" fill="#254069"/>
+    <text id="_3939949rjf94494949440" data-name="3939949rjf94494949440" transform="translate(34 201)" fill="#8eb1e5" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="14">3939949rjf94494949440</tspan></text>
+    <text id="Copy" transform="translate(344 201)" fill="#8eb1e5" font-size="15" font-family="ArialMT, Arial"><tspan x="2.983" y="14">Copy</tspan></text>
+    <g id="Icon_feather-copy" data-name="Icon feather-copy" transform="translate(312 199)">
+      <path id="Path_8374" data-name="Path 8374" d="M15.5,13.5h9a2,2,0,0,1,2,2v9a2,2,0,0,1-2,2h-9a2,2,0,0,1-2-2v-9A2,2,0,0,1,15.5,13.5Z" transform="translate(-3.5 -3.5)" fill="none" stroke="#8eb1e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_8375" data-name="Path 8375" d="M6,16H5a2,2,0,0,1-2-2V5A2,2,0,0,1,5,3h9a2,2,0,0,1,2,2V6" transform="translate(0 0)" fill="none" stroke="#8eb1e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <g id="Group_3937" data-name="Group 3937">
+      <circle id="Ellipse_667" data-name="Ellipse 667" cx="34" cy="34" r="34" transform="translate(29 333)" fill="#254069"/>
+      <g id="_001-whatsapp" data-name="001-whatsapp" transform="translate(47 351)">
+        <path id="Path_8378" data-name="Path 8378" d="M16.054,0h-.008A16.041,16.041,0,0,0,3.056,25.459l-2,5.963,6.169-1.972A16.048,16.048,0,1,0,16.054,0Z" fill="#4caf50"/>
+        <path id="Path_8379" data-name="Path 8379" d="M125.933,132.413a4.529,4.529,0,0,1-3.15,2.265c-.839.179-1.934.321-5.622-1.208-4.717-1.954-7.754-6.747-7.991-7.058a9.167,9.167,0,0,1-1.906-4.841,5.124,5.124,0,0,1,1.641-3.906,2.332,2.332,0,0,1,1.641-.576c.2,0,.377.01.538.018.471.02.708.048,1.019.793.387.933,1.33,3.236,1.443,3.473a.955.955,0,0,1,.068.869,2.774,2.774,0,0,1-.52.736c-.237.273-.461.482-.7.774-.217.255-.461.528-.189,1a14.247,14.247,0,0,0,2.6,3.236,11.8,11.8,0,0,0,3.764,2.321,1.015,1.015,0,0,0,1.132-.179,19.421,19.421,0,0,0,1.254-1.661.9.9,0,0,1,1.152-.349c.433.15,2.727,1.284,3.2,1.519s.782.349.9.548A4,4,0,0,1,125.933,132.413Z" transform="translate(-100.539 -109.747)" fill="#fafafa"/>
+      </g>
+    </g>
+    <g id="Group_3938" data-name="Group 3938">
+      <circle id="Ellipse_668" data-name="Ellipse 668" cx="34" cy="34" r="34" transform="translate(125.001 333)" fill="#254069"/>
+      <g id="_002-instagram" data-name="002-instagram" transform="translate(142.702 351)">
+        <path id="Path_8380" data-name="Path 8380" d="M22.069,0H10.032A10.033,10.033,0,0,0,0,10.032V22.07A10.033,10.033,0,0,0,10.032,32.1H22.069A10.033,10.033,0,0,0,32.1,22.07V10.032A10.033,10.033,0,0,0,22.069,0Zm7.022,22.07a7.03,7.03,0,0,1-7.022,7.022H10.032A7.03,7.03,0,0,1,3.009,22.07V10.032A7.03,7.03,0,0,1,10.032,3.01H22.069a7.03,7.03,0,0,1,7.022,7.022Z" transform="translate(0.001)" fill="#fff"/>
+        <path id="Path_8381" data-name="Path 8381" d="M136.025,128a8.025,8.025,0,1,0,8.025,8.025A8.026,8.026,0,0,0,136.025,128Zm0,13.041a5.016,5.016,0,1,1,5.016-5.016A5.023,5.023,0,0,1,136.025,141.041Z" transform="translate(-119.974 -119.974)" fill="#fff"/>
+        <ellipse id="Ellipse_671" data-name="Ellipse 671" cx="1.069" cy="1.069" rx="1.069" ry="1.069" transform="translate(23.609 6.354)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_3939" data-name="Group 3939">
+      <circle id="Ellipse_669" data-name="Ellipse 669" cx="34" cy="34" r="34" transform="translate(219.999 333)" fill="#254069"/>
+      <g id="_003-facebook" data-name="003-facebook" transform="translate(238.41 351)">
+        <path id="Path_8382" data-name="Path 8382" d="M28.088,0H4.013A4.017,4.017,0,0,0,0,4.013V28.089A4.017,4.017,0,0,0,4.013,32.1H28.088A4.017,4.017,0,0,0,32.1,28.089V4.013A4.017,4.017,0,0,0,28.088,0Z" transform="translate(0.001)" fill="#1976d2"/>
+        <path id="Path_8383" data-name="Path 8383" d="M207.047,106.032h-5.016v-4.013c0-1.107.9-1,2.006-1h2.006V96h-4.013a6.019,6.019,0,0,0-6.019,6.019v4.013H192v5.016h4.013v11.035h6.019V111.047h3.009Z" transform="translate(-179.961 -89.981)" fill="#fafafa"/>
+      </g>
+    </g>
+    <g id="Group_3940" data-name="Group 3940">
+      <circle id="Ellipse_670" data-name="Ellipse 670" cx="34" cy="34" r="34" transform="translate(316 333)" fill="#254069"/>
+      <g id="_004-messenger" data-name="004-messenger" transform="translate(334.118 351)">
+        <path id="Path_8384" data-name="Path 8384" d="M16.05,0C7.187,0,0,6.653,0,14.861A14.45,14.45,0,0,0,5.981,26.434V32.1l5.465-3a17.261,17.261,0,0,0,4.6.622c8.864,0,16.05-6.653,16.05-14.861S24.914,0,16.05,0Z" transform="translate(0)" fill="#1e88e5"/>
+        <path id="Path_8385" data-name="Path 8385" d="M101.118,179.969l-4.087-4.36-7.975,4.36,8.772-9.313,4.187,4.36,7.877-4.36Z" transform="translate(-83.473 -159.956)" fill="#fafafa"/>
+      </g>
+    </g>
+    <g id="Group_3936" data-name="Group 3936">
+      <circle id="Ellipse_672" data-name="Ellipse 672" cx="34" cy="34" r="34" transform="translate(29 424)" fill="#254069"/>
+      <g id="_005-hangouts" data-name="005-hangouts" transform="translate(49.007 441.949)">
+        <path id="Path_8386" data-name="Path 8386" d="M46.044,0a14.046,14.046,0,0,0-2.006,27.948V32.1h1c8.015,0,15.047-8.439,15.047-18.057A14.061,14.061,0,0,0,46.044,0Z" transform="translate(-32)" fill="#4caf50"/>
+        <g id="Group_3517" data-name="Group 3517" transform="translate(6.019 10.032)">
+          <path id="Path_8387" data-name="Path 8387" d="M128,160v6.019h3.009v3.009c3.009-.837,3.009-2.791,3.009-2.791V160Z" transform="translate(-128 -160)" fill="#fafafa"/>
+          <path id="Path_8388" data-name="Path 8388" d="M288,160v6.019h3.009v3.009c3.009-.837,3.009-2.791,3.009-2.791V160Z" transform="translate(-277.968 -160)" fill="#fafafa"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_3935" data-name="Group 3935">
+      <circle id="Ellipse_673" data-name="Ellipse 673" cx="34" cy="34" r="34" transform="translate(125 424)" fill="#254069"/>
+      <path id="Icon_material-message" data-name="Icon material-message" d="M30,3H6A3,3,0,0,0,3.015,6L3,33l6-6H30a3.009,3.009,0,0,0,3-3V6A3.009,3.009,0,0,0,30,3ZM27,21H9V18H27Zm0-4.5H9v-3H27ZM27,12H9V9H27Z" transform="translate(140.999 441.051)" fill="#ffd341"/>
+    </g>
+  </g>
+</svg>

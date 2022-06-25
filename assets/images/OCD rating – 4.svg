@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="1030" viewBox="0 0 412 1030">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aadd"/>
+      <stop offset="1" stop-color="#1f64cc"/>
+    </linearGradient>
+    <filter id="Rectangle_1570" x="-24" y="341" width="460" height="709" filterUnits="userSpaceOnUse">
+      <feOffset dy="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="356" height="242" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="369.5" height="12.698" fill="none"/>
+    </clipPath>
+    <filter id="Path_7" x="-3" y="863.936" width="418" height="96.064" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-2"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_7-2" x="-3" y="932" width="418" height="96.064" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-3"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-OCD_rating_4">
+      <rect width="412" height="1030"/>
+    </clipPath>
+  </defs>
+  <g id="OCD_rating_4" data-name="OCD rating – 4" clip-path="url(#clip-OCD_rating_4)">
+    <rect width="412" height="1030" fill="url(#linear-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1570)">
+      <path id="Rectangle_1570-2" data-name="Rectangle 1570" d="M30,0H382a30,30,0,0,1,30,30V661a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V30A30,30,0,0,1,30,0Z" transform="translate(0 368)" fill="#102646"/>
+    </g>
+    <text id="Rate_your_disappearance_distress_SUDS_" data-name="Rate your disappearance distress (SUDS)" transform="translate(30 49)" fill="#fff" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Rate your disappearance distress (SUDS)</tspan></text>
+    <g id="Repeat_Grid_18" data-name="Repeat Grid 18" transform="translate(28 93.302)" clip-path="url(#clip-path)">
+      <g transform="translate(-31 -132)">
+        <path id="Rectangle_1848" data-name="Rectangle 1848" d="M5.5,0h0A5.5,5.5,0,0,1,11,5.5V242a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5.5A5.5,5.5,0,0,1,5.5,0Z" transform="translate(45 132)" fill="#2e5b9f" opacity="0.5"/>
+      </g>
+      <g transform="translate(33 -132)">
+        <path id="Rectangle_1848-2" data-name="Rectangle 1848" d="M5.5,0h0A5.5,5.5,0,0,1,11,5.5V242a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5.5A5.5,5.5,0,0,1,5.5,0Z" transform="translate(45 132)" fill="#2e5b9f" opacity="0.5"/>
+      </g>
+      <g transform="translate(97 -132)">
+        <path id="Rectangle_1848-3" data-name="Rectangle 1848" d="M5.5,0h0A5.5,5.5,0,0,1,11,5.5V242a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5.5A5.5,5.5,0,0,1,5.5,0Z" transform="translate(45 132)" fill="#2e5b9f" opacity="0.5"/>
+      </g>
+      <g transform="translate(161 -132)">
+        <path id="Rectangle_1848-4" data-name="Rectangle 1848" d="M5.5,0h0A5.5,5.5,0,0,1,11,5.5V242a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5.5A5.5,5.5,0,0,1,5.5,0Z" transform="translate(45 132)" fill="#2e5b9f" opacity="0.5"/>
+      </g>
+      <g transform="translate(225 -132)">
+        <path id="Rectangle_1848-5" data-name="Rectangle 1848" d="M5.5,0h0A5.5,5.5,0,0,1,11,5.5V242a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5.5A5.5,5.5,0,0,1,5.5,0Z" transform="translate(45 132)" fill="#2e5b9f" opacity="0.5"/>
+      </g>
+      <g transform="translate(289 -132)">
+        <path id="Rectangle_1848-6" data-name="Rectangle 1848" d="M5.5,0h0A5.5,5.5,0,0,1,11,5.5V242a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5.5A5.5,5.5,0,0,1,5.5,0Z" transform="translate(45 132)" fill="#2e5b9f" opacity="0.5"/>
+      </g>
+    </g>
+    <path id="Path_6725" data-name="Path 6725" d="M-20026,14996h368.617" transform="translate(20047 -14660.698)" fill="none" stroke="#fff" stroke-width="2"/>
+    <g id="Repeat_Grid_19" data-name="Repeat Grid 19" transform="translate(21.5 325.302)" clip-path="url(#clip-path-2)">
+      <g transform="translate(-49.5 -374)">
+        <path id="Path_6726" data-name="Path 6726" d="M-19997,14996v7.649" transform="translate(20047 -14622)" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+      <g transform="translate(-28.5 -374)">
+        <path id="Path_6726-2" data-name="Path 6726" d="M-19997,14996v7.649" transform="translate(20047 -14622)" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+      <g transform="translate(-7.5 -374)">
+        <path id="Path_6726-3" data-name="Path 6726" d="M-19997,14996v7.649" transform="translate(20047 -14622)" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+      <g transform="translate(13.5 -374)">
+        <path id="Path_6726-4" data-name="Path 6726" d="M-19997,14996v7.649" transform="translate(20047 -14622)" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+      <g transform="translate(34.5 -374)">
+        <path id="Path_6726-5" data-name="Path 6726" d="M-19997,14996v7.649" transform="translate(20047 -14622)" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+      <g transform="translate(55.5 -374)">
+        <path id="Path_6726-6" data-name="Path 6726" d="M-19997,14996v7.649" transform="translate(20047 -14622)" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+      <g transform="translate(76.5 -374)">
+        <path id="Path_6726-7" data-name="Path 6726" d="M-19997,14996v7.649" transform="translate(20047 -14622)" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+      <g transform="translate(97.5 -374)">
+        <path id="Path_6726-8" data-name="Path 6726" d="M-19997,14996v7.649" transform="translate(20047 -14622)" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+      <g transform="translate(118.5 -374)">
+        <path id="Path_6726-9" data-name="Path 6726" d="M-19997,14996v7.649" transform="translate(20047 -14622)" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+      <g transform="translate(139.5 -374)">
+        <path id="Path_6726-10" data-name="Path 6726" d="M-19997,14996v7.649" transform="translate(20047 -14622)" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+      <g transform="translate(160.5 -374)">
+        <path id="Path_6726-11" data-name="Path 6726" d="M-19997,14996v7.649" transform="translate(20047 -14622)" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+      <g transform="translate(181.5 -374)">
+        <path id="Path_6726-12" data-name="Path 6726" d="M-19997,14996v7.649" transform="translate(20047 -14622)" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+      <g transform="translate(202.5 -374)">
+        <path id="Path_6726-13" data-name="Path 6726" d="M-19997,14996v7.649" transform="translate(20047 -14622)" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+      <g transform="translate(223.5 -374)">
+        <path id="Path_6726-14" data-name="Path 6726" d="M-19997,14996v7.649" transform="translate(20047 -14622)" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+      <g transform="translate(244.5 -374)">
+        <path id="Path_6726-15" data-name="Path 6726" d="M-19997,14996v7.649" transform="translate(20047 -14622)" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+      <g transform="translate(265.5 -374)">
+        <path id="Path_6726-16" data-name="Path 6726" d="M-19997,14996v7.649" transform="translate(20047 -14622)" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+      <g transform="translate(286.5 -374)">
+        <path id="Path_6726-17" data-name="Path 6726" d="M-19997,14996v7.649" transform="translate(20047 -14622)" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+      <g transform="translate(307.5 -374)">
+        <path id="Path_6726-18" data-name="Path 6726" d="M-19997,14996v7.649" transform="translate(20047 -14622)" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_3907" data-name="Group 3907" transform="translate(262.499 43)">
+      <g id="Rectangle_1849" data-name="Rectangle 1849" transform="translate(31 171)" fill="#1e64cc" stroke="#d2dff2" stroke-width="1">
+        <rect width="59" height="35" rx="6" stroke="none"/>
+        <rect x="0.5" y="0.5" width="58" height="34" rx="5.5" fill="none"/>
+      </g>
+      <text id="_02" data-name="02" transform="translate(59 194)" fill="#fff" font-size="15" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.015em"><tspan x="-8.455" y="0">02</tspan></text>
+    </g>
+    <path id="Path_9515" data-name="Path 9515" d="M-4815-15781s57.1,1.794,92.977,38.686,48.189-5.391,88.868,8.162,73.849,46.05,73.849,46.05" transform="translate(4863 15964)" fill="none" stroke="#ff9241" stroke-linecap="round" stroke-width="4"/>
+    <path id="Rectangle_2147" data-name="Rectangle 2147" d="M5.5,0h0A5.5,5.5,0,0,1,11,5.5V59.555a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5.5A5.5,5.5,0,0,1,5.5,0Z" transform="translate(298.499 274.445)" fill="#102646"/>
+    <g id="Ellipse_759" data-name="Ellipse 759" transform="translate(293.499 264.445)" fill="#fff" stroke="#1e64c9" stroke-width="6">
+      <circle cx="11" cy="11" r="11" stroke="none"/>
+      <circle cx="11" cy="11" r="8" fill="none"/>
+    </g>
+    <g id="Group_3393" data-name="Group 3393" transform="translate(6.499 -42.698)">
+      <g id="Rectangle_1849-2" data-name="Rectangle 1849" transform="translate(31 171)" fill="#1e64cc" stroke="#d2dff2" stroke-width="1">
+        <rect width="59" height="35" rx="6" stroke="none"/>
+        <rect x="0.5" y="0.5" width="58" height="34" rx="5.5" fill="none"/>
+      </g>
+      <text id="_08" data-name="08" transform="translate(59 194)" fill="#fff" font-size="15" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.015em"><tspan x="-8.455" y="0">08</tspan></text>
+    </g>
+    <path id="Rectangle_1850" data-name="Rectangle 1850" d="M5.5,0h0A5.5,5.5,0,0,1,11,5.5V151a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5.5A5.5,5.5,0,0,1,5.5,0Z" transform="translate(42.499 183.302)" fill="#102646"/>
+    <g id="Ellipse_641" data-name="Ellipse 641" transform="translate(37.499 173.302)" fill="#fff" stroke="#1e64c9" stroke-width="6">
+      <circle cx="11" cy="11" r="11" stroke="none"/>
+      <circle cx="11" cy="11" r="8" fill="none"/>
+    </g>
+    <text id="View_Less" data-name="View Less" transform="translate(153 823)" fill="#d2dff2" font-size="18" font-family="ArialMT, Arial" text-decoration="underline"><tspan x="12.644" y="16">View Less</tspan></text>
+    <g id="Group_3906" data-name="Group 3906" transform="translate(21 406)">
+      <rect id="Rectangle_1842" data-name="Rectangle 1842" width="370" height="55" rx="6" fill="#edf4fd"/>
+      <text id="Time" transform="translate(9 34)" fill="#2e5b9f" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Time</tspan></text>
+      <text id="_00_:_00" data-name="00 : 00" transform="translate(99 34)" fill="#2e5b9f" font-size="16" font-family="ArialMT, Arial" opacity="0.5"><tspan x="0" y="0">00 : 00</tspan></text>
+      <path id="Path_6714" data-name="Path 6714" d="M0,0H19.817" transform="translate(72.065 17.5) rotate(90)" fill="none" stroke="#8eb1e5" stroke-width="1"/>
+    </g>
+    <g id="Group_3088" data-name="Group 3088" transform="translate(21 474.517)">
+      <rect id="Rectangle_1716" data-name="Rectangle 1716" width="370" height="98" rx="10" transform="translate(0 0.483)" fill="#edf4fd"/>
+      <text id="Rating" transform="translate(9 31.483)" fill="#2e5b9f" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Rating</tspan></text>
+      <text id="_03" data-name="03" transform="translate(339 63.483)" fill="#2e5b9f" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-17.256" y="0">03</tspan></text>
+      <text id="Severity" transform="translate(355 82.483)" fill="#2e5b9f" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-48.563" y="0">Severity</tspan></text>
+      <g id="Group_3102" data-name="Group 3102" transform="translate(14 63.483)">
+        <rect id="Rectangle_1708" data-name="Rectangle 1708" width="262" height="5" rx="2.5" fill="#8eb1e5"/>
+      </g>
+      <circle id="Ellipse_571" data-name="Ellipse 571" cx="11" cy="11" r="11" transform="translate(62 54.483)" fill="#1e64cc"/>
+    </g>
+    <g id="CTA" transform="translate(21 885.373)">
+      <g transform="matrix(1, 0, 0, 1, -21, -885.37)" filter="url(#Path_7)">
+        <path id="Path_7-3" data-name="Path 7" d="M8.862,5H361.138A8.9,8.9,0,0,1,370,13.942v30.18a8.9,8.9,0,0,1-8.862,8.942H8.862A8.9,8.9,0,0,1,0,44.122V13.942A8.9,8.9,0,0,1,8.862,5Z" transform="translate(21 879.94)" fill="#ff9241"/>
+      </g>
+      <text id="Submit" transform="translate(185 28.563)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="-21.786" y="0">Submit</tspan></text>
+    </g>
+    <g id="CTA-2" data-name="CTA" transform="translate(21 953.438)">
+      <g transform="matrix(1, 0, 0, 1, -21, -953.44)" filter="url(#Path_7-2)">
+        <g id="Path_7-4" data-name="Path 7" transform="translate(21 948)" fill="none">
+          <path d="M8.862,5H361.138A8.9,8.9,0,0,1,370,13.942v30.18a8.9,8.9,0,0,1-8.862,8.942H8.862A8.9,8.9,0,0,1,0,44.122V13.942A8.9,8.9,0,0,1,8.862,5Z" stroke="none"/>
+          <path d="M 8.86224365234375 5.999980926513672 C 4.527008056640625 5.999980926513672 1 9.562831878662109 1 13.94218063354492 L 1 44.1220817565918 C 1 48.50143051147461 4.527008056640625 52.06428146362305 8.86224365234375 52.06428146362305 L 361.13818359375 52.06428146362305 C 365.4734802246094 52.06428146362305 369.00048828125 48.50143051147461 369.00048828125 44.1220817565918 L 369.00048828125 13.94218063354492 C 369.00048828125 9.562831878662109 365.4734802246094 5.999980926513672 361.13818359375 5.999980926513672 L 8.86224365234375 5.999980926513672 M 8.86224365234375 4.999980926513672 L 361.13818359375 4.999980926513672 C 366.0326843261719 4.999980926513672 370.00048828125 9.003532409667969 370.00048828125 13.94218063354492 L 370.00048828125 44.1220817565918 C 370.00048828125 49.06072998046875 366.0326843261719 53.06428146362305 361.13818359375 53.06428146362305 L 8.86224365234375 53.06428146362305 C 3.967742919921875 53.06428146362305 0 49.06072998046875 0 44.1220817565918 L 0 13.94218063354492 C 0 9.003532409667969 3.967742919921875 4.999980926513672 8.86224365234375 4.999980926513672 Z" stroke="none" fill="#edf4fd"/>
+        </g>
+      </g>
+      <text id="Cancel" transform="translate(185 28.563)" fill="#edf4fd" font-size="14" font-family="ArialMT, Arial"><tspan x="-21.79" y="0">Cancel</tspan></text>
+    </g>
+    <text id="Previous_Rating" data-name="Previous Rating" transform="translate(21 781)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Previous Rating</tspan></text>
+    <text id="Target" transform="translate(21 741)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Target</tspan></text>
+    <text id="_9_10" data-name="9/10" transform="translate(182 780)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">9/10</tspan></text>
+    <text id="_2_mins" data-name="2 mins" transform="translate(182 740)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">2 mins</tspan></text>
+    <text id="Obsession_Telling_someone_about_the_violent_thought_like_accidently_Read_More" data-name="Obsession
+Telling someone about the violent thought (like accidently Read More" transform="translate(182 613)" fill="#d2dff2" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="13">Obsession</tspan><tspan font-family="ArialMT, Arial" font-weight="400"><tspan x="0" y="37">Telling someone about the violent </tspan><tspan x="0" y="61">thought (like accidently </tspan><tspan y="61" text-decoration="underline">Read </tspan><tspan x="0" y="85" text-decoration="underline">More</tspan></tspan></text>
+    <text id="Exercise" transform="translate(21 613)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Exercise</tspan></text>
+  </g>
+</svg>
